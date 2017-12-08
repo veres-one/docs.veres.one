@@ -1,0 +1,5 @@
+site_name: Veres One
+theme:
+  name: 'material'
+pages:
+    - Home: index.md
