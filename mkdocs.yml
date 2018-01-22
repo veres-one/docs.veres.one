@@ -1,5 +1,20 @@
 site_name: Veres One
 theme:
   name: 'material'
+  custom_dir: veresone_theme
 pages:
-    - Home: index.md
+    - 'Home': 'index.md'
+    - 'Summary': 'summary.md'
+    - 'Credentials': 'credentials.md'
+    - 'Sectors': 'sectors.md'
+    - 'The Network':
+        - 'Intro': 'ecosystem/index.md'
+        - 'Nodes': 'ecosystem/nodes.md'
+        - 'Accelerators': 'ecosystem/accelerators.md'
+        - 'The Maintainer': 'ecosystem/maintainer.md'
+        - 'The Board of Governors': 'ecosystem/governors.md'
+    - 'Developers':
+        - 'Intro': 'developers/index.md'
+        - 'Quickstart': 'developers/quickstart.md'
+        - 'Guides': 'developers/guides.md'
+        - 'REST API': 'developers/rest-api.md'
