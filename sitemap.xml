@@ -4,9 +4,95 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2017-12-07</lastmod>
+     <lastmod>2018-01-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
+    <url>
+     <loc>/summary/</loc>
+     <lastmod>2018-01-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/credentials/</loc>
+     <lastmod>2018-01-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/sectors/</loc>
+     <lastmod>2018-01-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>/ecosystem/</loc>
+     <lastmod>2018-01-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/ecosystem/nodes/</loc>
+     <lastmod>2018-01-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/ecosystem/accelerators/</loc>
+     <lastmod>2018-01-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/ecosystem/maintainer/</loc>
+     <lastmod>2018-01-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/ecosystem/governors/</loc>
+     <lastmod>2018-01-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/developers/</loc>
+     <lastmod>2018-01-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/developers/quickstart/</loc>
+     <lastmod>2018-01-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/developers/guides/</loc>
+     <lastmod>2018-01-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/developers/rest-api/</loc>
+     <lastmod>2018-01-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
 </urlset>
