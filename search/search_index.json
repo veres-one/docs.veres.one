@@ -52,23 +52,68 @@
         }, 
         {
             "location": "/credentials/", 
-            "text": "Topic\n\n\nTBD", 
+            "text": "Veres One and Verifiable Credentials\n\n\nCredentials are a part of our daily lives; driver's licenses are used to\nassert that we are capable of operating a motor vehicle, university degrees\ncan be used to assert our level of education, and government-issued passports\nenable holders to travel between countries.\n\n\nThere is currently global standards work that is being undertaken at the\nWorld Wide Web Consortium on Verifiable Credentials, which are a type of\ndigital credential that are cryptographically secure, privacy respecting, and\nautomatically verifiable.\n\n\nVeres One supports these new types of Verifiable Credentials. The system enables\nmore secure and efficient exchange of customer and employee credentials\n(ID cards, digital offers, receipts, tickets) across a wide variety of\nindustries (government, education, healthcare, financial services).\nOther benefits include reduced risk and easier regulatory compliance.\n\n\nIssuers\n\n\nIssuers enable organizations to issue digital credentials to customers and \nemployees, who can optionally manage their own information. Organizations no \nlonger carry the responsibility of administering their users\u2019 sensitive data.\n\n\nA digital credential is made tamper-proof through the use of advanced \ncryptography. Veres One provides the underpinning identifier and\ncryptography framework that enables issuers to issue credentials to customers.\n\n\nWallets\n\n\nWallets enable people to securely and privately store digital credentials. \nWith digital wallets, one may receive credentials from Issuers and present them \nto Verifiers.\n\n\nWallets are often cloud-based, work across a variety of devices, and cannot \nbe lost or stolen. Data is portable, enabling one to easily switch from one \nwallet to another.\n\n\nVerifiers\n\n\nOrganizations utilize Verifiers to evaluate the authenticity of digital \ncredentials. Verifiers use advanced cryptography to ensure that digital \ncredentials cannot be easily tampered with or forged.\n\n\nIn some cases, credential Issuers may also be credential Verifiers, like when \na retailer issues a digital offer and then later verifies that offer during \na purchase. In other cases, the Issuer and Verifier may be separate entities, \nlike when a pharmacy verifies the authenticity of a digital prescription \nthat was issued by a physician.", 
             "title": "Credentials"
         }, 
         {
-            "location": "/credentials/#topic", 
-            "text": "TBD", 
-            "title": "Topic"
+            "location": "/credentials/#veres-one-and-verifiable-credentials", 
+            "text": "Credentials are a part of our daily lives; driver's licenses are used to\nassert that we are capable of operating a motor vehicle, university degrees\ncan be used to assert our level of education, and government-issued passports\nenable holders to travel between countries.  There is currently global standards work that is being undertaken at the\nWorld Wide Web Consortium on Verifiable Credentials, which are a type of\ndigital credential that are cryptographically secure, privacy respecting, and\nautomatically verifiable.  Veres One supports these new types of Verifiable Credentials. The system enables\nmore secure and efficient exchange of customer and employee credentials\n(ID cards, digital offers, receipts, tickets) across a wide variety of\nindustries (government, education, healthcare, financial services).\nOther benefits include reduced risk and easier regulatory compliance.", 
+            "title": "Veres One and Verifiable Credentials"
+        }, 
+        {
+            "location": "/credentials/#issuers", 
+            "text": "Issuers enable organizations to issue digital credentials to customers and \nemployees, who can optionally manage their own information. Organizations no \nlonger carry the responsibility of administering their users\u2019 sensitive data.  A digital credential is made tamper-proof through the use of advanced \ncryptography. Veres One provides the underpinning identifier and\ncryptography framework that enables issuers to issue credentials to customers.", 
+            "title": "Issuers"
+        }, 
+        {
+            "location": "/credentials/#wallets", 
+            "text": "Wallets enable people to securely and privately store digital credentials. \nWith digital wallets, one may receive credentials from Issuers and present them \nto Verifiers.  Wallets are often cloud-based, work across a variety of devices, and cannot \nbe lost or stolen. Data is portable, enabling one to easily switch from one \nwallet to another.", 
+            "title": "Wallets"
+        }, 
+        {
+            "location": "/credentials/#verifiers", 
+            "text": "Organizations utilize Verifiers to evaluate the authenticity of digital \ncredentials. Verifiers use advanced cryptography to ensure that digital \ncredentials cannot be easily tampered with or forged.  In some cases, credential Issuers may also be credential Verifiers, like when \na retailer issues a digital offer and then later verifies that offer during \na purchase. In other cases, the Issuer and Verifier may be separate entities, \nlike when a pharmacy verifies the authenticity of a digital prescription \nthat was issued by a physician.", 
+            "title": "Verifiers"
         }, 
         {
             "location": "/sectors/", 
-            "text": "Topic\n\n\nTBD", 
+            "text": "Veres One Sectors and Applications\n\n\nVeres One is useful in a variety of industries that have strong requirements\naround identifiers and identities.\n\n\nGovernment\n\n\nGovernments can issue digital identification such as driver\u2019s licenses,\npassports, metro passes, food stamp vouchers, or for online voting. Citizens\ncontrol who their identity information is shared with and when.\n\n\nHealthcare\n\n\nVeres One provides a common platform for disparate entities within the\nhealthcare system to to interact with high assurance. Physician licenses,\ndigital prescriptions, and medical records are just some examples of identity\ndata that can be effortlessly verified.\n\n\nFinancial Services\n\n\nBanks, credit unions, and other financial institutions benefit from\nstronger identity verification and cost effective know-your - customer\nchecks, reducing fraud and easing regulatory compliance.\n\n\nHumanitarian\n\n\nOver one billion people in the world are unable to prove their identity,\nrestricting access to financial services, education, and healthcare. Developing\ncountries and service organizations can use Veres One to provide a root\nidentity enables access services and helps coordinate aid.\n\n\nTrade\n\n\nTrade is a vast and complex segment of the economy consisting of many entities.\nThese entities can be more strongly authenticated along entire supply chains,\nreducing friction in identity management and fraud.\n\n\nSocial\n\n\nSocial apps including decentralized social networks, peer to peer messaging,\nand sharing economy apps can benefit from using Veres One. It enables maximum\nuser centricity and data portability.", 
             "title": "Sectors"
         }, 
         {
-            "location": "/sectors/#topic", 
-            "text": "TBD", 
-            "title": "Topic"
+            "location": "/sectors/#veres-one-sectors-and-applications", 
+            "text": "Veres One is useful in a variety of industries that have strong requirements\naround identifiers and identities.", 
+            "title": "Veres One Sectors and Applications"
+        }, 
+        {
+            "location": "/sectors/#government", 
+            "text": "Governments can issue digital identification such as driver\u2019s licenses,\npassports, metro passes, food stamp vouchers, or for online voting. Citizens\ncontrol who their identity information is shared with and when.", 
+            "title": "Government"
+        }, 
+        {
+            "location": "/sectors/#healthcare", 
+            "text": "Veres One provides a common platform for disparate entities within the\nhealthcare system to to interact with high assurance. Physician licenses,\ndigital prescriptions, and medical records are just some examples of identity\ndata that can be effortlessly verified.", 
+            "title": "Healthcare"
+        }, 
+        {
+            "location": "/sectors/#financial-services", 
+            "text": "Banks, credit unions, and other financial institutions benefit from\nstronger identity verification and cost effective know-your - customer\nchecks, reducing fraud and easing regulatory compliance.", 
+            "title": "Financial Services"
+        }, 
+        {
+            "location": "/sectors/#humanitarian", 
+            "text": "Over one billion people in the world are unable to prove their identity,\nrestricting access to financial services, education, and healthcare. Developing\ncountries and service organizations can use Veres One to provide a root\nidentity enables access services and helps coordinate aid.", 
+            "title": "Humanitarian"
+        }, 
+        {
+            "location": "/sectors/#trade", 
+            "text": "Trade is a vast and complex segment of the economy consisting of many entities.\nThese entities can be more strongly authenticated along entire supply chains,\nreducing friction in identity management and fraud.", 
+            "title": "Trade"
+        }, 
+        {
+            "location": "/sectors/#social", 
+            "text": "Social apps including decentralized social networks, peer to peer messaging,\nand sharing economy apps can benefit from using Veres One. It enables maximum\nuser centricity and data portability.", 
+            "title": "Social"
         }, 
         {
             "location": "/ecosystem/", 
