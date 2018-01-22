@@ -117,13 +117,13 @@
         }, 
         {
             "location": "/ecosystem/", 
-            "text": "Topic\n\n\nTBD", 
+            "text": "The Veres One Network\n\n\nThe Veres One Network is a collection of Nodes that maintain the decentralized\nledger and consists of a number of roles:\n\n\n\n\nEntities\n (people, organizations, and devices) use the Network to create\n  and update decentralized identifiers and their associated metadata.\n\n\nNodes\n are responsible for providing computational and storage resources\n  for the Network. As the system is permissionless, any person or organization\n  may run one or more Nodes.\n\n\nAccelerators\n enable entities to increase the speed at which Entities\n  can create and update identifiers on the Network.\n\n\nThe Maintainer\n is responsible for maintaining the Veres One software\n  including continuous security review, managing community contributions,\n  correcting software defects, and implementing new features.\n\n\nThe Board of Governors\n is responsible for governance.\n  This includes ensuring the proper execution of the Veres One Project\n  mission and managing, collecting, and distributing funds according to\n  the funding model.", 
             "title": "Intro"
         }, 
         {
-            "location": "/ecosystem/#topic", 
-            "text": "TBD", 
-            "title": "Topic"
+            "location": "/ecosystem/#the-veres-one-network", 
+            "text": "The Veres One Network is a collection of Nodes that maintain the decentralized\nledger and consists of a number of roles:   Entities  (people, organizations, and devices) use the Network to create\n  and update decentralized identifiers and their associated metadata.  Nodes  are responsible for providing computational and storage resources\n  for the Network. As the system is permissionless, any person or organization\n  may run one or more Nodes.  Accelerators  enable entities to increase the speed at which Entities\n  can create and update identifiers on the Network.  The Maintainer  is responsible for maintaining the Veres One software\n  including continuous security review, managing community contributions,\n  correcting software defects, and implementing new features.  The Board of Governors  is responsible for governance.\n  This includes ensuring the proper execution of the Veres One Project\n  mission and managing, collecting, and distributing funds according to\n  the funding model.", 
+            "title": "The Veres One Network"
         }, 
         {
             "location": "/ecosystem/nodes/", 
