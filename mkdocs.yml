@@ -19,4 +19,5 @@ pages:
         - 'Quickstart': 'developers/quickstart.md'
         - 'Guides': 'developers/guides.md'
         - 'REST API': 'developers/rest-api.md'
+    - 'FAQ': 'faq.md'
     - 'About': 'about.md'

@@ -1,8 +1,8 @@
 {% if page.is_homepage %}
   {% extends "landing.html" %}
-{% elif page.canonical_url.endswith("/why/") %}
+{% elif page.title == "Why Veres One?" %}
   {% extends "why.html" %}
-{% elif page.canonical_url.endswith("/about/") %}
+{% elif page.title == "About" %}
   {% extends "about.html" %}
 {% else %}
   {% extends "base.html" %}
