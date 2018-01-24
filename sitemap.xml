@@ -19,6 +19,14 @@
 
     
     <url>
+     <loc>/why/</loc>
+     <lastmod>2018-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
      <loc>/credentials/</loc>
      <lastmod>2018-01-24</lastmod>
      <changefreq>daily</changefreq>
@@ -93,6 +101,22 @@
      <changefreq>daily</changefreq>
     </url>
         
+    
+
+    
+    <url>
+     <loc>/faq/</loc>
+     <lastmod>2018-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/about/</loc>
+     <lastmod>2018-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
     
 
 </urlset>

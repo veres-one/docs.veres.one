@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "The Veres One Project", 
+            "text": "The Veres One Project\n\n\nPLACEHOLDER PAGE", 
             "title": "Home"
         }, 
         {
             "location": "/#the-veres-one-project", 
-            "text": "", 
+            "text": "PLACEHOLDER PAGE", 
             "title": "The Veres One Project"
         }, 
         {
@@ -49,6 +49,16 @@
             "location": "/summary/#further-reading", 
             "text": "Readers that would like to learn more about this initiative may find the following more detailed documentation and specifications useful:   Veres One Token Economics  (coming soon) - An exploration of the the Veres One Token and ecosystem.  Veres One Technical White Paper  (coming soon) - A technical description of the functionality of the Veres One Blockchain.  Decentralized Identifier Specification  - The technical specification for Decentralized Identifiers.  Veres One Testnet Website  - The Veres One Testnet website used by software developers to test the website.  Verifiable Credentials Specification  - The technical specification for W3C Verifiable Credentials, which use Decentralized Identifiers and the Veres One Blockchain.  Self-Sovereign Identity Primer  - An introduction to self-sovereign identity.  Rebooting the Web of Trust  - The series of workshops that are incubating much of the work that led to the Veres One Blockchain.", 
             "title": "Further Reading"
+        }, 
+        {
+            "location": "/why/", 
+            "text": "Why Veres One?\n\n\nPLACEHOLDER PAGE", 
+            "title": "Why Veres One?"
+        }, 
+        {
+            "location": "/why/#why-veres-one", 
+            "text": "PLACEHOLDER PAGE", 
+            "title": "Why Veres One?"
         }, 
         {
             "location": "/credentials/", 
@@ -204,6 +214,36 @@
             "location": "/developers/rest-api/#topic", 
             "text": "TBD", 
             "title": "Topic"
+        }, 
+        {
+            "location": "/faq/", 
+            "text": "Frequently Asked Questions\n\n\nThis is a running list of frequently asked questions that the Veres One Project\nreceives from individuals.\n\n\nWhy is the Maintainer separate from the Veres One Project?\n\n\nGovernments are often split into branches such as judicial, executive, and\nlegislative to prevent corruption. In the same way, the Veres One Project is\nseparated into a Maintainer (technical), Board of Governors (governance),\nand Nodes (execution). Each group is responsible for a different aspect of the\necosystem and is separated from the other such that common forms of corruption\nare far more difficult to achieve if each of these groups were to operate under\nthe same umbrella.\n\n\nWhy isn't the Maintainer required to be a non-profit?\n\n\nThe \nBoard of Governors\n selects the \nMaintainer\n based on technical\nmerit and in order to help ensure that the talent pool is as large as possible,\nthere are no restrictions placed on the type of organization the Maintainer\ncan be. In order to prevent the \nMaintainer\n from charging exhorbitant rates,\na competitive bid process is used that allows a modest 20% profit while also\napplying pressure to keep maintenance costs down.", 
+            "title": "FAQ"
+        }, 
+        {
+            "location": "/faq/#frequently-asked-questions", 
+            "text": "This is a running list of frequently asked questions that the Veres One Project\nreceives from individuals.", 
+            "title": "Frequently Asked Questions"
+        }, 
+        {
+            "location": "/faq/#why-is-the-maintainer-separate-from-the-veres-one-project", 
+            "text": "Governments are often split into branches such as judicial, executive, and\nlegislative to prevent corruption. In the same way, the Veres One Project is\nseparated into a Maintainer (technical), Board of Governors (governance),\nand Nodes (execution). Each group is responsible for a different aspect of the\necosystem and is separated from the other such that common forms of corruption\nare far more difficult to achieve if each of these groups were to operate under\nthe same umbrella.", 
+            "title": "Why is the Maintainer separate from the Veres One Project?"
+        }, 
+        {
+            "location": "/faq/#why-isnt-the-maintainer-required-to-be-a-non-profit", 
+            "text": "The  Board of Governors  selects the  Maintainer  based on technical\nmerit and in order to help ensure that the talent pool is as large as possible,\nthere are no restrictions placed on the type of organization the Maintainer\ncan be. In order to prevent the  Maintainer  from charging exhorbitant rates,\na competitive bid process is used that allows a modest 20% profit while also\napplying pressure to keep maintenance costs down.", 
+            "title": "Why isn't the Maintainer required to be a non-profit?"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "About Us\n\n\nPLACEHOLDER PAGE", 
+            "title": "About"
+        }, 
+        {
+            "location": "/about/#about-us", 
+            "text": "PLACEHOLDER PAGE", 
+            "title": "About Us"
         }
     ]
 }
