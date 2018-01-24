@@ -1,5 +1,5 @@
 
-# Veres Ones Nodes
+# Veres One Nodes
 
 Nodes are responsible for providing computational and storage
 resources for the Network. As the system is permissionless,
