@@ -127,13 +127,13 @@
         }, 
         {
             "location": "/ecosystem/nodes/", 
-            "text": "Topic\n\n\nTBD", 
+            "text": "Veres One Nodes\n\n\nNodes are responsible for providing computational and storage\nresources for the Network. As the system is permissionless,\nany person or organization may run one or more Nodes.", 
             "title": "Nodes"
         }, 
         {
-            "location": "/ecosystem/nodes/#topic", 
-            "text": "TBD", 
-            "title": "Topic"
+            "location": "/ecosystem/nodes/#veres-one-nodes", 
+            "text": "Nodes are responsible for providing computational and storage\nresources for the Network. As the system is permissionless,\nany person or organization may run one or more Nodes.", 
+            "title": "Veres One Nodes"
         }, 
         {
             "location": "/ecosystem/accelerators/", 
