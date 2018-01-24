@@ -1,13 +1,9 @@
-{% if page.url == "." %}
+{% if page.is_homepage %}
   {% extends "landing.html" %}
+{% elif page.canonical_url.endswith("/why/") %}
+  {% extends "why.html" %}
+{% elif page.canonical_url.endswith("/about/") %}
+  {% extends "about.html" %}
 {% else %}
   {% extends "base.html" %}
 {% endif %}
-<!--<html>-->
-<!--  <head>-->
-<!--    <title>HI</title>-->
-<!--  </head>-->
-<!--  <body>-->
-<!--<pre>{{ page.url | tojson }}</pre>-->
-<!--  </body>-->
-<!--</html>-->

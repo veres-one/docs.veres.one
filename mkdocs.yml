@@ -5,6 +5,7 @@ theme:
 pages:
     - 'Home': 'index.md'
     - 'Summary': 'summary.md'
+    - 'Why Veres One?': 'why.md'
     - 'Credentials': 'credentials.md'
     - 'Sectors': 'sectors.md'
     - 'The Network':
@@ -18,3 +19,4 @@ pages:
         - 'Quickstart': 'developers/quickstart.md'
         - 'Guides': 'developers/guides.md'
         - 'REST API': 'developers/rest-api.md'
+    - 'About': 'about.md'
