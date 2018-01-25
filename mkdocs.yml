@@ -9,11 +9,11 @@ pages:
     - 'Credentials': 'credentials.md'
     - 'Sectors': 'sectors.md'
     - 'The Network':
-        - 'Intro': 'ecosystem/index.md'
-        - 'Nodes': 'ecosystem/nodes.md'
-        - 'Accelerators': 'ecosystem/accelerators.md'
-        - 'The Maintainer': 'ecosystem/maintainer.md'
-        - 'The Board of Governors': 'ecosystem/governors.md'
+        - 'Intro': 'network/index.md'
+        - 'Nodes': 'network/nodes.md'
+        - 'Accelerators': 'network/accelerators.md'
+        - 'The Maintainer': 'network/maintainer.md'
+        - 'The Board of Governors': 'network/governors.md'
     - 'Developers':
         - 'Intro': 'developers/index.md'
         - 'Quickstart': 'developers/quickstart.md'
