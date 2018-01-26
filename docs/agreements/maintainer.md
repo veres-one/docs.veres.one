@@ -1,4 +1,4 @@
-# Veres One Maintainer Agreement
+# Veres One Maintainer Agreement Overview
 
 The Veres One Maintainer Agreement is designed to ensure that the organization
 in charge of maintaining the Veres One technology platform does so in a way that
@@ -21,7 +21,9 @@ achieve:
    done publicly, with minor exceptions when dealing with extremely sensitive
    security or legal issues.
 
-# Software Maintenance Agreement
+-------------------
+
+# Veres One Maintainer Agreement
 
 This Software Maintenance Agreement is made effective as of March 01,
 2018, by and between The Veres One Project ("Veres One Project" or
