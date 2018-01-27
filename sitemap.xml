@@ -3,7 +3,7 @@
 
     
     <url>
-     <loc>/</loc>
+     <loc>https://docs.veres.one//</loc>
      <lastmod>2018-01-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -11,7 +11,7 @@
 
     
     <url>
-     <loc>/summary/</loc>
+     <loc>https://docs.veres.one//summary/</loc>
      <lastmod>2018-01-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -19,7 +19,7 @@
 
     
     <url>
-     <loc>/why/</loc>
+     <loc>https://docs.veres.one//why/</loc>
      <lastmod>2018-01-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -27,7 +27,7 @@
 
     
     <url>
-     <loc>/credentials/</loc>
+     <loc>https://docs.veres.one//credentials/</loc>
      <lastmod>2018-01-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -35,83 +35,7 @@
 
     
     <url>
-     <loc>/sectors/</loc>
-     <lastmod>2018-01-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-        
-    <url>
-     <loc>/network/</loc>
-     <lastmod>2018-01-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/network/nodes/</loc>
-     <lastmod>2018-01-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/network/accelerators/</loc>
-     <lastmod>2018-01-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/network/maintainer/</loc>
-     <lastmod>2018-01-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/network/governors/</loc>
-     <lastmod>2018-01-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/network/governance/</loc>
-     <lastmod>2018-01-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/network/economics/</loc>
-     <lastmod>2018-01-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/network/fees/</loc>
-     <lastmod>2018-01-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>/developers/</loc>
-     <lastmod>2018-01-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/developers/quickstart/</loc>
-     <lastmod>2018-01-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-    <url>
-     <loc>/faq/</loc>
+     <loc>https://docs.veres.one//sectors/</loc>
      <lastmod>2018-01-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -120,31 +44,65 @@
     
         
     <url>
-     <loc>/agreements/</loc>
+     <loc>https://docs.veres.one//network/</loc>
      <lastmod>2018-01-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/agreements/governor/</loc>
+     <loc>https://docs.veres.one//network/nodes/</loc>
      <lastmod>2018-01-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/agreements/maintainer/</loc>
+     <loc>https://docs.veres.one//network/accelerators/</loc>
      <lastmod>2018-01-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/agreements/accelerator/</loc>
+     <loc>https://docs.veres.one//network/maintainer/</loc>
      <lastmod>2018-01-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/agreements/software/</loc>
+     <loc>https://docs.veres.one//network/governors/</loc>
+     <lastmod>2018-01-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.veres.one//network/governance/</loc>
+     <lastmod>2018-01-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.veres.one//network/economics/</loc>
+     <lastmod>2018-01-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.veres.one//network/fees/</loc>
+     <lastmod>2018-01-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://docs.veres.one//developers/</loc>
+     <lastmod>2018-01-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.veres.one//developers/quickstart/</loc>
      <lastmod>2018-01-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -153,7 +111,49 @@
 
     
     <url>
-     <loc>/about/</loc>
+     <loc>https://docs.veres.one//faq/</loc>
+     <lastmod>2018-01-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>https://docs.veres.one//agreements/</loc>
+     <lastmod>2018-01-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.veres.one//agreements/governor/</loc>
+     <lastmod>2018-01-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.veres.one//agreements/maintainer/</loc>
+     <lastmod>2018-01-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.veres.one//agreements/accelerator/</loc>
+     <lastmod>2018-01-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.veres.one//agreements/software/</loc>
+     <lastmod>2018-01-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+    <url>
+     <loc>https://docs.veres.one//about/</loc>
      <lastmod>2018-01-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
