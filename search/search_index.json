@@ -126,54 +126,84 @@
             "title": "Social"
         }, 
         {
-            "location": "/ecosystem/", 
+            "location": "/network/", 
             "text": "The Veres One Network\n\n\nThe Veres One Network is a collection of Nodes that maintain the decentralized\nledger and consists of a number of roles:\n\n\n\n\nEntities\n (people, organizations, and devices) use the Network to create\n  and update decentralized identifiers and their associated metadata.\n\n\nNodes\n are responsible for providing computational and storage resources\n  for the Network. As the system is permissionless, any person or organization\n  may run one or more Nodes.\n\n\nAccelerators\n enable entities to increase the speed at which Entities\n  can create and update identifiers on the Network.\n\n\nThe Maintainer\n is responsible for maintaining the Veres One software\n  including continuous security review, managing community contributions,\n  correcting software defects, and implementing new features.\n\n\nThe Board of Governors\n is responsible for governance.\n  This includes ensuring the proper execution of the Veres One Project\n  mission and managing, collecting, and distributing funds according to\n  the funding model.", 
             "title": "Intro"
         }, 
         {
-            "location": "/ecosystem/#the-veres-one-network", 
+            "location": "/network/#the-veres-one-network", 
             "text": "The Veres One Network is a collection of Nodes that maintain the decentralized\nledger and consists of a number of roles:   Entities  (people, organizations, and devices) use the Network to create\n  and update decentralized identifiers and their associated metadata.  Nodes  are responsible for providing computational and storage resources\n  for the Network. As the system is permissionless, any person or organization\n  may run one or more Nodes.  Accelerators  enable entities to increase the speed at which Entities\n  can create and update identifiers on the Network.  The Maintainer  is responsible for maintaining the Veres One software\n  including continuous security review, managing community contributions,\n  correcting software defects, and implementing new features.  The Board of Governors  is responsible for governance.\n  This includes ensuring the proper execution of the Veres One Project\n  mission and managing, collecting, and distributing funds according to\n  the funding model.", 
             "title": "The Veres One Network"
         }, 
         {
-            "location": "/ecosystem/nodes/", 
+            "location": "/network/nodes/", 
             "text": "Veres One Nodes\n\n\nNodes are responsible for providing computational and storage\nresources for the Network. As the system is permissionless,\nany person or organization may run one or more Nodes.", 
             "title": "Nodes"
         }, 
         {
-            "location": "/ecosystem/nodes/#veres-one-nodes", 
+            "location": "/network/nodes/#veres-one-nodes", 
             "text": "Nodes are responsible for providing computational and storage\nresources for the Network. As the system is permissionless,\nany person or organization may run one or more Nodes.", 
             "title": "Veres One Nodes"
         }, 
         {
-            "location": "/ecosystem/accelerators/", 
+            "location": "/network/accelerators/", 
             "text": "Topic\n\n\nTBD", 
             "title": "Accelerators"
         }, 
         {
-            "location": "/ecosystem/accelerators/#topic", 
+            "location": "/network/accelerators/#topic", 
             "text": "TBD", 
             "title": "Topic"
         }, 
         {
-            "location": "/ecosystem/maintainer/", 
+            "location": "/network/maintainer/", 
             "text": "Topic\n\n\nTBD", 
             "title": "The Maintainer"
         }, 
         {
-            "location": "/ecosystem/maintainer/#topic", 
+            "location": "/network/maintainer/#topic", 
             "text": "TBD", 
             "title": "Topic"
         }, 
         {
-            "location": "/ecosystem/governors/", 
-            "text": "Topic\n\n\nTBD", 
+            "location": "/network/governors/", 
+            "text": "Veres One Board of Governors\n\n\nTBD", 
             "title": "The Board of Governors"
         }, 
         {
-            "location": "/ecosystem/governors/#topic", 
+            "location": "/network/governors/#veres-one-board-of-governors", 
             "text": "TBD", 
-            "title": "Topic"
+            "title": "Veres One Board of Governors"
+        }, 
+        {
+            "location": "/network/governance/", 
+            "text": "Governance of the Veres One Network\n\n\nAll technologies have a socio-political aspect which, if ignored, can have\nnegative repercussions on the network and society. With this in mind, the\ngovernance around the Veres One Network is designed to carefully balance the\nneeds of all participants while ensuring the long-term viability of the network\nfor decades to come.", 
+            "title": "Governance"
+        }, 
+        {
+            "location": "/network/governance/#governance-of-the-veres-one-network", 
+            "text": "All technologies have a socio-political aspect which, if ignored, can have\nnegative repercussions on the network and society. With this in mind, the\ngovernance around the Veres One Network is designed to carefully balance the\nneeds of all participants while ensuring the long-term viability of the network\nfor decades to come.", 
+            "title": "Governance of the Veres One Network"
+        }, 
+        {
+            "location": "/network/economics/", 
+            "text": "Veres One Network Economics\n\n\nThe Veres One Network is designed to be self-sustaining with a proper balance\nof economic incentives to participate in and protect the network.", 
+            "title": "Economic Model"
+        }, 
+        {
+            "location": "/network/economics/#veres-one-network-economics", 
+            "text": "The Veres One Network is designed to be self-sustaining with a proper balance\nof economic incentives to participate in and protect the network.", 
+            "title": "Veres One Network Economics"
+        }, 
+        {
+            "location": "/network/fees/", 
+            "text": "The Veres One Network Fees\n\n\nIn order to ensure that critical participants in the the Veres One Network\nare properly funded, the Veres One Project via Accelerators, collect fees\nfrom customers by providing value-added services.\n\n\nThe following is a list of fees that are expected to be collected by\nAccelerators on behalf of the Veres One Project:\n\n\n\n\n\n\n\n\nItem\n\n\nFee\n\n\n\n\n\n\n\n\n\n\nDID Document creation\n\n\n$0.89 USD\n\n\n\n\n\n\nDID Document update\n\n\n$0.25 USD\n\n\n\n\n\n\nVerifiable Credentials\n\n\n3% of price charged to customer", 
+            "title": "Fees"
+        }, 
+        {
+            "location": "/network/fees/#the-veres-one-network-fees", 
+            "text": "In order to ensure that critical participants in the the Veres One Network\nare properly funded, the Veres One Project via Accelerators, collect fees\nfrom customers by providing value-added services.  The following is a list of fees that are expected to be collected by\nAccelerators on behalf of the Veres One Project:     Item  Fee      DID Document creation  $0.89 USD    DID Document update  $0.25 USD    Verifiable Credentials  3% of price charged to customer", 
+            "title": "The Veres One Network Fees"
         }, 
         {
             "location": "/developers/", 
@@ -196,26 +226,6 @@
             "title": "Topic"
         }, 
         {
-            "location": "/developers/guides/", 
-            "text": "Topic\n\n\nTBD", 
-            "title": "Guides"
-        }, 
-        {
-            "location": "/developers/guides/#topic", 
-            "text": "TBD", 
-            "title": "Topic"
-        }, 
-        {
-            "location": "/developers/rest-api/", 
-            "text": "Topic\n\n\nTBD", 
-            "title": "REST API"
-        }, 
-        {
-            "location": "/developers/rest-api/#topic", 
-            "text": "TBD", 
-            "title": "Topic"
-        }, 
-        {
             "location": "/faq/", 
             "text": "Frequently Asked Questions\n\n\nThis is a running list of frequently asked questions that the Veres One Project\nreceives from individuals.\n\n\nWhy is the Maintainer separate from the Veres One Project?\n\n\nGovernments are often split into branches such as judicial, executive, and\nlegislative to prevent corruption. In the same way, the Veres One Project is\nseparated into a Maintainer (technical), Board of Governors (governance),\nand Nodes (execution). Each group is responsible for a different aspect of the\necosystem and is separated from the other such that common forms of corruption\nare far more difficult to achieve if each of these groups were to operate under\nthe same umbrella.\n\n\nWhy isn't the Maintainer required to be a non-profit?\n\n\nThe \nBoard of Governors\n selects the \nMaintainer\n based on technical\nmerit and in order to help ensure that the talent pool is as large as possible,\nthere are no restrictions placed on the type of organization the Maintainer\ncan be. In order to prevent the \nMaintainer\n from charging exhorbitant rates,\na competitive bid process is used that allows a modest 20% profit while also\napplying pressure to keep maintenance costs down.", 
             "title": "FAQ"
@@ -234,6 +244,316 @@
             "location": "/faq/#why-isnt-the-maintainer-required-to-be-a-non-profit", 
             "text": "The  Board of Governors  selects the  Maintainer  based on technical\nmerit and in order to help ensure that the talent pool is as large as possible,\nthere are no restrictions placed on the type of organization the Maintainer\ncan be. In order to prevent the  Maintainer  from charging exhorbitant rates,\na competitive bid process is used that allows a modest 20% profit while also\napplying pressure to keep maintenance costs down.", 
             "title": "Why isn't the Maintainer required to be a non-profit?"
+        }, 
+        {
+            "location": "/agreements/", 
+            "text": "The Veres One Agreements\n\n\nThere are a number of legal obligations that participants in Veres One are\nbound by to help ensure the stable operation of the Veres One Network.\nThis page outlines all of the legal agreements that are intended\nto protect the Veres One network:\n\n\n\n\nThe \nBoard of Governors Agreement\n specifies the expectation of\n  Members of the Board of Governors when making decisions related to the\n  ongoing operation of the Veres One Network.\n\n\nThe \nMaintainer Agreement\n specifies the duties and obligations\n  of the organization that performs the technical maintenance for the source\n  code and documentation for the Veres One Network.\n\n\nThe \nAccelerator Agreement\n specifies the obligations of the\n  people and organizations that perform accelerated DID creation,\n  modification, and fee collection on behalf of the Veres One Project.\n\n\nThe \nSoftware Agreement\n specifies the obligations of the people\n  that use and contribute to the Veres One software.\n\n\n\n\nFor more information on each agreement, you may click on the link above to\ndive deeper into the details.", 
+            "title": "Intro"
+        }, 
+        {
+            "location": "/agreements/#the-veres-one-agreements", 
+            "text": "There are a number of legal obligations that participants in Veres One are\nbound by to help ensure the stable operation of the Veres One Network.\nThis page outlines all of the legal agreements that are intended\nto protect the Veres One network:   The  Board of Governors Agreement  specifies the expectation of\n  Members of the Board of Governors when making decisions related to the\n  ongoing operation of the Veres One Network.  The  Maintainer Agreement  specifies the duties and obligations\n  of the organization that performs the technical maintenance for the source\n  code and documentation for the Veres One Network.  The  Accelerator Agreement  specifies the obligations of the\n  people and organizations that perform accelerated DID creation,\n  modification, and fee collection on behalf of the Veres One Project.  The  Software Agreement  specifies the obligations of the people\n  that use and contribute to the Veres One software.   For more information on each agreement, you may click on the link above to\ndive deeper into the details.", 
+            "title": "The Veres One Agreements"
+        }, 
+        {
+            "location": "/agreements/governor/", 
+            "text": "Veres One Board of Governors Agreement Overview\n\n\nThe Veres One Board of Governors Agreement is designed to enable an\nindividual to make critical decisions on behalf of the Veres One Project while\nproviding idemnity to the individual as long as they are acting in good faith.\n\n\nThere are a number of goals that the Board of Governors agreement is designed\nto achieve:\n\n\n\n\nA member of the Board of Governors is a self-directed individual\n   that is expected to operationalize the Veres One Mission and ensure the\n   smooth socio-political and financial operation of the Network.\n\n\nA member of the Board of Governors must not have a direct financial\n   relationship or conflicting interest in the Veres One Maintainer,\n   or any of the Accelerators.\n\n\nA member of the Board of Governors is idemnified as long as they\n   are operating in good faith.\n\n\nNon-time critical Board of Governors decisions are made by consensus.\n   Time critical decisions, that if not made may negatively impact the\n   stability of the network, may be made by a 2/3rds majority vote.\n\n\n\n\n\n\nVeres One Board of Governors Agreement\n\n\nThis Veres One Board of Governors Agreement (this \"Agreement\") is made\neffective as of March 01, 2018, by and between The Veres One Project of\n__________________________________\n(\"Veres One Project\") and\n__________________________________\nof\n__________________________________\n(\"Board Member\").\n\n\nA. The Veres One Project is engaged in the business of facilitating the\ncreation of software and providing the governance to enable anyone in the\nworld to create and manage their own decentralized identifiers via the\nVeres One Network.\n\n\nB. The Veres One Project desires to have the services of Board Member.\n\n\nC. Board Member is an at will representative of The Veres One Project. Either\nparty is able to terminate this agreement at any time.\n\n\nTherefore, the parties agree as follows:\n\n\nREPRESENTATIVE\n\n\nThe Veres One Project shall employ\n__________________________________\nas a Member of the Board of Governors. Board Member shall provide to\nThe Veres One Project duties as needed to operationalize the Vision and\nMission of the Veres One Project. Board Member accepts and agrees to such a\nrelationship, and agrees to be subject to the general supervision, advice\nand direction of The Veres One Project Board of Governors.\n\n\nDUTIES\n\n\nBoard Member acknowledges and accepts that they play a critical role in the\nongoing stability of the Veres One Network. As such, Board Member agrees\nto participate in all Board of Governors votes. Not voting for a period of\none month or more will result in a material breach of this Agreement.\n\n\nBoard Member acknowledges and accepts that they are to operationalize the\nVeres One Project Vision and Mission. Board Member agrees to not\nsubstantatively change the Veres One Project Vision and Mission and to\napprove payments according to the approved funding model in a timely and\nresponsible manner.\n\n\nBEST EFFORTS OF REPRESENATIVE\n\n\nBoard Member agrees to perform faithfully, industriously, and to the best\nof Board Member's ability, experience, and talents, all of the duties that\nmay be required by the express and implicit terms of this Agreement, to\nthe reasonable satisfaction of The Veres One Project. Such duties shall\nbe provided at such place(s) as the needs, business, or opportunities of\nThe Veres One Project may require from time to time.\n\n\nEXPENSE REIMBURSEMENT\n\n\nThe Veres One Project will reimburse Board Member for the following\n\"out-of-pocket\" expenses in accordance with The Veres One Project policies\nin effect from time to time:\n\n\n\n\npre-approved travel, hotel, and meal expenses, excluding alcoholic beverages\n\n\npostage and other miscellaneous expenses under $250 in value\n\n\n\n\nRECOMMENDATIONS FOR IMPROVING OPERATIONS\n\n\nBoard Member shall provide The Veres One Project with all information,\nsuggestions, and recommendations regarding The Veres One Project's business,\nof which Board Member has knowledge, that will be of benefit to The Veres\nOne Project.\n\n\nREPRESENTATIVES INABILITY TO CONTRACT FOR THE VERES ONE PROJECT\n\n\nBoard Member shall not have the right to make any contracts or commitments\nfor or on behalf of The Veres One Project without first obtaining the express\nrecorded consent of greater than 2/3rds of the Board of Governors.\n\n\nTERM/TERMINATION\n\n\nBoard Member's relationship under this Agreement shall be for two years,\nbeginning on March 01, 2018. This Agreement may be terminated by The Veres One\nProject upon one month written notice, and by Board Member upon one month\nwritten notice. If Board Member is in violation of this Agreement, The Veres\nOne Project may terminate employment without notice and with compensation\nto Board Member only to the date of such termination. The compensation paid\nunder this Agreement shall be Board Member's exclusive remedy.\n\n\nTERMINATION FOR DISABILITY\n\n\nThe Veres One Project shall have the option to terminate this Agreement, if\nBoard Member becomes permanently disabled and is no longer able to perform\nthe essential functions of the position with reasonable accommodation. The\nVeres One Project shall exercise this option by giving one month written\nnotice to Board Member.\n\n\nCOMPLIANCE WITH THE VERES ONE PROJECT VISION AND MISSION\n\n\nBoard Member agrees to comply with the Vision and Mission as well as all of\nthe rules and regulations of The Veres One Project.\n\n\nRETURN OF PROPERTY\n\n\nUpon termination of this Agreement, Board Member shall deliver to The Veres\nOne Project all property which is The Veres One Project's property or related\nto The Veres One Project's business (including keys, records, notes, data,\nmemoranda, models, and equipment) that is in Board Member's possession or\nunder Board Member's control. Such obligation shall be governed by any\nseparate confidentiality or proprietary rights agreement signed by Board Member.\n\n\nNOTICES\n\n\nAll notices required or permitted under this Agreement shall be in writing\nand shall be deemed delivered when delivered electronically via email to\nthe appropriate email address or public mailing list.\n\n\nSuch addresses may be changed from time to time by either party by\nproviding written notice and delivered electronically.\n\n\nENTIRE AGREEMENT\n\n\nThis Agreement contains the entire agreement of the parties and there are\nno other promises or conditions in any other agreement whether oral or\nwritten. This Agreement supersedes any prior written or oral agreements\nbetween the parties.\n\n\nAMENDMENT\n\n\nThis Agreement may be modified or amended, if the amendment is made in\nwriting and is signed by both parties. Electronic signatures are the preferred\nform of signature.\n\n\nSEVERABILITY\n\n\nIf any provisions of this Agreement shall be held to be invalid or\nunenforceable for any reason, the remaining provisions shall continue to\nbe valid and enforceable. If a court finds that any provision of this\nAgreement is invalid or unenforceable, but that by limiting such provision\nit would become valid or enforceable, then such provision shall be deemed\nto be written, construed, and enforced as so limited.\n\n\nWAIVER OF CONTRACTUAL RIGHT\n\n\nThe failure of either party to enforce any provision of this Agreement shall\nnot be construed as a waiver or limitation of that party's right to\nsubsequently enforce and compel strict compliance with every provision\nof this Agreement.\n\n\nAPPLICABLE LAW\n\n\nThis Agreement shall be governed by the laws of the Commonwealth of Virginia.\n\n\nSIGNATORIES\n\n\nThis Agreement shall be signed by Chairperson of the Board of Governors on\nbehalf of The Veres One Project and by Board Member in an individual capacity.\nThis Agreement is effective as of the date first above written.\n\n\n__________________________________\n\n\nChairperson of the Board of Governors\n\n\nThe Veres One Project\n\n\n__________________________________\n\n\nBoard Member", 
+            "title": "Governor Agreement"
+        }, 
+        {
+            "location": "/agreements/governor/#veres-one-board-of-governors-agreement-overview", 
+            "text": "The Veres One Board of Governors Agreement is designed to enable an\nindividual to make critical decisions on behalf of the Veres One Project while\nproviding idemnity to the individual as long as they are acting in good faith.  There are a number of goals that the Board of Governors agreement is designed\nto achieve:   A member of the Board of Governors is a self-directed individual\n   that is expected to operationalize the Veres One Mission and ensure the\n   smooth socio-political and financial operation of the Network.  A member of the Board of Governors must not have a direct financial\n   relationship or conflicting interest in the Veres One Maintainer,\n   or any of the Accelerators.  A member of the Board of Governors is idemnified as long as they\n   are operating in good faith.  Non-time critical Board of Governors decisions are made by consensus.\n   Time critical decisions, that if not made may negatively impact the\n   stability of the network, may be made by a 2/3rds majority vote.", 
+            "title": "Veres One Board of Governors Agreement Overview"
+        }, 
+        {
+            "location": "/agreements/governor/#veres-one-board-of-governors-agreement", 
+            "text": "This Veres One Board of Governors Agreement (this \"Agreement\") is made\neffective as of March 01, 2018, by and between The Veres One Project of\n__________________________________\n(\"Veres One Project\") and\n__________________________________\nof\n__________________________________\n(\"Board Member\").  A. The Veres One Project is engaged in the business of facilitating the\ncreation of software and providing the governance to enable anyone in the\nworld to create and manage their own decentralized identifiers via the\nVeres One Network.  B. The Veres One Project desires to have the services of Board Member.  C. Board Member is an at will representative of The Veres One Project. Either\nparty is able to terminate this agreement at any time.  Therefore, the parties agree as follows:", 
+            "title": "Veres One Board of Governors Agreement"
+        }, 
+        {
+            "location": "/agreements/governor/#representative", 
+            "text": "The Veres One Project shall employ\n__________________________________\nas a Member of the Board of Governors. Board Member shall provide to\nThe Veres One Project duties as needed to operationalize the Vision and\nMission of the Veres One Project. Board Member accepts and agrees to such a\nrelationship, and agrees to be subject to the general supervision, advice\nand direction of The Veres One Project Board of Governors.", 
+            "title": "REPRESENTATIVE"
+        }, 
+        {
+            "location": "/agreements/governor/#duties", 
+            "text": "Board Member acknowledges and accepts that they play a critical role in the\nongoing stability of the Veres One Network. As such, Board Member agrees\nto participate in all Board of Governors votes. Not voting for a period of\none month or more will result in a material breach of this Agreement.  Board Member acknowledges and accepts that they are to operationalize the\nVeres One Project Vision and Mission. Board Member agrees to not\nsubstantatively change the Veres One Project Vision and Mission and to\napprove payments according to the approved funding model in a timely and\nresponsible manner.", 
+            "title": "DUTIES"
+        }, 
+        {
+            "location": "/agreements/governor/#best-efforts-of-represenative", 
+            "text": "Board Member agrees to perform faithfully, industriously, and to the best\nof Board Member's ability, experience, and talents, all of the duties that\nmay be required by the express and implicit terms of this Agreement, to\nthe reasonable satisfaction of The Veres One Project. Such duties shall\nbe provided at such place(s) as the needs, business, or opportunities of\nThe Veres One Project may require from time to time.", 
+            "title": "BEST EFFORTS OF REPRESENATIVE"
+        }, 
+        {
+            "location": "/agreements/governor/#expense-reimbursement", 
+            "text": "The Veres One Project will reimburse Board Member for the following\n\"out-of-pocket\" expenses in accordance with The Veres One Project policies\nin effect from time to time:   pre-approved travel, hotel, and meal expenses, excluding alcoholic beverages  postage and other miscellaneous expenses under $250 in value", 
+            "title": "EXPENSE REIMBURSEMENT"
+        }, 
+        {
+            "location": "/agreements/governor/#recommendations-for-improving-operations", 
+            "text": "Board Member shall provide The Veres One Project with all information,\nsuggestions, and recommendations regarding The Veres One Project's business,\nof which Board Member has knowledge, that will be of benefit to The Veres\nOne Project.", 
+            "title": "RECOMMENDATIONS FOR IMPROVING OPERATIONS"
+        }, 
+        {
+            "location": "/agreements/governor/#representatives-inability-to-contract-for-the-veres-one-project", 
+            "text": "Board Member shall not have the right to make any contracts or commitments\nfor or on behalf of The Veres One Project without first obtaining the express\nrecorded consent of greater than 2/3rds of the Board of Governors.", 
+            "title": "REPRESENTATIVES INABILITY TO CONTRACT FOR THE VERES ONE PROJECT"
+        }, 
+        {
+            "location": "/agreements/governor/#termtermination", 
+            "text": "Board Member's relationship under this Agreement shall be for two years,\nbeginning on March 01, 2018. This Agreement may be terminated by The Veres One\nProject upon one month written notice, and by Board Member upon one month\nwritten notice. If Board Member is in violation of this Agreement, The Veres\nOne Project may terminate employment without notice and with compensation\nto Board Member only to the date of such termination. The compensation paid\nunder this Agreement shall be Board Member's exclusive remedy.", 
+            "title": "TERM/TERMINATION"
+        }, 
+        {
+            "location": "/agreements/governor/#termination-for-disability", 
+            "text": "The Veres One Project shall have the option to terminate this Agreement, if\nBoard Member becomes permanently disabled and is no longer able to perform\nthe essential functions of the position with reasonable accommodation. The\nVeres One Project shall exercise this option by giving one month written\nnotice to Board Member.", 
+            "title": "TERMINATION FOR DISABILITY"
+        }, 
+        {
+            "location": "/agreements/governor/#compliance-with-the-veres-one-project-vision-and-mission", 
+            "text": "Board Member agrees to comply with the Vision and Mission as well as all of\nthe rules and regulations of The Veres One Project.", 
+            "title": "COMPLIANCE WITH THE VERES ONE PROJECT VISION AND MISSION"
+        }, 
+        {
+            "location": "/agreements/governor/#return-of-property", 
+            "text": "Upon termination of this Agreement, Board Member shall deliver to The Veres\nOne Project all property which is The Veres One Project's property or related\nto The Veres One Project's business (including keys, records, notes, data,\nmemoranda, models, and equipment) that is in Board Member's possession or\nunder Board Member's control. Such obligation shall be governed by any\nseparate confidentiality or proprietary rights agreement signed by Board Member.", 
+            "title": "RETURN OF PROPERTY"
+        }, 
+        {
+            "location": "/agreements/governor/#notices", 
+            "text": "All notices required or permitted under this Agreement shall be in writing\nand shall be deemed delivered when delivered electronically via email to\nthe appropriate email address or public mailing list.  Such addresses may be changed from time to time by either party by\nproviding written notice and delivered electronically.", 
+            "title": "NOTICES"
+        }, 
+        {
+            "location": "/agreements/governor/#entire-agreement", 
+            "text": "This Agreement contains the entire agreement of the parties and there are\nno other promises or conditions in any other agreement whether oral or\nwritten. This Agreement supersedes any prior written or oral agreements\nbetween the parties.", 
+            "title": "ENTIRE AGREEMENT"
+        }, 
+        {
+            "location": "/agreements/governor/#amendment", 
+            "text": "This Agreement may be modified or amended, if the amendment is made in\nwriting and is signed by both parties. Electronic signatures are the preferred\nform of signature.", 
+            "title": "AMENDMENT"
+        }, 
+        {
+            "location": "/agreements/governor/#severability", 
+            "text": "If any provisions of this Agreement shall be held to be invalid or\nunenforceable for any reason, the remaining provisions shall continue to\nbe valid and enforceable. If a court finds that any provision of this\nAgreement is invalid or unenforceable, but that by limiting such provision\nit would become valid or enforceable, then such provision shall be deemed\nto be written, construed, and enforced as so limited.", 
+            "title": "SEVERABILITY"
+        }, 
+        {
+            "location": "/agreements/governor/#waiver-of-contractual-right", 
+            "text": "The failure of either party to enforce any provision of this Agreement shall\nnot be construed as a waiver or limitation of that party's right to\nsubsequently enforce and compel strict compliance with every provision\nof this Agreement.", 
+            "title": "WAIVER OF CONTRACTUAL RIGHT"
+        }, 
+        {
+            "location": "/agreements/governor/#applicable-law", 
+            "text": "This Agreement shall be governed by the laws of the Commonwealth of Virginia.", 
+            "title": "APPLICABLE LAW"
+        }, 
+        {
+            "location": "/agreements/governor/#signatories", 
+            "text": "This Agreement shall be signed by Chairperson of the Board of Governors on\nbehalf of The Veres One Project and by Board Member in an individual capacity.\nThis Agreement is effective as of the date first above written.  __________________________________  Chairperson of the Board of Governors  The Veres One Project  __________________________________  Board Member", 
+            "title": "SIGNATORIES"
+        }, 
+        {
+            "location": "/agreements/maintainer/", 
+            "text": "Veres One Maintainer Agreement Overview\n\n\nThe Veres One Maintainer Agreement is designed to ensure that the organization\nin charge of maintaining the Veres One technology platform does so in a way that\nsupports the communities that depend on the ledger as directed by\nThe Board of Governors.\n\n\nThere are a number of goals that the maintainer agreement is designed to\nachieve:\n\n\n\n\nThe Maintainer is a self-directed organization that is expected to\n   uphold the Veres One Mission, ensure the technical correctness of the\n   Veres One ledger software, and support the proper operation of the network.\n\n\nIf the current Maintainer fails to uphold its duties, it may be replaced\n   by another more capable organization at the discretion of the\n   Board of Governors.\n\n\nThe Maintainer may make as much as a 20% profit, but is expected to keep\n   costs low in order to ensure the long-term cost effectiveness of the\n   Veres One ledger.\n\n\nCommunication between the Board of Governors and the Maintainer must be\n   done publicly, with minor exceptions when dealing with extremely sensitive\n   security or legal issues.\n\n\n\n\n\n\nVeres One Maintainer Agreement\n\n\nThis Software Maintenance Agreement is made effective as of March 01,\n2018, by and between The Veres One Project (\"Veres One Project\" or\n\"Service Recipient\") of VERES_ONE_PROJECT_ADDRESS, and\nVeres One LLC (\"Veres One Maintainer\" or \"Service Provider\") of\n203 Roanoke Street W, Blacksburg, Virginia 24060.\n\n\nDESCRIPTION OF SERVICES\n\n\nBeginning on March 01, 2018, Veres One\nMaintainer will provide to the Veres One Project the following services\n(collectively, the \"Services\"):\n\n\nSoftware design, development, and deployment services as required for the\nproper operation of the Veres One Network or as directed by the Veres One\nProject Board of Governors. Communication of issues and desired features\nwill be performed via the Veres One Project issue trackers located under:\n\n\nhttps://github.com/veres-one/\n\n\nACCESS TO DATA AND SYSTEMS\n\n\nOn request, Service Recipient agrees to\nprovide Service Provider with printouts of the Software or of data in\nstorage that exhibits evidence of a programming error. Recipient further\nagrees to provide Service Provider with access to Service Recipients\ndata and systems and sufficient computer time to enable Service Provider to\nduplicate the problem, determine that it results from the Software, and,\nafter corrective action or replacement has taken place, determine that the\nproblem has been alleviated.\n\n\nNO PROPRIETARY RIGHTS\n\n\nService Recipient and Service Provider acknowledge\nand agrees that corrected or replacement Software and associated documentation\nfall under the Veres One Software Licensing Agreement which ensures that\nthe system and Veres One Network remain open source, and patent and\nroyalty-free.\n\n\nMODIFICATIONS EXCLUDED\n\n\nService Provider shall not be obligated to\nprovide support services pursuant to this Contract with respect to any\nmodifications of the Software made by Service Recipient or to any computer\nprogram incorporating all or any part of the Software. If Service Provider\ncorrects defects or problems attributable to errors made by Service\nRecipient or corrections or modifications made by Service Recipient,\nService Recipient agrees to pay Service Provider the Service Providers\nthen current standard rates for time and material.\n\n\nPAYMENT\n\n\nIn consideration of the services to be performed by the\nService Provider, the Client agrees to compensate the Service Provider for\nthe services rendered as follows:\n\n\nPayment shall be made to Veres One LLC on a monthly basis per the funding\nallocation model as determined on a yearly basis by the Board of Governors.\nService Provider's fees for the services specified in Paragraph 2, above,\nand for any additional services, will be communicated to the Board of\nGovernors before yearly funding allocation decisions are made.\n\n\nAny additional services not specified in Paragraph 2, above, will be\ncharged to Client on an hourly rate basis at Service Provider's standard\nhourly rate of $175.00 per hour.\n\n\nService Provider agrees that all travel and other incidental expenses,\nincluding meals, telephone charges, and shipping costs, incurred in\nconnection with Service Providers performance of its duties under this\nContract are internal costs and are not covered by Service Recipient.\n\n\nIn addition to any other right or remedy provided by law, if Veres One\nProject fails to pay for the Services when due, Veres One Maintainer has\nthe option to treat such failure to pay as a material breach of this\nContract, and may cancel this Contract and/or seek legal remedies.\n\n\nTAXES\n\n\nService Recipient shall be responsible for all sales or use\ntaxes or any other taxes, fees, or duties imposed by federal, state,\nlocal, or other governments or governmental entities on or with respect to\nthe services rendered or property provided by Service Provider pursuant to\nthis Contract.\n\n\nTERM\n\n\nThis Contract will remain in effect for a period of five years.\n\n\nUpon termination of this Contract, Veres One Maintainer will return to\nVeres One Project all records, notes, documentation and other items that\nwere used, created, or controlled by Veres One Maintainer during the term\nof this Contract.\n\n\nGENERAL WARRANTY\n\n\nVeres One Maintainer shall provide its services and\nmeet its obligations under this Contract in a timely and workmanlike\nmanner, using knowledge and recommendations for performing the services\nwhich meet generally acceptable standards in Veres One Maintainer's\ncommunity and region, and will provide a standard of care equal to, or\nsuperior to, care used by service providers similar to Veres One\nMaintainer on similar projects. Service Provider shall not be liable for\nany delay in performance directly or indirectly resulting from acts of\nService Recipient, its agents, employees, or subcontractors.\n\n\nDEFAULT\n\n\nThe occurrence of any of the following shall constitute a\nmaterial default under this Contract:\n\n\na.    The failure to make a required payment when due.\n\n\nb.    The insolvency or bankruptcy of either party.\n\n\nc.    The subjection of any of either party's property to any levy,\nseizure, general assignment for the benefit of creditors, application or\nsale for or by any creditor or government agency.\n\n\nd.    The failure to make available or deliver the Services in the time\nand manner provided for in this Contract.\n\n\ne.    The occurrence of a default on the part of the Service Recipient of\nthe Contract pursuant to which Service Recipient obtained the\nSoftware.\n\n\nREMEDIES\n\n\nIn addition to any and all other rights a party may have\navailable according to law, if a party defaults by failing to\nsubstantially perform any provision, term or condition of this Contract\n(including without limitation the failure to make a monetary payment when\ndue), the other party may terminate the Contract by providing written\nnotice to the defaulting party. This notice shall describe with sufficient\ndetail the nature of the default. The party receiving such notice shall\nhave 90 days from the effective date of such notice to cure the\ndefault(s). Unless waived by a party providing notice, the failure to cure\nthe default(s) within such time period shall result in the automatic\ntermination of this Contract.\n\n\nFORCE MAJEURE\n\n\nIf performance of this Contract or any obligation under\nthis Contract is prevented, restricted, or interfered with by causes\nbeyond either party's reasonable control (\"Force Majeure\"), and if the\nparty unable to carry out its obligations gives the other party prompt\nwritten notice of such event, then the obligations of the party invoking\nthis provision shall be suspended to the extent necessary by such event.\nThe term Force Majeure shall include, without limitation, acts of God,\nfire, explosion, vandalism, storm or other similar occurrence, orders or\nacts of military or civil authority, or by national emergencies,\ninsurrections, riots, or wars, or strikes, lock-outs, work stoppages, or\nother labor disputes, or supplier failures. The excused party shall use\nreasonable efforts under the circumstances to avoid or remove such causes\nof non-performance and shall proceed to perform with reasonable dispatch\nwhenever such causes are removed or ceased. An act or omission shall be\ndeemed within the reasonable control of a party if committed, omitted, or\ncaused by such party, or its employees, officers, agents, or\naffiliates.\n\n\nARBITRATION\n\n\nAny controversies or disputes arising out of or relating\nto this Contract shall be resolved by binding arbitration in accordance\nwith the then-current Commercial Arbitration Rules of the American\nArbitration Association. The parties shall select a mutually acceptable\narbitrator knowledgeable about issues relating to the subject matter of\nthis Contract. In the event the parties are unable to agree to such a\nselection, each party will select an arbitrator and the two arbitrators in\nturn shall select a third arbitrator, all three of whom shall preside\njointly over the matter. The arbitration shall take place at a location\nthat is reasonably centrally located between the parties, or otherwise\nmutually agreed upon by the parties. All documents, materials, and\ninformation in the possession of each party that are in any way relevant\nto the dispute shall be made available to the other party for review and\ncopying no later than 30 days after the notice of arbitration is served.\nThe arbitrator(s) shall not have the authority to modify any provision of\nthis Contract or to award punitive damages. The arbitrator(s) shall have\nthe power to issue mandatory orders and restraint orders in connection\nwith the arbitration. The decision rendered by the arbitrator(s) shall be\nfinal and binding on the parties, and judgment may be entered in\nconformity with the decision in any court having jurisdiction. The\nagreement to arbitration shall be specifically enforceable under the\nprevailing arbitration law. During the continuance of any arbitration\nproceeding, the parties shall continue to perform their respective\nobligations under this Contract.\n\n\nENTIRE AGREEMENT\n\n\nThis Contract contains the entire agreement of the\nparties, and there are no other promises or conditions in any other\nagreement whether oral or written concerning the subject matter of this\nContract. This Contract supersedes any prior written or oral agreements\nbetween the parties.\n\n\nNOTICE\n\n\nAny notice or communication required or permitted under this\nContract shall be sufficiently given if delivered in person or by\ncertified mail, return receipt requested, to the address set forth in the\nopening paragraph or to such other address as one party may have furnished\nto the other in writing.\n\n\nWAIVER OF CONTRACTUAL RIGHT\n\n\nThe failure of either party to enforce\nany provision of this Contract shall not be construed as a waiver or\nlimitation of that party's right to subsequently enforce and compel strict\ncompliance with every provision of this Contract.\n\n\nSIGNATORIES\n\n\nThis Agreement shall be signed on behalf of Veres One\nProject by\n__________________________________\n, Chairperson of the Board of Governors and on behalf of the Maintainer\nby Manu Sporny, Managing Director and effective as of the date first\nabove written.\n\n\nBy:\n\n\n__________________________________\n\n\nMember, Board of Governors, The Veres One Project\n\n\nBy:\n\n\n__________________________________\n\n\nManu Sporny, Managing Director, Veres One LLC", 
+            "title": "Maintainer Agreement"
+        }, 
+        {
+            "location": "/agreements/maintainer/#veres-one-maintainer-agreement-overview", 
+            "text": "The Veres One Maintainer Agreement is designed to ensure that the organization\nin charge of maintaining the Veres One technology platform does so in a way that\nsupports the communities that depend on the ledger as directed by\nThe Board of Governors.  There are a number of goals that the maintainer agreement is designed to\nachieve:   The Maintainer is a self-directed organization that is expected to\n   uphold the Veres One Mission, ensure the technical correctness of the\n   Veres One ledger software, and support the proper operation of the network.  If the current Maintainer fails to uphold its duties, it may be replaced\n   by another more capable organization at the discretion of the\n   Board of Governors.  The Maintainer may make as much as a 20% profit, but is expected to keep\n   costs low in order to ensure the long-term cost effectiveness of the\n   Veres One ledger.  Communication between the Board of Governors and the Maintainer must be\n   done publicly, with minor exceptions when dealing with extremely sensitive\n   security or legal issues.", 
+            "title": "Veres One Maintainer Agreement Overview"
+        }, 
+        {
+            "location": "/agreements/maintainer/#veres-one-maintainer-agreement", 
+            "text": "This Software Maintenance Agreement is made effective as of March 01,\n2018, by and between The Veres One Project (\"Veres One Project\" or\n\"Service Recipient\") of VERES_ONE_PROJECT_ADDRESS, and\nVeres One LLC (\"Veres One Maintainer\" or \"Service Provider\") of\n203 Roanoke Street W, Blacksburg, Virginia 24060.", 
+            "title": "Veres One Maintainer Agreement"
+        }, 
+        {
+            "location": "/agreements/maintainer/#description-of-services", 
+            "text": "Beginning on March 01, 2018, Veres One\nMaintainer will provide to the Veres One Project the following services\n(collectively, the \"Services\"):  Software design, development, and deployment services as required for the\nproper operation of the Veres One Network or as directed by the Veres One\nProject Board of Governors. Communication of issues and desired features\nwill be performed via the Veres One Project issue trackers located under:  https://github.com/veres-one/", 
+            "title": "DESCRIPTION OF SERVICES"
+        }, 
+        {
+            "location": "/agreements/maintainer/#access-to-data-and-systems", 
+            "text": "On request, Service Recipient agrees to\nprovide Service Provider with printouts of the Software or of data in\nstorage that exhibits evidence of a programming error. Recipient further\nagrees to provide Service Provider with access to Service Recipients\ndata and systems and sufficient computer time to enable Service Provider to\nduplicate the problem, determine that it results from the Software, and,\nafter corrective action or replacement has taken place, determine that the\nproblem has been alleviated.", 
+            "title": "ACCESS TO DATA AND SYSTEMS"
+        }, 
+        {
+            "location": "/agreements/maintainer/#no-proprietary-rights", 
+            "text": "Service Recipient and Service Provider acknowledge\nand agrees that corrected or replacement Software and associated documentation\nfall under the Veres One Software Licensing Agreement which ensures that\nthe system and Veres One Network remain open source, and patent and\nroyalty-free.", 
+            "title": "NO PROPRIETARY RIGHTS"
+        }, 
+        {
+            "location": "/agreements/maintainer/#modifications-excluded", 
+            "text": "Service Provider shall not be obligated to\nprovide support services pursuant to this Contract with respect to any\nmodifications of the Software made by Service Recipient or to any computer\nprogram incorporating all or any part of the Software. If Service Provider\ncorrects defects or problems attributable to errors made by Service\nRecipient or corrections or modifications made by Service Recipient,\nService Recipient agrees to pay Service Provider the Service Providers\nthen current standard rates for time and material.", 
+            "title": "MODIFICATIONS EXCLUDED"
+        }, 
+        {
+            "location": "/agreements/maintainer/#payment", 
+            "text": "In consideration of the services to be performed by the\nService Provider, the Client agrees to compensate the Service Provider for\nthe services rendered as follows:  Payment shall be made to Veres One LLC on a monthly basis per the funding\nallocation model as determined on a yearly basis by the Board of Governors.\nService Provider's fees for the services specified in Paragraph 2, above,\nand for any additional services, will be communicated to the Board of\nGovernors before yearly funding allocation decisions are made.  Any additional services not specified in Paragraph 2, above, will be\ncharged to Client on an hourly rate basis at Service Provider's standard\nhourly rate of $175.00 per hour.  Service Provider agrees that all travel and other incidental expenses,\nincluding meals, telephone charges, and shipping costs, incurred in\nconnection with Service Providers performance of its duties under this\nContract are internal costs and are not covered by Service Recipient.  In addition to any other right or remedy provided by law, if Veres One\nProject fails to pay for the Services when due, Veres One Maintainer has\nthe option to treat such failure to pay as a material breach of this\nContract, and may cancel this Contract and/or seek legal remedies.", 
+            "title": "PAYMENT"
+        }, 
+        {
+            "location": "/agreements/maintainer/#taxes", 
+            "text": "Service Recipient shall be responsible for all sales or use\ntaxes or any other taxes, fees, or duties imposed by federal, state,\nlocal, or other governments or governmental entities on or with respect to\nthe services rendered or property provided by Service Provider pursuant to\nthis Contract.", 
+            "title": "TAXES"
+        }, 
+        {
+            "location": "/agreements/maintainer/#term", 
+            "text": "This Contract will remain in effect for a period of five years.  Upon termination of this Contract, Veres One Maintainer will return to\nVeres One Project all records, notes, documentation and other items that\nwere used, created, or controlled by Veres One Maintainer during the term\nof this Contract.", 
+            "title": "TERM"
+        }, 
+        {
+            "location": "/agreements/maintainer/#general-warranty", 
+            "text": "Veres One Maintainer shall provide its services and\nmeet its obligations under this Contract in a timely and workmanlike\nmanner, using knowledge and recommendations for performing the services\nwhich meet generally acceptable standards in Veres One Maintainer's\ncommunity and region, and will provide a standard of care equal to, or\nsuperior to, care used by service providers similar to Veres One\nMaintainer on similar projects. Service Provider shall not be liable for\nany delay in performance directly or indirectly resulting from acts of\nService Recipient, its agents, employees, or subcontractors.", 
+            "title": "GENERAL WARRANTY"
+        }, 
+        {
+            "location": "/agreements/maintainer/#default", 
+            "text": "The occurrence of any of the following shall constitute a\nmaterial default under this Contract:  a.    The failure to make a required payment when due.  b.    The insolvency or bankruptcy of either party.  c.    The subjection of any of either party's property to any levy,\nseizure, general assignment for the benefit of creditors, application or\nsale for or by any creditor or government agency.  d.    The failure to make available or deliver the Services in the time\nand manner provided for in this Contract.  e.    The occurrence of a default on the part of the Service Recipient of\nthe Contract pursuant to which Service Recipient obtained the\nSoftware.", 
+            "title": "DEFAULT"
+        }, 
+        {
+            "location": "/agreements/maintainer/#remedies", 
+            "text": "In addition to any and all other rights a party may have\navailable according to law, if a party defaults by failing to\nsubstantially perform any provision, term or condition of this Contract\n(including without limitation the failure to make a monetary payment when\ndue), the other party may terminate the Contract by providing written\nnotice to the defaulting party. This notice shall describe with sufficient\ndetail the nature of the default. The party receiving such notice shall\nhave 90 days from the effective date of such notice to cure the\ndefault(s). Unless waived by a party providing notice, the failure to cure\nthe default(s) within such time period shall result in the automatic\ntermination of this Contract.", 
+            "title": "REMEDIES"
+        }, 
+        {
+            "location": "/agreements/maintainer/#force-majeure", 
+            "text": "If performance of this Contract or any obligation under\nthis Contract is prevented, restricted, or interfered with by causes\nbeyond either party's reasonable control (\"Force Majeure\"), and if the\nparty unable to carry out its obligations gives the other party prompt\nwritten notice of such event, then the obligations of the party invoking\nthis provision shall be suspended to the extent necessary by such event.\nThe term Force Majeure shall include, without limitation, acts of God,\nfire, explosion, vandalism, storm or other similar occurrence, orders or\nacts of military or civil authority, or by national emergencies,\ninsurrections, riots, or wars, or strikes, lock-outs, work stoppages, or\nother labor disputes, or supplier failures. The excused party shall use\nreasonable efforts under the circumstances to avoid or remove such causes\nof non-performance and shall proceed to perform with reasonable dispatch\nwhenever such causes are removed or ceased. An act or omission shall be\ndeemed within the reasonable control of a party if committed, omitted, or\ncaused by such party, or its employees, officers, agents, or\naffiliates.", 
+            "title": "FORCE MAJEURE"
+        }, 
+        {
+            "location": "/agreements/maintainer/#arbitration", 
+            "text": "Any controversies or disputes arising out of or relating\nto this Contract shall be resolved by binding arbitration in accordance\nwith the then-current Commercial Arbitration Rules of the American\nArbitration Association. The parties shall select a mutually acceptable\narbitrator knowledgeable about issues relating to the subject matter of\nthis Contract. In the event the parties are unable to agree to such a\nselection, each party will select an arbitrator and the two arbitrators in\nturn shall select a third arbitrator, all three of whom shall preside\njointly over the matter. The arbitration shall take place at a location\nthat is reasonably centrally located between the parties, or otherwise\nmutually agreed upon by the parties. All documents, materials, and\ninformation in the possession of each party that are in any way relevant\nto the dispute shall be made available to the other party for review and\ncopying no later than 30 days after the notice of arbitration is served.\nThe arbitrator(s) shall not have the authority to modify any provision of\nthis Contract or to award punitive damages. The arbitrator(s) shall have\nthe power to issue mandatory orders and restraint orders in connection\nwith the arbitration. The decision rendered by the arbitrator(s) shall be\nfinal and binding on the parties, and judgment may be entered in\nconformity with the decision in any court having jurisdiction. The\nagreement to arbitration shall be specifically enforceable under the\nprevailing arbitration law. During the continuance of any arbitration\nproceeding, the parties shall continue to perform their respective\nobligations under this Contract.", 
+            "title": "ARBITRATION"
+        }, 
+        {
+            "location": "/agreements/maintainer/#entire-agreement", 
+            "text": "This Contract contains the entire agreement of the\nparties, and there are no other promises or conditions in any other\nagreement whether oral or written concerning the subject matter of this\nContract. This Contract supersedes any prior written or oral agreements\nbetween the parties.", 
+            "title": "ENTIRE AGREEMENT"
+        }, 
+        {
+            "location": "/agreements/maintainer/#notice", 
+            "text": "Any notice or communication required or permitted under this\nContract shall be sufficiently given if delivered in person or by\ncertified mail, return receipt requested, to the address set forth in the\nopening paragraph or to such other address as one party may have furnished\nto the other in writing.", 
+            "title": "NOTICE"
+        }, 
+        {
+            "location": "/agreements/maintainer/#waiver-of-contractual-right", 
+            "text": "The failure of either party to enforce\nany provision of this Contract shall not be construed as a waiver or\nlimitation of that party's right to subsequently enforce and compel strict\ncompliance with every provision of this Contract.", 
+            "title": "WAIVER OF CONTRACTUAL RIGHT"
+        }, 
+        {
+            "location": "/agreements/maintainer/#signatories", 
+            "text": "This Agreement shall be signed on behalf of Veres One\nProject by\n__________________________________\n, Chairperson of the Board of Governors and on behalf of the Maintainer\nby Manu Sporny, Managing Director and effective as of the date first\nabove written.  By:  __________________________________  Member, Board of Governors, The Veres One Project  By:  __________________________________  Manu Sporny, Managing Director, Veres One LLC", 
+            "title": "SIGNATORIES"
+        }, 
+        {
+            "location": "/agreements/accelerator/", 
+            "text": "Veres One Accelerator Agreement Overview\n\n\nThe Veres One Accelerator Agreement is designed to ensure that a healthy\necosystem of active Accelerators exist for the Veres One Network and that\nall participants critical to the operation of the Network are properly funded.\n\n\nThere are a number of goals that the Accelerator Agreement is designed to\nachieve:\n\n\n\n\nThe Accelerator is a self-directed organization that is granted the\n   limited privilege to rapidly create and update DID Documents by the\n   Veres One Project Board of Governors.\n\n\nAccelerators that destablize the network are easily detected and culled.\n\n\nAccelerators are able to make a profit from the services that they provide\n   as long as minimum fees and percentages set by the Veres One Project Board\n   of Governors are passed on to the Veres One Project for the purposes of\n   funding participants critical to the operation of the Network.\n\n\nCommunication between the Board of Governors and the Accelerators must be\n   done publicly, with minor exceptions when dealing with extremely sensitive\n   security or legal issues.\n\n\n\n\n\n\nVeres One Accelerator Agreement\n\n\nThis Veres One Accelerator Agreement (this \"Agreement\") is made effective\nas of March 01, 2018, by and between The Veres One Project (the\n\"Veres One Project\"), of\n__________________________________\n, and\n__________________________________\n(the \"Accelerator\"), of\n__________________________________.\n\n\nDESCRIPTION OF SERVICES\n\n\nBeginning on March 01, 2018, the Accelerator will provide the following\nservices (collectively, the \"Services\"):\n\n\nThe acceleration of Decentralized Identifier Document creation and\nmodification and the collection of Network fees on behalf of the Veres\nOne Project.\n\n\nPAYMENT OF NETWORK FEES\n\n\nThe Accelerator will pay compensation to the Veres One Project for the\nServices. Payments will be made electronically as follows:\n\n\nMinimum Network fees will be set on a yearly basis by the Veres One\nProject Board of Governors. The Accelerator must to collect these\nfees from customers and pay the fees to the Veres One Project on a monthly\nbasis via ACH Transfer, Wire Transfer, or PayPal Transfer. A list of\nthe current Network Fees are available at the following location:\n\n\nhttps://docs.veres.one/network/fees/\n\n\nNo other fees and/or expenses will be paid to the Veres One Project,\nunless such fees and/or expenses have been approved in advance by the\nappropriate executive on behalf of the Accelerator in writing. The\nAccelerator shall be solely responsible for any and all taxes, Social\nSecurity contributions or payments, disability insurance, unemployment taxes,\nand other payroll type taxes applicable to collecting and forwarding the\nfees to the Veres One Project.\n\n\nTERM/TERMINATION\n\n\nTermination of this agreement will occur as follows:\n\n\nThis agreement will terminate after a month of the Accelerator no longer\nholding a valid Accelerator credential as provided by the Veres One\nProject.\n\n\nA regular, ongoing relationship of indefinite term is contemplated.\nThe Veres One Project has no right to assign services to the Accelerator\nother than as specifically contemplated by this Agreement. However, the\nparties may mutually agree that the Accelerator shall perform other services\nfor the Veres One Project, pursuant to the terms of this Agreement.\n\n\nRELATIONSHIP OF PARTIES\n\n\nIt is understood by the parties that the Accelerator is an independent\ncontractor with respect to the Veres One Project, and not an employee of\nthe Veres One Project. The Veres One Project will not provide fringe\nbenefits, including health insurance benefits, paid vacation, or any other\nemployee benefit, for the benefit of the Accelerator.\n\n\nIt is contemplated that the relationship between the Veres one Project and the\nAccelerator shall be a non-exclusive one. The Accelerator also performs\nservices for other organizations and/or individuals. The Veres One Project\nhas no right to further inquire into the Accelerators's other activities.\n\n\nRECIPIENT'S CONTROL\n\n\nThe Veres One Project has no right or power to control or otherwise\ninterfere with the Accelerator's mode of effecting performance\nunder this Agreement. The Accelerator's only concern is the accurate collection\nof fees as outlined in this Agreement, and not the means of accomplishing it.\nExcept in extraordinary circumstances and when necessary, the Accelerator shall\nperform the Services without direct supervision by the Veres One Project.\n\n\nPROFESSIONAL CAPACITY\n\n\nThe Accelerator is a professional who uses its own professional and business\nmethods to perform services. The Accelerator has not and will not receive\ntraining from the Veres One Project regarding how to perform the Services.\n\n\nPERSONAL SERVICES NOT REQUIRED\n\n\nThe Accelerator is not required to render the Services personally and may\nemploy others to perform the Services on behalf of the Veres One Project\nwithout the Veres One Project's knowledge or consent. If the Accelerator\nhas assistants, it is the Accelerators's responsibility to hire them and\nto provide materials for them.\n\n\nNO LOCATION ON PREMISES\n\n\nThe Accelerator has no desk or other equipment either located at or\nfurnished by the Veres One Project. Except to the extent that\nthe Accelerator works in a territory as defined by the Veres One Project, its\nservices are not integrated into the mainstream of the Veres One Project's\nbusiness.\n\n\nNO SET WORK HOURS\n\n\nThe Accelerator has no set hours of work. There is no requirement that the\nAccelerator work full time or otherwise account for work hours.\n\n\nEXPENSES PAID BY THE ACCELERATOR\n\n\nThe Accelerator's business and travel expenses are to be paid by the\nAccelerator and not by the Recipient.\n\n\nNO RIGHT TO ACT AS AGENT\n\n\nAn \"employer-employee\" or \"principal-agent\" relationship is not created\nmerely because (1) the Veres One Project has or retains the right to\nsupervise or inspect the work as it progresses in order to ensure compliance\nwith the terms of the contract or (2) the\nVeres One Project has or retains the right to revoke the Accelerator's\ncredentials on the Network and thus it's limited ability to rapidly\neffect changes on the network if it is in violation of this Agreement.\nThe Accelerator has no right to act as an agent for the Veres One Project and\nhas an obligation to notify any involved parties that it is not an agent of the\nVeres One Project.\n\n\nENTIRE AGREEMENT\n\n\nThis Agreement constitutes the entire contract between the parties. All\nterms and conditions contained in any other writings previously executed\nby the parties regarding the matters\ncontemplated herein shall be deemed to be merged herein and superseded\nhereby. No modification of this Agreement shall be deemed effective unless\nin writing and signed by the parties hereto.\n\n\nWAIVER OF BREACH\n\n\nThe waiver by the Veres One Project of a breach of any provision of this\nAgreement by the Accelerator shall not operate or be construed as a waiver\nof any subsequent breach by the Accelerator.\n\n\nSEVERABILITY\n\n\nIf any provision of this Agreement shall be held to be invalid or unenforceable\nfor any reason, the remaining provisions shall continue to be valid and\nenforceable. If a court finds that any provision of this Agreement is invalid\nor unenforceable, but that by limiting such provision it would become valid\nand enforceable, then such provision shall be deemed to be written, construed,\nand enforced as so limited.\n\n\nAPPLICABLE LAW\n\n\nThis Agreement shall be governed by the laws of the Commonwealth of Virginia.\n\n\nSIGNATORIES\n\n\nThis Agreement shall be signed on behalf of the Veres One\nProject by\n__________________________________\n, Chairperson of the Board of Governors and on behalf of the Accelerator\nby\n__________________________________\n,\n__________________________________\n\n\nand effective as of the date first above written.\n\n\nBy:\n\n\n__________________________________\n\n\nMember, Board of Governors, The Veres One Project\n\n\nBy:\n\n\n__________________________________\n\n\n_____________________, The Accelerator", 
+            "title": "Accelerator Agreement"
+        }, 
+        {
+            "location": "/agreements/accelerator/#veres-one-accelerator-agreement-overview", 
+            "text": "The Veres One Accelerator Agreement is designed to ensure that a healthy\necosystem of active Accelerators exist for the Veres One Network and that\nall participants critical to the operation of the Network are properly funded.  There are a number of goals that the Accelerator Agreement is designed to\nachieve:   The Accelerator is a self-directed organization that is granted the\n   limited privilege to rapidly create and update DID Documents by the\n   Veres One Project Board of Governors.  Accelerators that destablize the network are easily detected and culled.  Accelerators are able to make a profit from the services that they provide\n   as long as minimum fees and percentages set by the Veres One Project Board\n   of Governors are passed on to the Veres One Project for the purposes of\n   funding participants critical to the operation of the Network.  Communication between the Board of Governors and the Accelerators must be\n   done publicly, with minor exceptions when dealing with extremely sensitive\n   security or legal issues.", 
+            "title": "Veres One Accelerator Agreement Overview"
+        }, 
+        {
+            "location": "/agreements/accelerator/#veres-one-accelerator-agreement", 
+            "text": "This Veres One Accelerator Agreement (this \"Agreement\") is made effective\nas of March 01, 2018, by and between The Veres One Project (the\n\"Veres One Project\"), of\n__________________________________\n, and\n__________________________________\n(the \"Accelerator\"), of\n__________________________________.", 
+            "title": "Veres One Accelerator Agreement"
+        }, 
+        {
+            "location": "/agreements/accelerator/#description-of-services", 
+            "text": "Beginning on March 01, 2018, the Accelerator will provide the following\nservices (collectively, the \"Services\"):  The acceleration of Decentralized Identifier Document creation and\nmodification and the collection of Network fees on behalf of the Veres\nOne Project.", 
+            "title": "DESCRIPTION OF SERVICES"
+        }, 
+        {
+            "location": "/agreements/accelerator/#payment-of-network-fees", 
+            "text": "The Accelerator will pay compensation to the Veres One Project for the\nServices. Payments will be made electronically as follows:  Minimum Network fees will be set on a yearly basis by the Veres One\nProject Board of Governors. The Accelerator must to collect these\nfees from customers and pay the fees to the Veres One Project on a monthly\nbasis via ACH Transfer, Wire Transfer, or PayPal Transfer. A list of\nthe current Network Fees are available at the following location:  https://docs.veres.one/network/fees/  No other fees and/or expenses will be paid to the Veres One Project,\nunless such fees and/or expenses have been approved in advance by the\nappropriate executive on behalf of the Accelerator in writing. The\nAccelerator shall be solely responsible for any and all taxes, Social\nSecurity contributions or payments, disability insurance, unemployment taxes,\nand other payroll type taxes applicable to collecting and forwarding the\nfees to the Veres One Project.", 
+            "title": "PAYMENT OF NETWORK FEES"
+        }, 
+        {
+            "location": "/agreements/accelerator/#termtermination", 
+            "text": "Termination of this agreement will occur as follows:  This agreement will terminate after a month of the Accelerator no longer\nholding a valid Accelerator credential as provided by the Veres One\nProject.  A regular, ongoing relationship of indefinite term is contemplated.\nThe Veres One Project has no right to assign services to the Accelerator\nother than as specifically contemplated by this Agreement. However, the\nparties may mutually agree that the Accelerator shall perform other services\nfor the Veres One Project, pursuant to the terms of this Agreement.", 
+            "title": "TERM/TERMINATION"
+        }, 
+        {
+            "location": "/agreements/accelerator/#relationship-of-parties", 
+            "text": "It is understood by the parties that the Accelerator is an independent\ncontractor with respect to the Veres One Project, and not an employee of\nthe Veres One Project. The Veres One Project will not provide fringe\nbenefits, including health insurance benefits, paid vacation, or any other\nemployee benefit, for the benefit of the Accelerator.  It is contemplated that the relationship between the Veres one Project and the\nAccelerator shall be a non-exclusive one. The Accelerator also performs\nservices for other organizations and/or individuals. The Veres One Project\nhas no right to further inquire into the Accelerators's other activities.", 
+            "title": "RELATIONSHIP OF PARTIES"
+        }, 
+        {
+            "location": "/agreements/accelerator/#recipients-control", 
+            "text": "The Veres One Project has no right or power to control or otherwise\ninterfere with the Accelerator's mode of effecting performance\nunder this Agreement. The Accelerator's only concern is the accurate collection\nof fees as outlined in this Agreement, and not the means of accomplishing it.\nExcept in extraordinary circumstances and when necessary, the Accelerator shall\nperform the Services without direct supervision by the Veres One Project.", 
+            "title": "RECIPIENT'S CONTROL"
+        }, 
+        {
+            "location": "/agreements/accelerator/#professional-capacity", 
+            "text": "The Accelerator is a professional who uses its own professional and business\nmethods to perform services. The Accelerator has not and will not receive\ntraining from the Veres One Project regarding how to perform the Services.", 
+            "title": "PROFESSIONAL CAPACITY"
+        }, 
+        {
+            "location": "/agreements/accelerator/#personal-services-not-required", 
+            "text": "The Accelerator is not required to render the Services personally and may\nemploy others to perform the Services on behalf of the Veres One Project\nwithout the Veres One Project's knowledge or consent. If the Accelerator\nhas assistants, it is the Accelerators's responsibility to hire them and\nto provide materials for them.", 
+            "title": "PERSONAL SERVICES NOT REQUIRED"
+        }, 
+        {
+            "location": "/agreements/accelerator/#no-location-on-premises", 
+            "text": "The Accelerator has no desk or other equipment either located at or\nfurnished by the Veres One Project. Except to the extent that\nthe Accelerator works in a territory as defined by the Veres One Project, its\nservices are not integrated into the mainstream of the Veres One Project's\nbusiness.", 
+            "title": "NO LOCATION ON PREMISES"
+        }, 
+        {
+            "location": "/agreements/accelerator/#no-set-work-hours", 
+            "text": "The Accelerator has no set hours of work. There is no requirement that the\nAccelerator work full time or otherwise account for work hours.", 
+            "title": "NO SET WORK HOURS"
+        }, 
+        {
+            "location": "/agreements/accelerator/#expenses-paid-by-the-accelerator", 
+            "text": "The Accelerator's business and travel expenses are to be paid by the\nAccelerator and not by the Recipient.", 
+            "title": "EXPENSES PAID BY THE ACCELERATOR"
+        }, 
+        {
+            "location": "/agreements/accelerator/#no-right-to-act-as-agent", 
+            "text": "An \"employer-employee\" or \"principal-agent\" relationship is not created\nmerely because (1) the Veres One Project has or retains the right to\nsupervise or inspect the work as it progresses in order to ensure compliance\nwith the terms of the contract or (2) the\nVeres One Project has or retains the right to revoke the Accelerator's\ncredentials on the Network and thus it's limited ability to rapidly\neffect changes on the network if it is in violation of this Agreement.\nThe Accelerator has no right to act as an agent for the Veres One Project and\nhas an obligation to notify any involved parties that it is not an agent of the\nVeres One Project.", 
+            "title": "NO RIGHT TO ACT AS AGENT"
+        }, 
+        {
+            "location": "/agreements/accelerator/#entire-agreement", 
+            "text": "This Agreement constitutes the entire contract between the parties. All\nterms and conditions contained in any other writings previously executed\nby the parties regarding the matters\ncontemplated herein shall be deemed to be merged herein and superseded\nhereby. No modification of this Agreement shall be deemed effective unless\nin writing and signed by the parties hereto.", 
+            "title": "ENTIRE AGREEMENT"
+        }, 
+        {
+            "location": "/agreements/accelerator/#waiver-of-breach", 
+            "text": "The waiver by the Veres One Project of a breach of any provision of this\nAgreement by the Accelerator shall not operate or be construed as a waiver\nof any subsequent breach by the Accelerator.", 
+            "title": "WAIVER OF BREACH"
+        }, 
+        {
+            "location": "/agreements/accelerator/#severability", 
+            "text": "If any provision of this Agreement shall be held to be invalid or unenforceable\nfor any reason, the remaining provisions shall continue to be valid and\nenforceable. If a court finds that any provision of this Agreement is invalid\nor unenforceable, but that by limiting such provision it would become valid\nand enforceable, then such provision shall be deemed to be written, construed,\nand enforced as so limited.", 
+            "title": "SEVERABILITY"
+        }, 
+        {
+            "location": "/agreements/accelerator/#applicable-law", 
+            "text": "This Agreement shall be governed by the laws of the Commonwealth of Virginia.", 
+            "title": "APPLICABLE LAW"
+        }, 
+        {
+            "location": "/agreements/accelerator/#signatories", 
+            "text": "This Agreement shall be signed on behalf of the Veres One\nProject by\n__________________________________\n, Chairperson of the Board of Governors and on behalf of the Accelerator\nby\n__________________________________\n,\n__________________________________  and effective as of the date first above written.  By:  __________________________________  Member, Board of Governors, The Veres One Project  By:  __________________________________  _____________________, The Accelerator", 
+            "title": "SIGNATORIES"
+        }, 
+        {
+            "location": "/agreements/software/", 
+            "text": "Topic\n\n\nTBD", 
+            "title": "Software License"
+        }, 
+        {
+            "location": "/agreements/software/#topic", 
+            "text": "TBD", 
+            "title": "Topic"
         }, 
         {
             "location": "/about/", 

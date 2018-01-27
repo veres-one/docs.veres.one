@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2018-01-24</lastmod>
+     <lastmod>2018-01-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
      <loc>/summary/</loc>
-     <lastmod>2018-01-24</lastmod>
+     <lastmod>2018-01-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -20,7 +20,7 @@
     
     <url>
      <loc>/why/</loc>
-     <lastmod>2018-01-24</lastmod>
+     <lastmod>2018-01-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -28,7 +28,7 @@
     
     <url>
      <loc>/credentials/</loc>
-     <lastmod>2018-01-24</lastmod>
+     <lastmod>2018-01-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -36,7 +36,7 @@
     
     <url>
      <loc>/sectors/</loc>
-     <lastmod>2018-01-24</lastmod>
+     <lastmod>2018-01-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -44,32 +44,50 @@
     
         
     <url>
-     <loc>/ecosystem/</loc>
-     <lastmod>2018-01-24</lastmod>
+     <loc>/network/</loc>
+     <lastmod>2018-01-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/ecosystem/nodes/</loc>
-     <lastmod>2018-01-24</lastmod>
+     <loc>/network/nodes/</loc>
+     <lastmod>2018-01-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/ecosystem/accelerators/</loc>
-     <lastmod>2018-01-24</lastmod>
+     <loc>/network/accelerators/</loc>
+     <lastmod>2018-01-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/ecosystem/maintainer/</loc>
-     <lastmod>2018-01-24</lastmod>
+     <loc>/network/maintainer/</loc>
+     <lastmod>2018-01-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/ecosystem/governors/</loc>
-     <lastmod>2018-01-24</lastmod>
+     <loc>/network/governors/</loc>
+     <lastmod>2018-01-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/network/governance/</loc>
+     <lastmod>2018-01-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/network/economics/</loc>
+     <lastmod>2018-01-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/network/fees/</loc>
+     <lastmod>2018-01-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -79,25 +97,13 @@
         
     <url>
      <loc>/developers/</loc>
-     <lastmod>2018-01-24</lastmod>
+     <lastmod>2018-01-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/developers/quickstart/</loc>
-     <lastmod>2018-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/developers/guides/</loc>
-     <lastmod>2018-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/developers/rest-api/</loc>
-     <lastmod>2018-01-24</lastmod>
+     <lastmod>2018-01-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -106,15 +112,49 @@
     
     <url>
      <loc>/faq/</loc>
-     <lastmod>2018-01-24</lastmod>
+     <lastmod>2018-01-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
+        
+    <url>
+     <loc>/agreements/</loc>
+     <lastmod>2018-01-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/agreements/governor/</loc>
+     <lastmod>2018-01-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/agreements/maintainer/</loc>
+     <lastmod>2018-01-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/agreements/accelerator/</loc>
+     <lastmod>2018-01-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/agreements/software/</loc>
+     <lastmod>2018-01-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
     <url>
      <loc>/about/</loc>
-     <lastmod>2018-01-24</lastmod>
+     <lastmod>2018-01-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
