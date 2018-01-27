@@ -1,4 +1,5 @@
 site_name: Veres One
+site_url: https://docs.veres.one/
 theme:
   name: 'material'
   custom_dir: veresone_theme
