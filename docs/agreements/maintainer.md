@@ -28,7 +28,7 @@ achieve:
 This Software Maintenance Agreement is made effective as of March 01,
 2018, by and between The Veres One Project ("Veres One Project" or
 "Service Recipient") of VERES_ONE_PROJECT_ADDRESS, and
-Veres One LLC ("Veres One Maintainer" or "Service Provider") of
+Blockchain Architectural Services LLC ("Maintainer" or "Service Provider") of
 203 Roanoke Street W, Blacksburg, Virginia 24060.
 
 ## DESCRIPTION OF SERVICES
@@ -80,8 +80,9 @@ In consideration of the services to be performed by the
 Service Provider, the Client agrees to compensate the Service Provider for
 the services rendered as follows:
 
-Payment shall be made to Veres One LLC on a monthly basis per the funding
-allocation model as determined on a yearly basis by the Board of Governors.
+Payment shall be made to Blockchain Architectural Services LLC on a monthly 
+basis per the funding allocation model as determined on a yearly basis by 
+the Board of Governors.
 Service Provider's fees for the services specified in Paragraph 2, above,
 and for any additional services, will be communicated to the Board of
 Governors before yearly funding allocation decisions are made.
@@ -96,7 +97,7 @@ connection with Service Providers performance of its duties under this
 Contract are internal costs and are not covered by Service Recipient.
 
 In addition to any other right or remedy provided by law, if Veres One
-Project fails to pay for the Services when due, Veres One Maintainer has
+Project fails to pay for the Services when due, Maintainer has
 the option to treat such failure to pay as a material breach of this
 Contract, and may cancel this Contract and/or seek legal remedies.
 
@@ -112,17 +113,17 @@ this Contract.
 
 This Contract will remain in effect for a period of five years.
 
-Upon termination of this Contract, Veres One Maintainer will return to
+Upon termination of this Contract, Maintainer will return to
 Veres One Project all records, notes, documentation and other items that
-were used, created, or controlled by Veres One Maintainer during the term
+were used, created, or controlled by Maintainer during the term
 of this Contract.
 
 ## GENERAL WARRANTY
 
-Veres One Maintainer shall provide its services and
+Maintainer shall provide its services and
 meet its obligations under this Contract in a timely and workmanlike
 manner, using knowledge and recommendations for performing the services
-which meet generally acceptable standards in Veres One Maintainer's
+which meet generally acceptable standards in Maintainer's
 community and region, and will provide a standard of care equal to, or
 superior to, care used by service providers similar to Veres One
 Maintainer on similar projects. Service Provider shall not be liable for
@@ -252,4 +253,4 @@ By:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Manu Sporny, Managing Director, Veres One LLC
+Manu Sporny, Managing Director, Blockchain Architectural Services
