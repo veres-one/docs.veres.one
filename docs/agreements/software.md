@@ -1,8 +1,7 @@
-# Veres One Ethical Open Source Software License Overview
+# Veres One Open Software License Overview
 
-The Veres One Ethical Open Source Software License is designed to
-ensure that the technology is available as open source software, but in a
-way that avoids a
+The Veres One Open Software License is designed to ensure that the technology
+is available online, but in a way that avoids a
 [tragedy of the commons](https://words.werd.io/why-open-source-software-isnt-as-ethical-as-you-think-it-is-2e34d85c3b16)
 where large corporations profit from the technology without supporting
 the Veres One Project or without remunerating the software developers that
@@ -21,14 +20,14 @@ There are a number of goals that the software license is designed to achieve:
 
 The Veres One Project is aware that the proliferation of open source licenses
 is a problem and that the license below exacerbates that problem. At the
-same time, we know of no widely used "Ethical Open Source" license and are
+same time, we know of no widely used "Open" license and are
 therefore making an initial attempt at one below. We will be working
 with open source advocates and lawyers to generalize the license below
 over the coming years.
 
 -------------------
 
-# Veres One Ethical Open Source Software License
+# Veres One Open Software License
 
 Version 1, 01 January 2018
 
@@ -41,7 +40,7 @@ license document, but changing it is not allowed.
 
 ### Preamble
 
-The Veres One Ethical Open Source License is a free, copyleft license for
+The Veres One Open Software License is a free, copyleft license for
 software and other kinds of works, specifically designed to ensure
 cooperation with the community in the case of network server software. It is
 based on the
@@ -72,7 +71,7 @@ follow.
 
 #### 0. Definitions.
 
-"This License" refers to version 1 of the Veres One Ethical Open Source
+"This License" refers to version 1 of the Veres One Open Software
 License.
 
 "Copyright" also means copyright-like laws that apply to other kinds
@@ -571,21 +570,21 @@ but the work with which it is combined will remain governed by version
 #### 14. Revised Versions of this License.
 
 The Veres One Project may publish revised and/or new versions
-of the Veres One Ethical Open Source License from time to time. Such new
+of the Veres One Open Software License from time to time. Such new
 versions will be similar in spirit to the present version, but may
 differ in detail to address new problems or concerns.
 
 Each version is given a distinguishing version number. If the Program
-specifies that a certain numbered version of the Veres One Ethical Open Source
+specifies that a certain numbered version of the Veres One Open Software
 License "or any later version" applies to it, you have the
 option of following the terms and conditions either of that numbered
 version or of any later version published by the Veres One Project.
 If the Program does not specify a version number of the
-Veres One Ethical Open Source License, you may choose any version ever
+Veres One Open Software License, you may choose any version ever
 published by the Veres One Project.
 
 If the Program specifies that a proxy can decide which future versions
-of the Veres One Ethical Open Source License can be used, that proxy's
+of the Veres One Open Software License can be used, that proxy's
 public statement of acceptance of a version permanently authorizes you
 to choose that version for the Program.
 
