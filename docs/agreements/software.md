@@ -20,8 +20,10 @@ There are a number of goals that the software license is designed to achieve:
 
 The Veres One Project is aware that the proliferation of open source licenses
 is a problem and that the license below exacerbates that problem. At the
-same time, we know of no widely used "Open" license and are
-therefore making an initial attempt at one below. We will be working
+same time, we know of no widely used Open Source license that achieves the
+goals above. We want to be able to be open while providing for our families,
+therefore, we are making an initial attempt at one below by making a single
+modification to the Terms and Conditions of the AGPLv3. We will be working
 with open source advocates and lawyers to generalize the license below
 over the coming years.
 
