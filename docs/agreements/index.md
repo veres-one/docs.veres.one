@@ -14,8 +14,12 @@ to protect the Veres One network:
 * The [Accelerator Agreement](accelerator.md) specifies the obligations of the
   people and organizations that perform accelerated DID creation,
   modification, and fee collection on behalf of the Veres One Project.
-* The [Software Agreement](software.md) specifies the obligations of the people
+* The [Software License](software.md) specifies the obligations of the people
   that use and contribute to the Veres One software.
+* The [Individual Contributor License Agreement](icla.md) and the
+  [Corporate Contributor License Agreement](ccla.md) ensures
+  that contributions to documentation and source code remain under a
+  non-discriminatory, patent-free and royalty-free license.
 
-For more information on each agreement, you may click on the link above to
-dive deeper into the details.
+For more information on each agreement, you may click on any of the links 
+above to dive deeper into the details.
