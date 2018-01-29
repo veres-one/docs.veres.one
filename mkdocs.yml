@@ -30,4 +30,6 @@ pages:
         - 'Maintainer Agreement': 'agreements/maintainer.md'
         - 'Accelerator Agreement': 'agreements/accelerator.md'
         - 'Software License': 'agreements/software.md'
+        - 'Individual Contributor Agreement': 'agreements/icla.md'
+        - 'Corporate Contributor Agreement': 'agreements/ccla.md'
     - 'About': 'about.md'
