@@ -1,7 +1,8 @@
-# Veres One Open Software License Overview
+# Veres One Community Software License Overview
 
-The Veres One Open Software License is designed to ensure that the technology
-is available online, but in a way that avoids a
+The Veres One Community Software License is designed to ensure that the
+Veres One Network source code is readily available and that anyone can
+run it, but in a way that avoids a
 [tragedy of the commons](https://words.werd.io/why-open-source-software-isnt-as-ethical-as-you-think-it-is-2e34d85c3b16)
 where large corporations profit from the technology without supporting
 the Veres One Project or without remunerating the software developers that
@@ -9,29 +10,31 @@ have created and continue to improve the software platform.
 
 There are a number of goals that the software license is designed to achieve:
 
- * In general, operate under the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html).
+ * The license is the
+   [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html)
+   with one modification.
  * In order to ensure non-discriminatory usage to participants of the
-   Veres One Network, ensure that anyone may run the Veres One Software to
-   support the Veres One Network in a non-discriminatory patent and
+   Veres One Network, ensure that anyone may run and modify the Veres One
+   Software to support the Veres One Network in a non-discriminatory patent and
    royalty-free manner.
  * In order to avoid a tragedy of the commons, ensure that the software
    cannot be repurposed for another for-profit application without
-   discussing remuneration with the developers.
+   discussing remuneration with the Veres One Project.
 
 The Veres One Project is aware that the proliferation of open source licenses
 is a problem and that the license below exacerbates that problem. At the
 same time, we know of no widely used Open Source license that achieves the
 goals above. We want to be able to be open while providing for our families,
-therefore, we are making an initial attempt at one below by making a single
-modification to the Terms and Conditions of the AGPLv3. We will be working
-with open source advocates and lawyers to generalize the license below
+therefore, we are making an initial attempt at such a license below by making
+a single modification to the Terms and Conditions of the AGPLv3. We will be
+working with open source advocates and lawyers to generalize the license below
 over the coming years.
 
 -------------------
 
-# Veres One Open Software License
+# Veres One Community Software License
 
-Version 1, 01 January 2018
+Version 1, January 1st, 2018
 
 Base Version Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 
@@ -42,7 +45,7 @@ license document, but changing it is not allowed.
 
 ### Preamble
 
-The Veres One Open Software License is a free, copyleft license for
+The Veres One Community Software License is a free, copyleft license for
 software and other kinds of works, specifically designed to ensure
 cooperation with the community in the case of network server software. It is
 based on the
@@ -572,7 +575,7 @@ but the work with which it is combined will remain governed by version
 #### 14. Revised Versions of this License.
 
 The Veres One Project may publish revised and/or new versions
-of the Veres One Open Software License from time to time. Such new
+of the Veres One Community Software License from time to time. Such new
 versions will be similar in spirit to the present version, but may
 differ in detail to address new problems or concerns.
 
@@ -582,11 +585,11 @@ License "or any later version" applies to it, you have the
 option of following the terms and conditions either of that numbered
 version or of any later version published by the Veres One Project.
 If the Program does not specify a version number of the
-Veres One Open Software License, you may choose any version ever
+Veres One Community Software License, you may choose any version ever
 published by the Veres One Project.
 
 If the Program specifies that a proxy can decide which future versions
-of the Veres One Open Software License can be used, that proxy's
+of the Veres One Community Software License can be used, that proxy's
 public statement of acceptance of a version permanently authorizes you
 to choose that version for the Program.
 
