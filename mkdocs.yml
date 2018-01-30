@@ -1,9 +1,12 @@
 site_name: Veres One
 site_url: https://docs.veres.one/
+extra_css:
+    - css/extra.css
 theme:
   name: 'material'
   custom_dir: veresone_theme
   logo: img/logo-white-24px.png
+  extra_css: 'foooooo'
 pages:
     - 'Home': 'index.md'
     - 'Summary': 'summary.md'
