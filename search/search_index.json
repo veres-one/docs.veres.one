@@ -197,13 +197,28 @@
         }, 
         {
             "location": "/network/maintainer/", 
-            "text": "Topic\n\n\nTBD", 
+            "text": "The Veres One Maintainer\n\n\nThe Veres One Maintainer is an organization that is hired by the\nVeres One Board of Directors on behalf of the Veres One Network to\nmaintain the\n\nVeres One Software\n. Services provided by\nthe Maintainer include continuous security review (and 3rd party audits),\nmanaging community contributions, correcting software defects, and\nimplementing new features identified by the Network participants or\nthe Board of Directors.\n\n\nWhy is there a Maintainer?\n\n\nGovernance and the alignment of incentives is a critical part of creating a\nglobal public utility. For this reason, it is important that the technical\nimplementation of the blockchain and the governing body for the ledger are\nseparate such that no party may unduly enrich themselves or harm the Network\nin any other way because of the position that they hold.\n\n\nYou can read more on the \nVeres One Governance\n page.\n\n\nBecoming the Maintainer\n\n\nThe Maintainer, and its employees, are chosen based on technical competence,\na proven track record of contributing to and providing critical fixes to\nthe Veres One software, and providing a competitive market rate for the\nservices provided.\n\n\nThe contract that the Maintainer must agree to when selected is covered\nunder the \nVeres One Maintainer Agreement\n.\n\n\nInteracting with the Maintainer\n\n\nThe primary mechanism of interacting with the Maintainer are by logging\nissues in the \nVeres One Software\n repositories,\nthe \nVeres One Project public mailing list\n, and\nthe regular held Veres One teleconferences, which are announced on the public\nmailing list.", 
             "title": "The Maintainer"
         }, 
         {
-            "location": "/network/maintainer/#topic", 
-            "text": "TBD", 
-            "title": "Topic"
+            "location": "/network/maintainer/#the-veres-one-maintainer", 
+            "text": "The Veres One Maintainer is an organization that is hired by the\nVeres One Board of Directors on behalf of the Veres One Network to\nmaintain the Veres One Software . Services provided by\nthe Maintainer include continuous security review (and 3rd party audits),\nmanaging community contributions, correcting software defects, and\nimplementing new features identified by the Network participants or\nthe Board of Directors.", 
+            "title": "The Veres One Maintainer"
+        }, 
+        {
+            "location": "/network/maintainer/#why-is-there-a-maintainer", 
+            "text": "Governance and the alignment of incentives is a critical part of creating a\nglobal public utility. For this reason, it is important that the technical\nimplementation of the blockchain and the governing body for the ledger are\nseparate such that no party may unduly enrich themselves or harm the Network\nin any other way because of the position that they hold.  You can read more on the  Veres One Governance  page.", 
+            "title": "Why is there a Maintainer?"
+        }, 
+        {
+            "location": "/network/maintainer/#becoming-the-maintainer", 
+            "text": "The Maintainer, and its employees, are chosen based on technical competence,\na proven track record of contributing to and providing critical fixes to\nthe Veres One software, and providing a competitive market rate for the\nservices provided.  The contract that the Maintainer must agree to when selected is covered\nunder the  Veres One Maintainer Agreement .", 
+            "title": "Becoming the Maintainer"
+        }, 
+        {
+            "location": "/network/maintainer/#interacting-with-the-maintainer", 
+            "text": "The primary mechanism of interacting with the Maintainer are by logging\nissues in the  Veres One Software  repositories,\nthe  Veres One Project public mailing list , and\nthe regular held Veres One teleconferences, which are announced on the public\nmailing list.", 
+            "title": "Interacting with the Maintainer"
         }, 
         {
             "location": "/network/governors/", 
@@ -217,12 +232,12 @@
         }, 
         {
             "location": "/network/governance/", 
-            "text": "Governance of the Veres One Network\n\n\nAll technologies have a socio-political aspect which, if ignored, can have\nnegative repercussions on the network and society. With this in mind, the\ngovernance around the Veres One Network is designed to carefully balance the\nneeds of all participants while ensuring the long-term viability of the network\nfor decades to come.", 
+            "text": "Governance of the Veres One Network\n\n\nAll technologies have a socio-political aspect which, if ignored, can have\nnegative repercussions on the Network and society. With this in mind, the\ngovernance around the Veres One Network is designed to carefully balance the\nneeds of all participants while ensuring the long-term viability of the network\nfor decades to come.\n\n\nThere are three critical communities when it comes to governance on the Veres One\nNetwork: the \nNetwork participants\n,\nthe \nBoard of Governors\n, and the \nMaintainer\n.\n\n\nThe Board of Governors have their powers checked by the Maintainer and the\nNetwork participants. The Maintainer has its powers checked by the Board of\nGovernors and the Network participants. Implementation of new features that\naffect the Network require the implicit approval of the Network participants,\nand the explicit approval of both the Board of Governors and the Maintainer,\nmaking it extremely difficult for any party to make permanent decisions in a\nunilateral fashion.", 
             "title": "Governance"
         }, 
         {
             "location": "/network/governance/#governance-of-the-veres-one-network", 
-            "text": "All technologies have a socio-political aspect which, if ignored, can have\nnegative repercussions on the network and society. With this in mind, the\ngovernance around the Veres One Network is designed to carefully balance the\nneeds of all participants while ensuring the long-term viability of the network\nfor decades to come.", 
+            "text": "All technologies have a socio-political aspect which, if ignored, can have\nnegative repercussions on the Network and society. With this in mind, the\ngovernance around the Veres One Network is designed to carefully balance the\nneeds of all participants while ensuring the long-term viability of the network\nfor decades to come.  There are three critical communities when it comes to governance on the Veres One\nNetwork: the  Network participants ,\nthe  Board of Governors , and the  Maintainer .  The Board of Governors have their powers checked by the Maintainer and the\nNetwork participants. The Maintainer has its powers checked by the Board of\nGovernors and the Network participants. Implementation of new features that\naffect the Network require the implicit approval of the Network participants,\nand the explicit approval of both the Board of Governors and the Maintainer,\nmaking it extremely difficult for any party to make permanent decisions in a\nunilateral fashion.", 
             "title": "Governance of the Veres One Network"
         }, 
         {
