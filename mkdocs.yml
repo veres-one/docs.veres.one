@@ -3,6 +3,7 @@ site_url: https://docs.veres.one/
 theme:
   name: 'material'
   custom_dir: veresone_theme
+  logo: img/logo-white-24px.png
 pages:
     - 'Home': 'index.md'
     - 'Summary': 'summary.md'
