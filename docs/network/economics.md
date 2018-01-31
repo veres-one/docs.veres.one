@@ -51,7 +51,7 @@ financial cost is small.
 Accelerators enable individuals and organizations to rapidly create and update
 Decentralized Identifiers and their associated identity information.
 Accelerators charge their customers for the service and pay the Veres One
-Project [fees set by the Board of Governors](fees.md).
+Project [fees set by the Board of Governors](funding.md).
 
 The Veres One Project then distributes these fees to the Network participants
 according to the

@@ -21,7 +21,7 @@ pages:
         - 'The Board of Governors': 'network/governors.md'
         - 'Governance': 'network/governance.md'
         - 'Economic Model': 'network/economics.md'
-        - 'Fees': 'network/fees.md'
+        - 'Funding': 'network/funding.md'
     - 'Developers':
         - 'Intro': 'developers/index.md'
         - 'Quickstart': 'developers/quickstart.md'
