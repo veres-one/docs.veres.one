@@ -24,7 +24,8 @@ achieve:
 # Veres One Accelerator Agreement
 
 This Veres One Accelerator Agreement (this "Agreement") is made effective
-as of March 01, 2018, by and between The Veres One Project (the
+as of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+(the "Effective Date"), by and between The Veres One Project (the
 "Veres One Project"), of
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 , and
@@ -34,7 +35,8 @@ as of March 01, 2018, by and between The Veres One Project (the
 
 ## DESCRIPTION OF SERVICES
 
-Beginning on March 01, 2018, the Accelerator will provide the following
+Beginning on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+(the "Effective Date"), the Accelerator will provide the following
 services (collectively, the "Services"):
 
 The acceleration of Decentralized Identifier Document creation and

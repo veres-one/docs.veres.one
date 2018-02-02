@@ -33,9 +33,10 @@ Blockchain Architectural Services LLC ("Maintainer" or "Service Provider") of
 
 ## DESCRIPTION OF SERVICES
 
-Beginning on March 01, 2018, Veres One
-Maintainer will provide to the Veres One Project the following services
-(collectively, the "Services"):
+Beginning on 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+(the "Effective Date"), Veres One Maintainer will provide to the Veres One 
+Project the following services (collectively, the "Services"):
 
 Software design, development, and deployment services as required for the
 proper operation of the Veres One Network or as directed by the Veres One

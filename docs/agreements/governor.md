@@ -24,7 +24,9 @@ to achieve:
 # Veres One Board of Governors Agreement
 
 This Veres One Board of Governors Agreement (this "Agreement") is made
-effective as of March 01, 2018, by and between The Veres One Project of
+effective as of 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+(the "Effective Date"), by and between The Veres One Project of
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 ("Veres One Project") and
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -101,7 +103,9 @@ recorded consent of greater than 2/3rds of the Board of Governors.
 ## TERM/TERMINATION
 
 Board Member's relationship under this Agreement shall be for two years,
-beginning on March 01, 2018. This Agreement may be terminated by The Veres One
+beginning on 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+(the "Effective Date"). This Agreement may be terminated by The Veres One
 Project upon one month written notice, and by Board Member upon one month
 written notice. If Board Member is in violation of this Agreement, The Veres
 One Project may terminate employment without notice and with compensation
