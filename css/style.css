@@ -4,7 +4,7 @@
 	Project: Veres One - A Globally Interoperable Blockchain for Identity
 	All rights reserved
 */
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700|Raleway:300,400,600');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700|Raleway:300,400,400i,600');
 
 body, html {
     font-family: 'Raleway', sans-serif;
@@ -48,7 +48,6 @@ body, html {
     width: 50px;
     display: inline-block;
     vertical-align: middle;
-    filter: brightness(0) invert(1);
 }
 .navbar-inverse .navbar-nav > li > a {
     font-size: 13px;
@@ -106,7 +105,6 @@ body, html {
     display: block;
     margin: auto;
     width: 150px;
-    filter: brightness(0) invert(1);
 }
 .logo:hover,
 .logo:focus {
@@ -158,10 +156,11 @@ section {
 }
 section h1 {
     font-size: 36px;
-    font-weight: 400;
     margin: 0;
     color: #111;
     text-align: center;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
 }
 section h2 {
     font-weight: 400;
@@ -233,7 +232,44 @@ section.with-image h2 {
     color: rgba(255,255,255,1);
     width: 60%;
     margin: auto;
+    font-style: italic;
     line-height: 1.6;
+}
+section.grey-new {
+    background: #333333;
+    padding: 80px 0px;
+}
+section.grey-new h1 {
+    color: #fff;
+    font-size: 26px;
+    font-style: italic;
+}
+section.grey-new h2 {
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    letter-spacing: 1px;
+    font-size: 18px;
+    line-height: normal;
+    margin-bottom: 40px;
+}
+section.grey-new h3 {
+    text-align: left;
+    color: #18c5fe;
+    font-style: italic;
+    font-size: 24px;
+    font-weight: normal;
+    margin-bottom: 5px;
+}
+section.grey-new p {
+    color: rgba(255,255,255,0.9);
+}
+section.grey-new .spacer.new {
+    display: block;
+    height: 30px;
+}
+section.global-public-utility {
+    padding: 100px 0px;
 }
 
 /* SECTORS */
@@ -278,6 +314,18 @@ section.with-image h2 {
 .sectors .new-icon {
     width: 50px;
 }
+.global-public-utility img {
+    width: 100px;
+    display: block;
+    margin: 30px auto 15px auto;
+}
+.global-public-utility h3 {
+    display: block;
+    font-weight: bold;
+}
+.global-public-utility p {
+    text-align: center;
+}
 
 /* HALF HALF */
 .half-section {
@@ -307,6 +355,10 @@ section.with-image h2 {
     position: relative;
     z-index: 1;
 }
+.half-section h1 {
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
 
 /* BOOKS */
 .books {
@@ -329,10 +381,10 @@ section.with-image h2 {
     background: #fff;
 }
 .books .book img {
-    width: 115px;
+    width: 100x;
     display: block;
     margin: auto;
-    filter: grayscale(1);
+    filter: invert(1);
     opacity: 0.2;
     -webkit-transition: 0.3s ease all;
     -o-transition: 0.3s ease all;
@@ -379,7 +431,7 @@ section.with-image h2 {
 }
 .books .book:hover img,
 .books .book:focus img {
-    filter: brightness(0) invert(1);
+    filter: invert(0);
     opacity: 1;
 }
 
@@ -405,10 +457,15 @@ section.with-image h2 {
 }
 .how-it-works h1 {
     text-align: center;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
 }
 .how-it-works p {
     text-align: center;
     color: rgba(255,255,255,0.7);
+}
+.how-it-works .slides .slide img {
+    width: 100% !important;
 }
 
 .slides-container {
@@ -489,7 +546,7 @@ section.with-image h2 {
     display: block;
 }
 #ecosystem .icon img {
-    max-width: 100%;
+    width: 100px;
     display: block;
     margin: auto;
 }
@@ -499,7 +556,8 @@ section.with-image h2 {
 #ecosystem h2 {
     text-align: center;
     margin: 10px 0px;
-    color: #18c5fe;
+    color: #003366;
+    font-weight: 600;
 }
 
 .developers {
@@ -516,6 +574,10 @@ section.with-image h2 {
 }
 .developers .col-sm-4 {
     margin-top: 50px;
+}
+.developers h1 {
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
 }
 .developers h2 {
     display: block;
@@ -565,6 +627,8 @@ section.with-image h2 {
     font-size: 48px;
     margin: 0px;
     font-weight: 600;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
 }
 .why-us p {
     padding: 10px 0px 0px 0px;
@@ -608,6 +672,10 @@ section.with-image h2 {
 .contact form .form-group .form-control:focus {
     border: 1px solid #18b5ed;
 }
+.contact h1 {
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
 
 .what-is {
     padding: 80px 0px;
@@ -640,6 +708,8 @@ section.with-image h2 {
 .comparation h1 {
     text-align: center;
     margin-bottom: 40px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
 }
 .comparation .table thead th {
     border: none;
@@ -748,6 +818,10 @@ section.with-image h2 {
     display: block;
     padding: 5px;
     color: rgba(255,255,255,0.4);
+}
+
+.sectors.governance img {
+    width: 100px;
 }
 
 @media (max-width:768px) {
@@ -868,5 +942,10 @@ section.with-image h2 {
     }
     section {
         padding: 80px 0px;
+    }
+}
+@media (min-width:768px) and (max-width:1200px) {
+    .main {
+        background-position: center;
     }
 }
