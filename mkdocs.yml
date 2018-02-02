@@ -1,5 +1,6 @@
 site_name: Veres One
 site_url: https://docs.veres.one/
+copyright: Copyright 2018 - The Veres One Project - <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-4.0</a>
 extra_css:
     - css/extra.css
 theme:
@@ -10,7 +11,6 @@ theme:
 pages:
     - 'Home': 'index.md'
     - 'Summary': 'summary.md'
-    - 'Why Veres One?': 'why.md'
     - 'Credentials': 'credentials.md'
     - 'Sectors': 'sectors.md'
     - 'The Network':
@@ -36,4 +36,3 @@ pages:
         - 'Software License': 'agreements/software.md'
         - 'Individual Contributor Agreement': 'agreements/icla.md'
         - 'Corporate Contributor Agreement': 'agreements/ccla.md'
-    - 'About': 'about.md'
