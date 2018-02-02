@@ -7,9 +7,9 @@ theme:
   name: 'material'
   custom_dir: veresone_theme
   logo: img/logo-white-24px.png
-  extra_css: 'foooooo'
 pages:
     - 'Home': 'index.md'
+    - 'Why Veres One': 'why.md'
     - 'Summary': 'summary.md'
     - 'Credentials': 'credentials.md'
     - 'Sectors': 'sectors.md'
