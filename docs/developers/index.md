@@ -6,6 +6,6 @@ and ownership over their identity data.
 
 This section includes the following material that:
 
- * [Developer Benefits](benefits.md),
- * [Quickstart Guides](guides.md), and
- * [Developer APIs](apis.md)
+ * [Developer Benefits](benefits.md), and
+ * [Quickstart Guides](guides/index.md), and
+ * [Developer APIs](apis/index.md)

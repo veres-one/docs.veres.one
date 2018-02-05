@@ -25,7 +25,7 @@ pages:
     - 'Developers':
         - 'Intro': 'developers/index.md'
         - 'Benefits': 'developers/benefits.md'
-        - 'Quickstart': 'developers/quickstart.md'
+        - 'Guides': 'developers/guides/index.md'
 #        - 'Guides': 'developers/guides.md'
 #        - 'REST API': 'developers/rest-api.md'
     - 'FAQ': 'faq.md'
