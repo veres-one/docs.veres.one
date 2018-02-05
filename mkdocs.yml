@@ -25,7 +25,10 @@ pages:
     - 'Developers':
         - 'Intro': 'developers/index.md'
         - 'Benefits': 'developers/benefits.md'
-        - 'Guides': 'developers/guides/index.md'
+        - 'Guides':
+            - 'Intro': 'developers/guides/index.md'
+            - 'DID Creation': 'developers/guides/create-did.md'
+            - 'Node Setup': 'developers/guides/node-setup.md'
 #        - 'Guides': 'developers/guides.md'
 #        - 'REST API': 'developers/rest-api.md'
     - 'FAQ': 'faq.md'

@@ -19,7 +19,7 @@ typically takes 6-9 hours for a software application to generate. Once the
 Network verifies the proof of work and comes to consensus, the Decentralized
 Identifier will be created.
 
-# Network Incentives
+## Network Incentives
 
 The Veres One Network attempts to achieve three important goals.
 
@@ -40,7 +40,7 @@ Blockchain.
 There is an absolute cost for running the network and that requires a steady
 stream of revenue. Accelerators provide this stream of revenue.
 
-# How it Works
+## How it Works
 
 Few individuals and organizations want to perform a Proof of Work to write
 to the Veres One blockchain. Many individuals and businesses cannot be

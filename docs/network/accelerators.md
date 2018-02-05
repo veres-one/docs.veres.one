@@ -17,13 +17,13 @@ The money-based approach is to pay an Accelerator to create a Decentralized
 Identifier, which happens as quickly as the Network can come to consensus
 (a few minutes).
 
-# Fees
+## Fees
 
 The Veres One Project collects proceeds from Accelerators at
 [agreed upon rates](funding.md) set by the [Board of Governors](governors.md)
 and distributes the funds according to current operational needs.
 
-# Fee Exemptions
+## Fee Exemptions
 
 Accelerator fees will be waived by the [Board of Governors](governors.md) on
 a case-by-case basis for Accelerators that provide services to humanitarian
@@ -36,13 +36,13 @@ causes such as:
 Other humanitarian causes may be considered by emailing the Veres One
 Board of Governors at governors@veres.one.
 
-# Running an Accelerator
+## Running an Accelerator
 
 Approved organizations may run an Accelerator by following the instructions
 provided by the
 [Veres One Accelerator Software](https://github.com/veres-one/accelerator).
 
-# Becoming an Accelerator
+## Becoming an Accelerator
 
 Since Accelerators hold a position of privilege on the Network, and because
 they collect money on behalf of the Veres one Project, they must go

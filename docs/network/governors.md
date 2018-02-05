@@ -8,7 +8,7 @@ Board of Governors must be composed of at least 50% women and should strive
 to be ethnically and nationally diverse where interests from citizens spread
 across the globe, both physically and economically, are well represented.
 
-# Communication
+## Communication
 
 All communication with and among the Board of Directors must be public. The
 only exception to this rule is the communication of private or sensitive
@@ -20,7 +20,7 @@ Directors. The first is the
 second are the regularly held, transcribed, and recorded teleconferences,
 which are announced on the public mailing list.
 
-# Decisions Making Process
+## Decisions Making Process
 
 All non-time sensitive decisions made by the Board of Directors must be made
 by consensus which is defined as general agreement with no principled
@@ -31,7 +31,7 @@ exhausting a consensus-based approach.
 
 All decisions made must be publicly recorded and announced.
 
-# Term Limits
+## Term Limits
 
 There is a two year term limit for a member of the Board of Governors. When
 a member ends their term, a new member must be chosen by the Board of Governors
