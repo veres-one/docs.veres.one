@@ -20,7 +20,7 @@ Identifier, which happens as quickly as the Network can come to consensus
 # Fees
 
 The Veres One Project collects proceeds from Accelerators at
-[agreed upon rates](fees.md) set by the [Board of Governors](governors.md)
+[agreed upon rates](funding.md) set by the [Board of Governors](governors.md)
 and distributes the funds according to current operational needs.
 
 # Fee Exemptions

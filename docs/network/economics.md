@@ -54,5 +54,4 @@ Accelerators charge their customers for the service and pay the Veres One
 Project [fees set by the Board of Governors](funding.md).
 
 The Veres One Project then distributes these fees to the Network participants
-according to the
-[distribution policy set by the Board of Governors](distribution.md).
+according to the [funding policy set by the Board of Governors](funding.md).

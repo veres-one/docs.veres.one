@@ -24,6 +24,7 @@ pages:
         - 'Funding': 'network/funding.md'
     - 'Developers':
         - 'Intro': 'developers/index.md'
+        - 'Benefits': 'developers/benefits.md'
         - 'Quickstart': 'developers/quickstart.md'
 #        - 'Guides': 'developers/guides.md'
 #        - 'REST API': 'developers/rest-api.md'
