@@ -4,7 +4,7 @@ In order to ensure that critical participants in the the Veres One Network
 are properly funded, the Veres One Project via Accelerators, collect fees
 from customers by providing value-added services.
 
-# Fees
+## Fees
 
 The following is a list of fees that are expected to be collected by
 Accelerators on behalf of the Veres One Project:
@@ -15,7 +15,7 @@ Accelerators on behalf of the Veres One Project:
 | DID Document update | $0.25 USD |
 | Verifiable Credentials | 3% of price charged to customer |
 
-# Funding
+## Funding
 
 The fees that are collected by the Veres One Project are then disbursed to
 organizations based on an annual disbursement profile approved by the

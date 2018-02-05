@@ -4,7 +4,7 @@ Nodes are responsible for providing computational and storage resources for
 the Network. As the system is permissionless, any person or organization may
 run one or more Nodes.
 
-# What is a Node?
+## What is a Node?
 
 A Node on the Veres One Network contains a record of every event that has
 has made its way into the blockchain over time. It is connected to many of
@@ -17,12 +17,12 @@ A node contains a programmatic interface that developers can use to submit
 new events to the Network as well as query the blockchain history and
 its current state.
 
-# Running a Node
+## Running a Node
 
 Anyone may run a node by using the instructions provided by the
 [Veres One Node Software](https://github.com/veres-one/veres-one).
 
-# Electors
+## Electors
 
 An Elector is a special type of Node in the Network that can suggest events
 for inclusion in the blockchain. There are often many electors for a particular
@@ -31,7 +31,7 @@ increase Network security. A constantly shifting set of Electors means that
 it is far more difficult for an attacker to disrupt the normal operation of
 the Network.
 
-# Becoming an Elector
+## Becoming an Elector
 
 Since Electors hold a position of privilege on the Network, they must go
 through a lightweight approval process such that the individual or organization

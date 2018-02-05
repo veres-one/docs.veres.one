@@ -18,7 +18,7 @@ and the explicit approval of both the Board of Governors and the Maintainer,
 making it extremely difficult for any party to make permanent decisions in a
 unilateral fashion.
 
-# Node Checks and Balances
+## Node Checks and Balances
 
 People and organizations run Nodes which are compliant with the open standards
 that are implemented by the Veres One Software. The software itself has
@@ -31,7 +31,7 @@ the Maintainer by refusing to run software that does not take their needs and
 preferences into account. The Nodes may fork the network if they decide to
 run software with a different purpose in mind.
 
-# Maintainer Checks and Balances
+## Maintainer Checks and Balances
 
 The Maintainer is responsible for ensuring that the Veres One Software operates
 according to the needs and preferences of the Network participants and the
@@ -44,7 +44,7 @@ The Board of Governors provide checks and balances against the Maintainer by
 being empowered to terminate the Maintainer's contract and hire a
 replacement.
 
-# Board of Governors Checks and Balances
+## Board of Governors Checks and Balances
 
 The Board of Governors is responsible for ensuring the stability of the
 socio-political and economic operation of the Veres One Network.

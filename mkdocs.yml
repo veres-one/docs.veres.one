@@ -24,7 +24,11 @@ pages:
         - 'Funding': 'network/funding.md'
     - 'Developers':
         - 'Intro': 'developers/index.md'
-        - 'Quickstart': 'developers/quickstart.md'
+        - 'Benefits': 'developers/benefits.md'
+        - 'Guides':
+            - 'Intro': 'developers/guides/index.md'
+            - 'DID Creation': 'developers/guides/create-did.md'
+            - 'Node Setup': 'developers/guides/node-setup.md'
 #        - 'Guides': 'developers/guides.md'
 #        - 'REST API': 'developers/rest-api.md'
     - 'FAQ': 'faq.md'
