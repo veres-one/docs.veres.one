@@ -3,4 +3,5 @@
 The following quickstart guides walk you through developing for different parts
 of the Veres One Ecosystem:
 
- * [Simple Node Setup](simple-node.md)
+ * [Creating a Decentralized Identifier](create-did.md)
+ * [Simple Node Setup](node-setup.md)
