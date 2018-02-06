@@ -3,18 +3,21 @@
 The Veres One Accelerator Agreement is designed to ensure that a healthy
 ecosystem of active Accelerators exist for the Veres One Network and that
 all participants critical to the operation of the Network are properly funded.
+Learn more about the Accelerators
+[here](https://docs.veres.one/network/accelerators/).
 
 There are a number of goals that the Accelerator Agreement is designed to
 achieve:
 
  * The Accelerator is a self-directed organization that is granted the
    limited privilege to rapidly create and update DID Documents by the
-   Veres One Project Board of Governors.
- * Accelerators that destablize the network are easily detected and culled.
- * Accelerators are able to make a profit from the services that they provide
+   Veres One Project [Board of Governors](https://docs.veres.one/network/governors/).
+ * Accelerators that destabilize the network are easily detected and their write
+   access to the network is revoked.
+ * Accelerators are able to make a profit from the services they provide
    as long as minimum fees and percentages set by the Veres One Project Board
    of Governors are passed on to the Veres One Project for the purposes of
-   funding participants critical to the operation of the Network.
+   funding Network operations.
  * Communication between the Board of Governors and the Accelerators must be
    done publicly, with minor exceptions when dealing with extremely sensitive
    security or legal issues.
@@ -45,16 +48,15 @@ One Project.
 
 ## PAYMENT OF NETWORK FEES
 
-The Accelerator will pay compensation to the Veres One Project for the
-Services. Payments will be made electronically as follows:
+The Accelerator compensates the Veres One Project in the amount described under
+[Network Fees](https://docs.veres.one/network/funding/#fees) for
+Services provided to their customers. Payments will be made electronically as
+follows:
 
 Minimum Network fees will be set on a yearly basis by the Veres One
 Project Board of Governors. The Accelerator must to collect these
 fees from customers and pay the fees to the Veres One Project on a monthly
-basis via ACH Transfer, Wire Transfer, or PayPal Transfer. A list of
-the current Network Fees are available at the following location:
-
-[https://docs.veres.one/network/fees/](https://docs.veres.one/network/fees/)
+basis via ACH Transfer, Wire Transfer, or PayPal Transfer.
 
 No other fees and/or expenses will be paid to the Veres One Project,
 unless such fees and/or expenses have been approved in advance by the
