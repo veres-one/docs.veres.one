@@ -3,7 +3,7 @@
 All technologies have a socio-political aspect which, if ignored, can have
 negative repercussions on the Network and society. With this in mind, the
 governance around the Veres One Network is designed to carefully balance the
-needs of all participants while ensuring the long-term viability of the network
+needs of all participants while ensuring the long-term viability of the Network
 for decades to come.
 
 There are three critical communities when it comes to governance on the Veres One
@@ -16,7 +16,7 @@ Governors and the Network participants. Implementation of new features that
 affect the Network require the implicit approval of the Network participants,
 and the explicit approval of both the Board of Governors and the Maintainer,
 making it extremely difficult for any party to make permanent decisions in a
-unilateral fashion.
+unilateral fashion. All parties are check by legal agreements.
 
 ## Node Checks and Balances
 
@@ -53,6 +53,6 @@ Nodes provide checks and balances against the Board of Governors by refusing to
 run software that does not take their needs into account.
 
 The Maintainer provides checks and balances against the Board of Governors
-by refusing to implement mandates in software that respects the needs and
+by refusing to implement mandates in software that undermine the needs and
 preferences of the Network participants or that would be otherwise disruptively
 harmful to the Network.
