@@ -2,7 +2,7 @@
 
 The Veres One Board of Governors Agreement is designed to enable an
 individual to make critical decisions on behalf of the Veres One Project while
-providing idemnity to the individual as long as they are acting in good faith.
+providing indemnity to the individual as long as they are acting in good faith.
 
 There are a number of goals that the Board of Governors agreement is designed
 to achieve:
@@ -13,19 +13,19 @@ to achieve:
  * A member of the Board of Governors must not have a direct financial
    relationship or conflicting interest in the Veres One Maintainer,
    or any of the Accelerators.
- * A member of the Board of Governors is idemnified as long as they
+ * A member of the Board of Governors is indemnified as long as they
    are operating in good faith.
  * Non-time critical Board of Governors decisions are made by consensus.
    Time critical decisions, that if not made may negatively impact the
-   stability of the network, may be made by a 2/3rds majority vote.
+   stability of the Network, may be made by a 2/3rds majority vote.
 
 -------------------
 
 # Veres One Board of Governors Agreement
 
 This Veres One Board of Governors Agreement (this "Agreement") is made
-effective as of 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+effective as of
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 (the "Effective Date"), by and between The Veres One Project of
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 ("Veres One Project") and
@@ -65,7 +65,7 @@ one month or more will result in a material breach of this Agreement.
 
 Board Member acknowledges and accepts that they are to operationalize the
 Veres One Project Vision and Mission. Board Member agrees to not
-substantatively change the Veres One Project Vision and Mission and to
+substantively change the Veres One Project Vision and Mission and to
 approve payments according to the approved funding model in a timely and
 responsible manner.
 
@@ -103,8 +103,8 @@ recorded consent of greater than 2/3rds of the Board of Governors.
 ## TERM/TERMINATION
 
 Board Member's relationship under this Agreement shall be for two years,
-beginning on 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+beginning on
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 (the "Effective Date"). This Agreement may be terminated by The Veres One
 Project upon one month written notice, and by Board Member upon one month
 written notice. If Board Member is in violation of this Agreement, The Veres
@@ -193,4 +193,3 @@ The Veres One Project
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Board Member
-
