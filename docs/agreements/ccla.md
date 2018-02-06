@@ -205,6 +205,5 @@ of the Corporation:
 
 # Schedule B
 
-Optional concurrent softare grants (or bank if there are no current
+Optional concurrent software grants (or bank if there are no current
 software grants):
-
