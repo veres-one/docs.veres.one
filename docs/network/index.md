@@ -1,7 +1,7 @@
 # The Veres One Network
 
-The Veres One Network is a collection of Nodes that maintain the decentralized
-ledger and consists of a number of roles:
+The Veres One Network is a collection participants and consists of a number of
+roles:
 
 * **Entities** (people, organizations, and devices) use the Network to create
   and update decentralized identifiers and their associated metadata.
