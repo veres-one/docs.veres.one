@@ -1,7 +1,8 @@
 # Veres One Network Economics
 
-The Veres One Network is designed to be self-sustaining with a proper balance
-of economic incentives to participate in and protect the network.
+The Veres One Network is designed to be self-sustaining global public
+utility with a proper balance of economic incentives to participate in and
+protect the network.
 
 Network participants may use the Veres One Network to create
 decentralized identifiers via software applications such as digital wallets.
@@ -21,7 +22,7 @@ Identifier will be created.
 
 ## Network Incentives
 
-The Veres One Network attempts to achieve three important goals.
+The Veres One Network attempts to achieve four important goals.
 
 The first goal is to ensure that Decentralized Identifiers are free for
 humanitarian aid use cases.
@@ -36,6 +37,11 @@ but not limited to, how much it costs to run Nodes, maintain the software,
 govern the Network, maintain the community, and other items like environmental
 costs that are often not taken into account when building and deploying a
 Blockchain.
+
+The fourth goal is to keep the costs of, and updates to, decentralized
+identifiers as low as possible. The Veres One Project aims to run a tight
+operation. Network growth should realize economies of scale and result in the
+reduction of Accelerator fees. 
 
 There is an absolute cost for running the network and that requires a steady
 stream of revenue. Accelerators provide this stream of revenue.
