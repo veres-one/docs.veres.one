@@ -27,26 +27,28 @@ _*In order to prevent overcompensation of the Founder, the compensation is
 capped to $25M USD per year in the event that the revenue of the Network
 exceeds $500M per year._
 
-The complete set of initiatives that are funded are ordered below from
-most compensated to least compensated:
+Funds distribution rate are determined on an annual basis and set by the Board
+of Governors. Rates are set based on network needs or previous agreements.
+The complete set of entities that receive funding from Veres One Project revenue
+are ordered below from most compensated to least compensated:
 
  * **Network Nodes** - Network Nodes are compensated for participating in the
    consensus process. There are two types of participation; regular nodes, and
    elector nodes. Elector nodes are compensated more than regular nodes
    because of the greater importance of their role in the Network.
- * **Maintainer** - Blockchain Architectural Services is funded to maintain
-   the Veres One Software and ensure the proper technical operation of the 
-   Network.
- * **Non-profit** - The Veres One Project is funded to support the Board
+ * **Maintainer** - The Maintainer, currently Blockchain Architectural Services,
+   is funded to maintain the Veres One Software and ensure the proper technical
+   operation of the Network.
+ * **Veres One Project** - The Veres One Project is funded to support the Board
    of Governors in [governing](governance.md) the Veres One Network.
    This includes all aspects of supporting communities that
    positively contribute to the Veres One Mission, legal obligations, travel
    and lodging, and investments in promising new technologies that would
-   enable the Veres One Mission.
+   further enable the Veres One Mission.
  * **Open Source and Standards** - Since the Veres One Network depends on the
    availability of non-discriminatory patent-free and royalty-free standards,
-   and because Open Source is a critical component of any public network,
-   a significant portion of Network revenue is set aside for projects that
-   fall into this category.
+   and because royalty-free licenses are a critical component of any public
+   network, a significant portion of Network revenue is set aside for projects
+   that fall into this category.
  * **Founder** - Digital Bazaar is compensated for developing and releasing
-   all of the core technology, governance, and launching the Network.
+   all of the core technology, governance, trademarks, and launching the Network.
