@@ -29,6 +29,6 @@ also focused on identity-related use cases, which protects the network against
 things like currency speculation that negatively impact other blockchains.
 
 Developers need systems that they can depend on long term, which is why the
-Veres One network does not integate a cryptographic currency, currency
-mining, and other destabilizing and energy intensive processes to the 
+Veres One network does not integrate a cryptographic currency, currency
+mining, and other destabilizing and energy intensive processes to the
 blockchain.
