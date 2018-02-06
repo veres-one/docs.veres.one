@@ -372,17 +372,17 @@
         }, 
         {
             "location": "/developers/", 
-            "text": "Developing for Veres One\n\n\nDevelopers may find Veres One useful if they want to attract people and\norganizations that value strong, dependable security as well as control\nand ownership over their identity data.\n\n\nThis section includes the following material that:\n\n\n\n\nDeveloper Benefits\n, and\n\n\nQuickstart Guides\n, and\n\n\nDeveloper APIs", 
+            "text": "Developing for Veres One\n\n\nDevelopers may find Veres One useful if they want to attract people and\norganizations that value strong, dependable security as well as control\nand ownership over their identity data.\n\n\nEven though Veres One is built using blockchain technology, developing\nfor Veres One is as simple as making a call to a website's API.\n\n\nThe following sections are provided to help developers get their mind\nwrapped around Veres One and extending their applications to use \ndecentralized identifiers:\n\n\n\n\nDeveloper Benefits\n, and\n\n\nQuickstart Guides", 
             "title": "Intro"
         }, 
         {
             "location": "/developers/#developing-for-veres-one", 
-            "text": "Developers may find Veres One useful if they want to attract people and\norganizations that value strong, dependable security as well as control\nand ownership over their identity data.  This section includes the following material that:   Developer Benefits , and  Quickstart Guides , and  Developer APIs", 
+            "text": "Developers may find Veres One useful if they want to attract people and\norganizations that value strong, dependable security as well as control\nand ownership over their identity data.  Even though Veres One is built using blockchain technology, developing\nfor Veres One is as simple as making a call to a website's API.  The following sections are provided to help developers get their mind\nwrapped around Veres One and extending their applications to use \ndecentralized identifiers:   Developer Benefits , and  Quickstart Guides", 
             "title": "Developing for Veres One"
         }, 
         {
             "location": "/developers/benefits/", 
-            "text": "Veres One Developer Benefits\n\n\nThere are a number of developer benefits, which are covered below, that\nmake developing for Veres One more enjoyable over other identity blockchains.\n\n\nSimplicity\n\n\nSoftware that is simple tends to be more secure and easier to maintain. The\nless code there is, the less there is to go wrong. The Veres One software\ntakes this design philosophy to heart and focuses on building software\ninterfaces that delight software developers in their simplicity.\n\n\nSecurity\n\n\nVeres One's \"keep it simple\" design philosophy leads to simpler modules with\nsmaller API surfaces, which result in easier to audit code. Code that is\neasier to audit is less prone to having dangerous security vulnerabilities\nover time, which leads to more secure systems.\n\n\nFit for Purpose\n\n\nVeres One is a fit for purpose blockchain build specifically for identity use\ncases. This means that, unlike side chains and other solutions that shoe horn\nidentity into the blockchain, Veres one focuses and optimizes the network for\nidentity-related use cases.\n\n\nThe \ngovernance structure\n of the blockchain is\nalso focused on identity-related use cases, which protects the network against\nthings like currency speculation that negatively impact other blockchains.\n\n\nDevelopers need systems that they can depend on long term, which is why the\nVeres One network does not integate a cryptographic currency, currency\nmining, and other destabilizing and power hungry processes to the blockchain.", 
+            "text": "Veres One Developer Benefits\n\n\nThere are a number of developer benefits, which are covered below, that\nmake developing for Veres One more enjoyable over other identity blockchains.\n\n\nSimplicity\n\n\nSoftware that is simple tends to be more secure and easier to maintain. The\nless code there is, the less there is to go wrong. The Veres One software\ntakes this design philosophy to heart and focuses on building software\ninterfaces that delight software developers in their simplicity.\n\n\nSecurity\n\n\nVeres One's \"keep it simple\" design philosophy leads to simpler modules with\nsmaller API surfaces, which results in easier to audit code. Code that is\neasier to audit is less prone to having dangerous security vulnerabilities\nover time, which leads to more secure systems.\n\n\nFit for Purpose\n\n\nVeres One is a fit for purpose blockchain built specifically for identity use\ncases. This means that, unlike side chains and other solutions that shoe horn\nidentity into the blockchain, Veres one focuses and optimizes the network for\nidentity-related use cases.\n\n\nThe \ngovernance structure\n of the blockchain is\nalso focused on identity-related use cases, which protects the network against\nthings like currency speculation that negatively impact other blockchains.\n\n\nDevelopers need systems that they can depend on long term, which is why the\nVeres One network does not integate a cryptographic currency, currency\nmining, and other destabilizing and energy intensive processes to the \nblockchain.", 
             "title": "Benefits"
         }, 
         {
@@ -397,12 +397,12 @@
         }, 
         {
             "location": "/developers/benefits/#security", 
-            "text": "Veres One's \"keep it simple\" design philosophy leads to simpler modules with\nsmaller API surfaces, which result in easier to audit code. Code that is\neasier to audit is less prone to having dangerous security vulnerabilities\nover time, which leads to more secure systems.", 
+            "text": "Veres One's \"keep it simple\" design philosophy leads to simpler modules with\nsmaller API surfaces, which results in easier to audit code. Code that is\neasier to audit is less prone to having dangerous security vulnerabilities\nover time, which leads to more secure systems.", 
             "title": "Security"
         }, 
         {
             "location": "/developers/benefits/#fit-for-purpose", 
-            "text": "Veres One is a fit for purpose blockchain build specifically for identity use\ncases. This means that, unlike side chains and other solutions that shoe horn\nidentity into the blockchain, Veres one focuses and optimizes the network for\nidentity-related use cases.  The  governance structure  of the blockchain is\nalso focused on identity-related use cases, which protects the network against\nthings like currency speculation that negatively impact other blockchains.  Developers need systems that they can depend on long term, which is why the\nVeres One network does not integate a cryptographic currency, currency\nmining, and other destabilizing and power hungry processes to the blockchain.", 
+            "text": "Veres One is a fit for purpose blockchain built specifically for identity use\ncases. This means that, unlike side chains and other solutions that shoe horn\nidentity into the blockchain, Veres one focuses and optimizes the network for\nidentity-related use cases.  The  governance structure  of the blockchain is\nalso focused on identity-related use cases, which protects the network against\nthings like currency speculation that negatively impact other blockchains.  Developers need systems that they can depend on long term, which is why the\nVeres One network does not integate a cryptographic currency, currency\nmining, and other destabilizing and energy intensive processes to the \nblockchain.", 
             "title": "Fit for Purpose"
         }, 
         {
@@ -417,7 +417,7 @@
         }, 
         {
             "location": "/developers/guides/create-did/", 
-            "text": "Creating a DID on Veres One\n\n\nThis quick Developer Guide will walk you through creating a decentralized\nidentifier using command line tools.\n\n\nRequirements\n\n\n\n\nNode v8.9+\n\n\n\n\nInstall did-client\n\n\nInstall the Decentralized Identifier client by running the following command:\n\n\n npm install did-client\n\n\n\n\nCreate a Decentralized Identifier\n\n\nCreate a Decentralized Identifier on the Veres One Testnet by running the\nfollowing command:\n\n\n ./node_modules/did-client/did create\n\n\n\n\nOnce the command above runs, you will have a new Decentralized Identifier.\nInformation related to your Decentralized Identifier will be stored in the\nfollowing directory:\n\n\n ls $HOME/.did/", 
+            "text": "Creating a DID on Veres One\n\n\nThis quick Developer Guide will walk you through creating a decentralized\nidentifier using command line tools.\n\n\nRequirements\n\n\n\n\nNode v8.9+\n\n\n\n\nInstall did-client\n\n\nInstall the Decentralized Identifier client by running the following command:\n\n\n mkdir did-client\n\n cd did-client\n\n npm install did-client\n\n\n\n\nCreate a Decentralized Identifier\n\n\nCreate a Decentralized Identifier on the Veres One Testnet by running the\nfollowing command:\n\n\n ./node_modules/did-client/did create\n\n\n\n\nOnce the command above runs, you will have a new Decentralized Identifier.\nInformation related to your Decentralized Identifier will be stored in the\nfollowing directory:\n\n\n ls $HOME/.did/", 
             "title": "DID Creation"
         }, 
         {
@@ -432,7 +432,7 @@
         }, 
         {
             "location": "/developers/guides/create-did/#install-did-client", 
-            "text": "Install the Decentralized Identifier client by running the following command:   npm install did-client", 
+            "text": "Install the Decentralized Identifier client by running the following command:   mkdir did-client  cd did-client  npm install did-client", 
             "title": "Install did-client"
         }, 
         {
@@ -442,8 +442,33 @@
         }, 
         {
             "location": "/developers/guides/node-setup/", 
-            "text": "", 
+            "text": "Setting up a Veres One Node\n\n\nThis quick Developer Guide will walk you through setting up and running a\nVeres One Node.\n\n\nRequirements\n\n\n\n\nDocker\n\n\n\n\nDownload Docker\n\n\nDownload and modify the Docker compose file:\n\n\nveres-one-node.yaml\n\n\nRun docker-compose\n\n\nUse the file you downloaded to run docker-compose:\n\n\n docker-compose -f veres-one-node.yaml up\n\n\n\n\nOnce the command above runs, you will be given a URL to connect to. Open\na web browser and go to that address.\n\n\nSetup your Veres One Node\n\n\nTo setup your Veres One Node, you must create a user account on the node.\nThe first account you create will be used to manage the node. When you are\nready to join the Network, click the \"Join the Veres One Network\" button.", 
             "title": "Node Setup"
+        }, 
+        {
+            "location": "/developers/guides/node-setup/#setting-up-a-veres-one-node", 
+            "text": "This quick Developer Guide will walk you through setting up and running a\nVeres One Node.", 
+            "title": "Setting up a Veres One Node"
+        }, 
+        {
+            "location": "/developers/guides/node-setup/#requirements", 
+            "text": "Docker", 
+            "title": "Requirements"
+        }, 
+        {
+            "location": "/developers/guides/node-setup/#download-docker", 
+            "text": "Download and modify the Docker compose file:  veres-one-node.yaml", 
+            "title": "Download Docker"
+        }, 
+        {
+            "location": "/developers/guides/node-setup/#run-docker-compose", 
+            "text": "Use the file you downloaded to run docker-compose:   docker-compose -f veres-one-node.yaml up  Once the command above runs, you will be given a URL to connect to. Open\na web browser and go to that address.", 
+            "title": "Run docker-compose"
+        }, 
+        {
+            "location": "/developers/guides/node-setup/#setup-your-veres-one-node", 
+            "text": "To setup your Veres One Node, you must create a user account on the node.\nThe first account you create will be used to manage the node. When you are\nready to join the Network, click the \"Join the Veres One Network\" button.", 
+            "title": "Setup your Veres One Node"
         }, 
         {
             "location": "/faq/", 
