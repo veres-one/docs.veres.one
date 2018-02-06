@@ -13,13 +13,13 @@ interfaces that delight software developers in their simplicity.
 # Security
 
 Veres One's "keep it simple" design philosophy leads to simpler modules with
-smaller API surfaces, which result in easier to audit code. Code that is
+smaller API surfaces, which results in easier to audit code. Code that is
 easier to audit is less prone to having dangerous security vulnerabilities
 over time, which leads to more secure systems.
 
 # Fit for Purpose
 
-Veres One is a fit for purpose blockchain build specifically for identity use
+Veres One is a fit for purpose blockchain built specifically for identity use
 cases. This means that, unlike side chains and other solutions that shoe horn
 identity into the blockchain, Veres one focuses and optimizes the network for
 identity-related use cases.
@@ -30,4 +30,5 @@ things like currency speculation that negatively impact other blockchains.
 
 Developers need systems that they can depend on long term, which is why the
 Veres One network does not integate a cryptographic currency, currency
-mining, and other destabilizing and power hungry processes to the blockchain.
+mining, and other destabilizing and energy intensive processes to the 
+blockchain.

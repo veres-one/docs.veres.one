@@ -371,7 +371,6 @@ speculative token or cryptocurrency sale mechanism. </td>
 </tr>
 </table>
 
-
 This page is a summary of the current and future developments of the Veres
 One Blockchain. This page is for information purposes only.
 
