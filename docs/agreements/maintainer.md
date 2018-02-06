@@ -1,7 +1,7 @@
 # Veres One Maintainer Agreement Overview
 
 The Veres One Maintainer Agreement is designed to ensure that the organization
-in charge of maintaining the Veres One technology platform does so in a way that
+charged with maintaining the Veres One technology platform does so in a way that
 supports the communities that depend on the ledger as directed by
 The Board of Governors.
 
@@ -33,9 +33,9 @@ Blockchain Architectural Services LLC ("Maintainer" or "Service Provider") of
 
 ## DESCRIPTION OF SERVICES
 
-Beginning on 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
-(the "Effective Date"), Veres One Maintainer will provide to the Veres One 
+Beginning on
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+(the "Effective Date"), Veres One Maintainer will provide to the Veres One
 Project the following services (collectively, the "Services"):
 
 Software design, development, and deployment services as required for the
@@ -61,7 +61,8 @@ problem has been alleviated.
 Service Recipient and Service Provider acknowledge
 and agrees that corrected or replacement Software and associated documentation
 fall under the Veres One Software Licensing Agreement which ensures that
-the system and Veres One Network remain open source, and patent and
+the system and Veres One Network remain under the [Veres One Community Software
+License](https://docs.veres.one/agreements/software/), and patent and
 royalty-free.
 
 ## MODIFICATIONS EXCLUDED
@@ -81,8 +82,8 @@ In consideration of the services to be performed by the
 Service Provider, the Client agrees to compensate the Service Provider for
 the services rendered as follows:
 
-Payment shall be made to Blockchain Architectural Services LLC on a monthly 
-basis per the funding allocation model as determined on a yearly basis by 
+Payment shall be made to Blockchain Architectural Services LLC on a monthly
+basis per the funding allocation model as determined on a yearly basis by
 the Board of Governors.
 Service Provider's fees for the services specified in Paragraph 2, above,
 and for any additional services, will be communicated to the Board of
@@ -254,4 +255,4 @@ By:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Manu Sporny, Managing Director, Blockchain Architectural Services
+Manu Sporny, Managing Director, Blockchain Architectural Services LLC
