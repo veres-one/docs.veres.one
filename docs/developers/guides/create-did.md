@@ -12,6 +12,8 @@ identifier using command line tools.
 Install the Decentralized Identifier client by running the following command:
 
 ```
+> mkdir did-client
+> cd did-client
 > npm install did-client
 ```
 
