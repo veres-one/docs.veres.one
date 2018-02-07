@@ -12,7 +12,7 @@ control who their identity information is shared with and when.
 ## Healthcare
 
 Veres One provides a common platform for disparate entities within the
-healthcare system to to interact with high assurance. Physician licenses,
+healthcare system to interact with high assurance. Physician licenses,
 digital prescriptions, and medical records are just some examples of identity
 data that can be effortlessly verified.
 
@@ -20,15 +20,15 @@ data that can be effortlessly verified.
 ## Financial Services
 
 Banks, credit unions, and other financial institutions benefit from
-stronger identity verification and cost effective know-your - customer
+stronger identity verification and cost effective know-your-customer
 checks, reducing fraud and easing regulatory compliance.
 
 ## Humanitarian
 
 Over one billion people in the world are unable to prove their identity,
-restricting access to financial services, education, and healthcare. Developing
-countries and service organizations can use Veres One to provide a root
-identity enables access services and helps coordinate aid.
+restricting access to financial services, education, and healthcare. By
+providing underserved individuals with a Veres One identifier, developing
+countries and service organizations coordinate the provision of services and aid.
 
 ## Trade
 
@@ -38,6 +38,6 @@ reducing friction in identity management and fraud.
 
 ## Social
 
-Social apps including decentralized social networks, peer to peer messaging,
-and sharing economy apps can benefit from using Veres One. It enables maximum
-user centricity and data portability.
+Social apps such as decentralized social networks, peer to peer messaging,
+and sharing economy apps can benefit from using Veres One. By enabling maximum
+user centricity and data portability open garden platforms can be achieved. 
