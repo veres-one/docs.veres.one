@@ -13,11 +13,6 @@ society. That means everyone deserves the ability create and administer
 unique, globally resolvable identifiers. For that reason, the network is
 global and open to the public; anyone may participate.
 
-This paper summarizes the problem, vision, solution, value proposition,
-network operation, and team. Additional papers will be released in the
-coming months that detail the technical and economic topics introduced in
-this paper.
-
 ## The Problem
 
 To date, every identifier you use online does not belong to you; it
