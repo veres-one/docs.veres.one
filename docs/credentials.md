@@ -18,32 +18,32 @@ Other benefits include reduced risk and easier regulatory compliance.
 
 ## Issuers
 
-Issuers enable organizations to issue digital credentials to customers and 
-employees, who can optionally manage their own information. Organizations no 
+Issuers enable organizations to issue digital credentials to customers and
+employees, who can optionally manage their own information. Organizations no
 longer carry the responsibility of administering their users’ sensitive data.
 
-A digital credential is made tamper-proof through the use of advanced 
+A digital credential is made tamper-proof through the use of advanced
 cryptography. Veres One provides the underpinning identifier and
 cryptography framework that enables issuers to issue credentials to customers.
 
 ## Wallets
 
-Wallets enable people to securely and privately store digital credentials. 
-With digital wallets, one may receive credentials from Issuers and present them 
+Wallets enable people to securely and privately store digital credentials.
+With digital wallets, one may receive credentials from Issuers and present them
 to Verifiers.
 
-Wallets are often cloud-based, work across a variety of devices, and cannot 
-be lost or stolen. Data is portable, enabling one to easily switch from one 
-wallet to another.
+Wallets are often cloud-based, work across a variety of devices, and cannot
+be lost or stolen. Data is portable, enabling the data owner to easily switch
+from one wallet to another.
 
 ## Verifiers
 
-Organizations utilize Verifiers to evaluate the authenticity of digital 
-credentials. Verifiers use advanced cryptography to ensure that digital 
+Organizations and individuals utilize Verifiers to evaluate the authenticity of
+digital credentials. Verifiers use advanced cryptography to ensure that digital
 credentials cannot be easily tampered with or forged.
 
-In some cases, credential Issuers may also be credential Verifiers, like when 
-a retailer issues a digital offer and then later verifies that offer during 
-a purchase. In other cases, the Issuer and Verifier may be separate entities, 
-like when a pharmacy verifies the authenticity of a digital prescription 
+In some cases, credential Issuers may also be credential Verifiers, like when
+a retailer issues a digital offer and then later verifies that offer during
+a purchase. In other cases, the Issuer and Verifier may be separate entities,
+like when a pharmacy verifies the authenticity of a digital prescription
 that was issued by a physician.
