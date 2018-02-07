@@ -28,7 +28,8 @@ checks, reducing fraud and easing regulatory compliance.
 Over one billion people in the world are unable to prove their identity,
 restricting access to financial services, education, and healthcare. By
 providing underserved individuals with a Veres One identifier, developing
-countries and service organizations coordinate the provision of services and aid.
+countries and service organizations can coordinate the provision of services
+and aid.
 
 ## Trade
 
@@ -40,4 +41,4 @@ reducing friction in identity management and fraud.
 
 Social apps such as decentralized social networks, peer to peer messaging,
 and sharing economy apps can benefit from using Veres One. By enabling maximum
-user centricity and data portability open garden platforms can be achieved. 
+user centricity and data portability open garden platforms can be achieved.
