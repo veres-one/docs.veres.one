@@ -1,12 +1,14 @@
 # Why Veres One?
 
+Veres One architects have been involved with the creation of Verifiable Claims and Decentralized Identifiers from the beginning, originating many of the concepts, and have since been deeply engaged with maturing these technologies in groups at the W3C and Rebooting Web of Trust communities.
+
 Veres One is a fit-for purpose blockchain optimized for decentralized identifier management. Its' simplicity and tailored architecture result in a secure, performant, and cost effective identifier ledger.
 
 ## Cost Effective
 
 The fit-for-purpose nature of the the Veres One Blockchain reduces computational overhead and thus reduces the cost of creating and managing decentralized identifiers when compared to popular blockchains like Bitcoin or Ethereum.
 
-The Veres One Network is a mission-driven organization. eliminating the requirement to maximise profit, so costs can be kept to a minimum. As the network grows economies of scale will reduce fees. By not using a network token currency speculation is avoided, ensuring long term cost predictability.
+The Veres One Network is a mission-driven organization. eliminating the requirement to maximize profit, so costs can be kept to a minimum. As the network grows economies of scale will reduce fees. By not using a network token currency speculation is avoided, ensuring long term cost predictability.
 
 ## Secure
 
