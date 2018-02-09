@@ -1,4 +1,4 @@
-# Veres One Individual Contributor Licensing Agreement Overview
+# Veres One Corporate Contributor Licensing Agreement Overview
 
 The Veres One Corporate Contributor Licensing Agreement ensures that
 all contributions of intellectual property to all software that the
