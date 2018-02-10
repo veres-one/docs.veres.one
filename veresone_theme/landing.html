@@ -28,6 +28,10 @@
         <!-- Include all compiled plugins (below), or include individual files as needed -->
         <script src="js/bootstrap.min.js"></script>
         <script src="js/owl.carousel.min.js"></script>
+        <!-- Social media images -->
+        <meta property="og:image" content="img/FacebookPostImage.jpg">
+        <meta name="twitter:image" content="img/FacebookPostImage.jpg">
+        <meta itemprop="image" content="img/FacebookPostImage.jpg">
     </head>
 
     <body>
@@ -41,17 +45,16 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html"><img src="img/logo.png"> Veres One</a>
+                    <a class="navbar-brand" href="index.html"><img src="img/logo-svg.svg"> Veres One</a>
                 </div>
                 <div id="navbar" class="collapse navbar-collapse">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="index.html">Home</a></li>
-                        <li><a href="/about/">About Us</a></li>
-                        <li><a href="/faq/">FAQ</a></li>
-                        <li><a href="/summary/">Docs</a></li>
+                        <li class="active"><a href="/">Home</a></li>
+                        <li><a href="/summary/">Documentation</a></li>
+                        <li><a href="#developers" class="scrollTo">Developers</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="#developers" class="scrollTo">Developers</a></li>
+                        <li><a href="/about/">About Us</a></li>
                     </ul>
                 </div>
                 <!--/.nav-collapse -->
@@ -64,7 +67,7 @@
                 <div class="row">
                     <div class="col-sm-8 col-sm-offset-2 text-center">
                         <a class="logo" href="#">
-                            <img src="img/logo-big.png">
+                            <img src="img/logo-svg.svg">
                             Veres<br>One
                         </a>
                         <h3>A Globally Interoperable Blockchain for Identity</h3>
@@ -77,7 +80,7 @@
             </div>
         </div>
 
-        <section class="grey-new">
+        <section class="grey-new min-height">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
@@ -85,37 +88,70 @@
                         <h2>Decentralized public key infrastructure for interoperable identity management at a global scale, implemented in the most cost effective, secure, and autonomous way possible.</h2>
                     </div>
                 </div>
+                <div class="new-tabs">
+                    <div class="row">
+                        <div class="col-sm-2 col-xs-6">
+                            <a href="#" data-id="1" class="active">
+                                <img src="img/newicons/icons8-money%20(2).svg">
+                                <b>Lower costs</b>
+                            </a>
+                        </div>
+                        <div class="col-sm-2 col-xs-6">
+                            <a href="#" data-id="2">
+                                <img src="img/newicons/icons8-neutral-trading%20(2).svg">
+                                <b>Non-specalutive</b>
+                            </a>
+                        </div>
+                        <div class="clearfix visible-xs"></div>
+                        <div class="col-sm-2 col-xs-6">
+                            <a href="#" data-id="3">
+                                <img src="img/newicons/icons8-mind-map%20(1).svg">
+                                <b>Distributed</b>
+                            </a>
+                        </div>
+                        <div class="col-sm-2 col-xs-6">
+                            <a href="#" data-id="4">
+                                <img src="img/newicons/icons8-security-lock%20(2).svg">
+                                <b>Auditable</b>
+                            </a>
+                        </div>
+                        <div class="clearfix visible-xs"></div>
+                        <div class="col-sm-2 col-xs-6">
+                            <a href="#" data-id="5">
+                                <img src="img/newicons/icons8-invisible%20(2).svg">
+                                <b>Privacy Aware</b>
+                            </a>
+                        </div>
+                        <div class="col-sm-2 col-xs-6">
+                            <a href="#" data-id="6">
+                                <img src="img/newicons/icons8-door-opened%20(2).svg">
+                                <b>Self Administered</b>
+                            </a>
+                        </div>
+                    </div>
+                </div>
                 <div class="row">
-                    <div class="col-sm-6 vcenter">
-                        <h3>Distributed</h3>
-                        <p>There is no central authority. Participants rely on consensus to make writes to the ledger, each preserving their own authority.</p>
-                        <div class="spacer new"></div>
-                        <h3>Tamper-proof and Auditable</h3>
-                        <p>Cryptographic ledgers are immutable; they provide high-integrity, robust, and dependable data, even when accessed when offline.</p>
-                        <div class="spacer new"></div>
-                        <h3>Autonomous</h3>
-                        <p>Veres One aims to maximise user autonomy, a.k.a Self Sovereign Identity, which means that any person or organization in the world can create and control their identifiers, aggregate data about themselves, and determine where that data is stored and who has access.</p>
-                    </div><!--
-                 --><div class="col-sm-5 col-sm-offset-1 hidden-xs vcenter">
-                        <img src="img/slide-2-1.jpg" class="img-responsive">
-                    </div>
-                    <div class="clearfix"></div>
-                    <div class="col-sm-12 visible-xs">
-                        <div style="height: 30px;"></div>
-                    </div>
-                    <div class="clearfix visible-xs"></div>
-                    <div class="col-sm-5 hidden-xs vcenter">
-                        <img src="img/slide-2-2.jpg" class="img-responsive">
-                    </div><!--
-                 --><div class="col-sm-6 col-sm-offset-1 vcenter">
-                        <h3>Low Cost</h3>
-                        <p>An optimized fit-for-purpose blockchain reduces computational overhead and therefore costs. Decentralization and cryptography increases cost sharing and resiliency in the face of failure.</p>
-                        <div class="spacer new"></div>
-                        <h3>Privacy Aware</h3>
-                        <p>User-centric architecture enables a person to reduce the amount of data shared with third parties ; they can selective choose which credentials, or even parts of credentials, are shared with whom.</p>
-                        <div class="spacer new"></div>
-                        <h3>Non-speculative</h3>
-                        <p>Unlike many other blockchain networks Veres One does not use a scarce network token. This removes price volatility as well as regulatory risk.</p>
+                    <div class="col-sm-6 col-sm-offset-3">
+                        <div class="tabs-area">
+                            <div class="tab active">
+                                <p>Decentralization and cryptography increases cost sharing and resiliency in the face of failure as does the optimized fit-for-purpose nature of the Veres One architecture.</p>
+                            </div>
+                            <div class="tab">
+                                <p>Unlike many other blockchain networks Veres One does not use a scarce network token. This removes price volatility as well as regulatory risk.</p>
+                            </div>
+                            <div class="tab">
+                                <p>There is no central authority. Participants rely on consensus to make write to the ledger, each preserving their own authority.</p>
+                            </div>
+                            <div class="tab">
+                                <p>Cryptographic ledgers are immutable; they provide high-integrity, robust, and dependable data, even when accessed when offline.</p>
+                            </div>
+                            <div class="tab">
+                                <p>User-centric architecture enables a person to reduce the amount of data shared with third parties because they can selective choose which credentials, or even parts of credentials, are shared with whom.</p>
+                            </div>
+                            <div class="tab">
+                                <p>Veres One aims to maximise user autonomy. Some call this autonomy Self sovereign identity, which means that any person or organization in the world can create and control their identifiers., aggregate data about themselves, and determine where that data is stored and who has access.</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -161,8 +197,12 @@
 
         <div class="sectors">
             <div class="container">
-                <h1>Sectors</h1>
                 <div class="row">
+                    <div class="col-sm-6 col-sm-offset-3">
+                        <h1>Sectors</h1>
+                        <h2>The Veres One Blockchain can be used across the entire spectrum of identity management</h2>
+                    </div>
+                    <div class="clearfix"></div>
                     <div class="col-sm-4">
                         <img src="img/icons/icons8-museum-red.svg" class="new-icon">
                         <h3>Government</h3>
@@ -218,52 +258,6 @@
             </div>
         </div>
 
-        <!--div class="partners">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-3 col-xs-6">
-                        <img src="img/partners/1.jpg">
-                    </div>
-                    <div class="col-sm-3 col-xs-6">
-                        <img src="img/partners/2.jpg">
-                    </div>
-                    <div class="col-sm-3 col-xs-6">
-                        <img src="img/partners/3.jpg">
-                    </div>
-                    <div class="col-sm-3 col-xs-6">
-                        <img src="img/partners/4.jpg">
-                    </div>
-                </div>
-            </div>
-        </div-->
-
-        <!--div class="books">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-4 col-sm-offset-4">
-                        <a class="book" href="#">
-                            <img src="img/logo.png">
-                            <div class="title">
-                                Veres One
-                                <b>Primer</b>
-                            </div>
-                            <p>The Veres One primer gives you an overview of the network's mission and operations.</p>
-                        </a>
-                    </div>
-                    <!--div class="col-sm-4">
-                        <a class="book" href="#">
-                            <img src="img/logo.png">
-                            <div class="title">
-                                Veres One
-                                <b>White Paper</b>
-                            </div>
-                            <p>The Veres One white paper gets deep into the technical details as well as.</p>
-                        </a>
-                    </div-->
-                </div>
-            </div>
-        </div-->
-
         <div class="how-it-works" id="howitworks">
             <div class="container">
                 <div class="row">
@@ -303,7 +297,7 @@
                                                 <p>Wallet owners gather credentials issued from various third parties and store them in digital wallets. Wallet owners share credentials with verifiers they choose in order to achieve their objective.</p>
                                             </div>
                                             <div class="col-sm-6 col-sm-offset-3">
-                                                <img src="img/Diagram%203_Desktop%20without%20Text.svg" width="100%">
+                                                <img src="img/Diagram%203_Desktop%20without%20Text.svg" style="width:80% !important;">
                                             </div>
                                         </div>
                                     </div>
@@ -313,7 +307,7 @@
                                                 <p>Wallet owners store their digital credentials on their devices for future use..</p>
                                             </div>
                                             <div class="col-sm-6 col-sm-offset-3">
-                                                <img src="img/Digital%20Wallet-Wired.svg" style="width: 50% !important;">
+                                                <img src="img/Digital%20Wallet-Wired.svg" style="width: 70% !important;">
                                             </div>
                                         </div>
                                     </div>
@@ -329,23 +323,8 @@
             <div class="container">
                 <h1>Ecosystem</h1>
                 <div class="ecosystem">
-                    <div class="row">
-                        <div class="col-sm-4">
-                            <div class="icon"><img src="img/icons/icons8-user-groups.svg"></div>
-                            <h2>Veres One Project</h2>
-                            <p>The Veres One Project is a not-for-profit entity that maintains and provides governance for the Veres One Network. It receives revenue from accelerators to pay for maintenance, upgrades, and security of the network.</p>
-                        </div>
-                        <div class="col-sm-4">
-                            <div class="icon"><img src="img/icons/icons8-museum.svg"></div>
-                            <h2>Accelerators</h2>
-                            <p>Accelerators create identifiers on the Veres One Blockchain for customers and compensate the Veres One Project to fund network operations. Anyone may be an accelerator as long as they abide by the accelerator agreement.</p>
-                        </div>
-                        <div class="col-sm-4">
-                            <div class="icon"><img src="img/icons/icons8-mind-map.svg"></div>
-                            <h2>Nodes</h2>
-                            <p>Nodes are responsible for providing compute and storage resources that keep the Network secure. As the system is permissionless, any person or organization may run one or more Nodes. Nodes are compensated by the Veres One Project</p>
-                        </div>
-                    </div>
+                    <img src="img/Veres_One_Ecosystem_Diagram__Desktop1.png" style="max-width: 100%;display:block;margin:auto;" class="hidden-xs">
+                    <img src="img/Veres_One_Ecosystem_Diagram__Mobile1.png" style="max-width: 100%;display:block;margin:auto;margin-top:30px;" class="visible-xs">
                 </div>
             </div>
         </section>
@@ -372,11 +351,12 @@
                 </div>
             </div>
         </div>
-        <div class="developers" style="background: #333;" id="contact">
+        <div class="developers contact" style="background: #333;" id="contact">
+            <div class="img"></div>
             <div class="container">
-                <h1>Contact us</h1>
                 <div class="row">
-                    <div class="col-sm-6 col-sm-offset-3">
+                    <div class="col-sm-6">
+                        <h1>Contact us</h1>
                         <h2 style="opacity: 0.8;font-weight: 300;margin:40px 0px;">Contact us if you have any questions or if you want to participate in the Veres One network.</h2>
                         <h3>contact@veres.one</h3>
                     </div>
@@ -399,7 +379,9 @@
                     loop:true,
                     margin:0,
                     nav:false,
-                    items:1
+                    items:1,
+                    touchDrag: false,
+                    mouseDrag: false
                 })
                 $(".slides-container .left").click(function(e) {
                     e.preventDefault();
@@ -417,6 +399,33 @@
                         scrollTop: $(element).offset().top
                     }, 800);
                 })
+                // Top tabs
+                var index = 1;
+                var interval = setInterval(function() {
+                    index++;
+                    if(index > 6) index = 1;
+                    $(".new-tabs a").removeClass("active");
+                    $(".new-tabs a[data-id="+ index + "]").addClass("active");
+                    $(".tabs-area .tab").removeClass("active");
+                    $(".tabs-area .tab:nth-child("+ index + ")").addClass("active");
+                }, 3000);
+                $(".new-tabs a").click(function(e) {
+                    e.preventDefault();
+                    var index = $(this).data("id");
+                    $(".new-tabs a").removeClass("active");
+                    $(this).addClass("active");
+                    $(".tabs-area .tab").removeClass("active");
+                    $(".tabs-area .tab:nth-child(" + index + ")").addClass("active");
+                    clearInterval(interval);
+                })
+                /* Make the tabs parent maximum size */
+                var maxsize = 0;
+                $(".tabs-area .tab").each(function() {
+                    if($(this).outerHeight() > maxsize) {
+                        maxsize = $(this).outerHeight();
+                    }
+                })
+                $(".tabs-area").css("height", maxsize);
             })
         </script>
 
