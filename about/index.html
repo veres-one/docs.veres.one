@@ -28,10 +28,13 @@
         <script src="../js/bootstrap.min.js"></script>
         <script src="../js/Chart.bundle.js"></script>
         <script src="../js/utils.js"></script>
+        <meta property="og:image" content="../img/FacebookPostImage.jpg">
+        <meta name="twitter:image" content="../img/FacebookPostImage.jpg">
+        <meta itemprop="image" content="../img/FacebookPostImage.jpg">
     </head>
 
     <body>
-       
+
         <nav class="navbar navbar-inverse navbar-fixed-top active">
             <div class="container">
                 <div class="navbar-header">
@@ -45,30 +48,29 @@
                 </div>
                 <div id="navbar" class="collapse navbar-collapse">
                     <ul class="nav navbar-nav">
-                        <li><a href="index.html">Home</a></li>
-                        <li class="active"><a href="about.html">About Us</a></li>
-                        <li><a href="faq.html">FAQ</a></li>
-                        <li><a href="docs.html">Docs</a></li>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/summary/">Documentation</a></li>
+                        <li><a href="/#developers">Developers</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="index.html#developers">Developers</a></li>
+                        <li><li class="active"><a href="/about/">About Us</a></li>
                     </ul>
                 </div>
                 <!--/.nav-collapse -->
             </div>
         </nav>
-        
-        <div class="why-us v2">
+
+        <div class="why-us v2 text-center">
             <div class="container">
                 <h1>About Veres One</h1>
                 <div class="row">
-                    <div class="col-sm-5">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, consequatur sint ea doloremque natus possimus voluptas porro dolore nam architecto.</p>
+                    <div class="col-sm-6 col-sm-offset-3">
+                        <p>Veres One is a secure, privacy preserving and cost effective way for you to own and manage your identity on the Web.</p>
                     </div>
                 </div>
             </div>
         </div>
-        
+
         <div class="sectors v2 governance">
             <div class="container">
                 <h1>Governance</h1>
@@ -97,65 +99,130 @@
                 </div>
             </div>
         </div>
-        
-        <div class="sectors v3 governance">
+
+        <div class="sectors v3 governance" style="min-height: inherit;">
             <div class="container">
                 <h1>Board of Governors </h1>
                 <div class="row">
                     <div class="col-sm-6 col-sm-offset-3">
-                        <h2 style="font-size: 18px;line-height: 1.65;">The Board of governors will consist of at least 7 people, be at least 50% woman, and represent a variety global markets. The Board of Governors will be announced in Q2 of 2018</h2>
+                        <h2 style="font-size: 18px;line-height: 1.65;">The Board of governors will consist of at least 7 people, be gender and culturally balanced, and represent a variety global markets. The Board of Governors will be announced in Q2 of 2018</h2>
                     </div>
                 </div>
             </div>
         </div>
-        
+
         <div class="sectors v3">
             <div class="container">
                 <h1 style="margin-bottom: 40px;">Funds Distribution</h1>
                 <div class="row">
                     <div class="col-sm-8 col-sm-offset-2">
-                        <canvas id="chart"></canvas>
+                        <div id="wrap">
+                            <canvas id="chart"></canvas>
+                            <div class="visible-xs chart-labelos">
+                                <div>
+                                    <div class="color pink"></div>
+                                    Founder ($25M cap/year) - 5%
+                                </div>
+                                <div>
+                                    <div class="color orange"></div>
+                                    Non-profit (Community, Legal) - 23%
+                                </div>
+                                <div>
+                                    <div class="color yellow"></div>
+                                    Open Source &amp; Standards - 6%
+                                </div>
+                                <div>
+                                    <div class="color green"></div>
+                                    Maintainer - 26%
+                                </div>
+                                <div>
+                                    <div class="color blue"></div>
+                                    Network Nodes - 40%
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-        
+
         <script>
             $(document).ready(function() {
-                // Pie chart
-                var config = {
-                    type: 'pie',
-                    data: {
-                        datasets: [{
-                            data: [5, 23, 6, 26, 40],
-                            backgroundColor: [
-                                window.chartColors.red,
-                                window.chartColors.orange,
-                                window.chartColors.yellow,
-                                window.chartColors.green,
-                                window.chartColors.blue,
-                            ],
-                            label: 'Dataset 1'
-                        }],
-                        labels: [
-                            "Founder ($25M cap/year) - 5%",
-                            "Non-Profit (Community, Legal) - 23%",
-                            "Open Source & Standards - 6%",
-                            "Maintainer - 26%",
-                            "Network Nodes - 40%"
-                        ]
-                    },
-                    options: {
-                        responsive: true,
-                        tooltips: false
-                    }
-                };
-                window.onload = function() {
-                    var ctx = document.getElementById("chart").getContext("2d");
-                    window.myPie = new Chart(ctx, config);
-                };
+                if($(window).width() <= 768) {
+                    // Pie chart
+                    var config = {
+                        type: 'pie',
+                        data: {
+                            datasets: [{
+                                data: [5, 23, 6, 26, 40],
+                                backgroundColor: [
+                                    window.chartColors.red,
+                                    window.chartColors.orange,
+                                    window.chartColors.yellow,
+                                    window.chartColors.green,
+                                    window.chartColors.blue,
+                                ],
+                                label: 'Dataset 1'
+                            }],
+                            labels: [
+                                "Founder ($25M cap/year) - 5%",
+                                "Non-Profit (Community, Legal) - 23%",
+                                "Open Source & Standards - 6%",
+                                "Maintainer - 26%",
+                                "Network Nodes - 40%"
+                            ]
+                        },
+                        options: {
+                            responsive: true,
+                            tooltips: false,
+                            legend: {
+                                display: false
+                            }
+                        }
+                    };
+                    window.onload = function() {
+                        var ctx = document.getElementById("chart").getContext("2d");
+                        window.myPie = new Chart(ctx, config);
+                    };
+                } else {
+                    // Pie chart
+                    var config = {
+                        type: 'pie',
+                        data: {
+                            datasets: [{
+                                data: [5, 23, 6, 26, 40],
+                                backgroundColor: [
+                                    window.chartColors.red,
+                                    window.chartColors.orange,
+                                    window.chartColors.yellow,
+                                    window.chartColors.green,
+                                    window.chartColors.blue,
+                                ],
+                                label: 'Dataset 1'
+                            }],
+                            labels: [
+                                "Founder ($25M cap/year) - 5%",
+                                "Non-Profit (Community, Legal) - 23%",
+                                "Open Source & Standards - 6%",
+                                "Maintainer - 26%",
+                                "Network Nodes - 40%"
+                            ]
+                        },
+                        options: {
+                            responsive: true,
+                            tooltips: false,
+                            legend: {
+                                display: true
+                            }
+                        }
+                    };
+                    window.onload = function() {
+                        var ctx = document.getElementById("chart").getContext("2d");
+                        window.myPie = new Chart(ctx, config);
+                    };
+                }
             })
         </script>
-        
+
     </body>
 </html>
