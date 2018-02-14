@@ -1,44 +1,42 @@
 # Veres One Sectors and Applications
 
-Veres One is useful in a variety of industries that have strong requirements
-around identifiers and identities.
+Veres One is well-suited for industries with strong requirements
+surrounding identifiers and identities.
 
 ## Government
 
-Governments can issue digital identification such as driver’s licenses,
-passports, metro passes, food stamp vouchers, or for online voting. Citizens
-control who their identity information is shared with and when.
+Governments may issue digital identifications such as driver’s licenses,
+passports, metro passes, food stamp vouchers, or voting IDs. Credentials
+are issued directly to citizens, enabling them to decide with whom the
+credentials are shared.
 
 ## Healthcare
 
-Veres One provides a common platform for disparate entities within the
-healthcare system to interact with high assurance. Physician licenses,
-digital prescriptions, and medical records are just some examples of identity
-data that can be effortlessly verified.
-
+Veres One provides a common platform on which disparate entities within the
+healthcare system interact with high assurance. Physician licenses,
+digital prescriptions, and medical records are some examples of identity
+data that can be verified.
 
 ## Financial Services
 
 Banks, credit unions, and other financial institutions benefit from
-stronger identity verification and cost effective know-your-customer
-checks, reducing fraud and easing regulatory compliance.
+stronger identity verification and cost-effective know-your-customer
+checks. This reduces fraud and eases regulatory compliance.
 
 ## Humanitarian
 
-Over one billion people in the world are unable to prove their identity,
-restricting access to financial services, education, and healthcare. By
+Over one billion people worldwide are unable to prove their identity. This
+restricts their access to financial services, education, and healthcare. By
 providing underserved individuals with a Veres One identifier, developing
-countries and service organizations can coordinate the provision of services
-and aid.
+countries and service organizations can coordinate outreach and aid.
 
 ## Trade
 
-Trade is a vast and complex segment of the economy consisting of many entities.
-These entities can be more strongly authenticated along entire supply chains,
-reducing friction in identity management and fraud.
+Every trade entity in a complex economy can be more strongly authenticated,
+reducing fraud, friction, and transit time across supply chains.
 
 ## Social
 
-Social apps such as decentralized social networks, peer to peer messaging,
-and sharing economy apps can benefit from using Veres One. By enabling maximum
-user centricity and data portability open garden platforms can be achieved.
+Decentralized social networks, peer-to-peer messaging apps, and sharing economy
+apps benefit from Veres One features such as user centricity and data portability.
+
