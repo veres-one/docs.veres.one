@@ -6,19 +6,21 @@
 	 enable-background="new 198.728 677.25 212.469 263.229" xml:space="preserve">
 <g>
 	<rect x="268.203" y="794.451" fill="none" width="63.353" height="11.525"/>
-	<text transform="matrix(1 0 0 1 270.605 801.8711)" fill="#33CCFF" font-family="'Montserrat-Regular'" font-size="10">Accelerator</text>
+	<text transform="matrix(1 0 0 1 271.6147 801.751)" fill="#33CCFF" font-family="'Raleway-Bold'" font-size="10">Accelerator</text>
 	<rect x="234.601" y="821.008" fill="none" width="39.798" height="11.158"/>
-	<text transform="matrix(1 0 0 1 238.4048 828.4277)" fill="#33CCFF" font-family="'Montserrat-Regular'" font-size="10">Wallet</text>
+	<text transform="matrix(1 0 0 1 238.2808 828.3076)" fill="#33CCFF" font-family="'Raleway-Bold'" font-size="10">Wallet</text>
 	<rect x="349.666" y="714.241" fill="none" width="57.277" height="19.667"/>
-	<text transform="matrix(1 0 0 1 352.2188 721.6611)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Montserrat-Regular'" font-size="10">Veres One</tspan><tspan x="-1.504" y="10" fill="#FFFFFF" font-family="'Montserrat-Regular'" font-size="10">Blockchain</tspan></text>
+	<text transform="matrix(1 0 0 1 353.5195 721.541)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Raleway-Bold'" font-size="10">Veres One</tspan><tspan x="-1.846" y="10" fill="#FFFFFF" font-family="'Raleway-Bold'" font-size="10">Blockchain</tspan></text>
 	<rect x="198.728" y="708.373" fill="none" width="47.773" height="19.547"/>
-	<text transform="matrix(1 0 0 1 199.5405 715.793)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Montserrat-Regular'" font-size="10">Identifier</tspan><tspan x="6.01" y="10" fill="#FFFFFF" font-family="'Montserrat-Regular'" font-size="10">Owner</tspan></text>
+	<text transform="matrix(1 0 0 1 200.98 715.6729)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Raleway-Bold'" font-size="10">Identifier</tspan><tspan x="5.71" y="10" fill="#FFFFFF" font-family="'Raleway-Bold'" font-size="10">Owner</tspan></text>
 	<rect x="232.826" y="736.92" fill="none" width="119.071" height="26.246"/>
-	<text transform="matrix(1 0 0 1 238.2134 742.1143)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Montserrat-Regular'" font-size="7">You go through an Accelerator </tspan><tspan x="5.271" y="8.399" fill="#FFFFFF" font-family="'Montserrat-Regular'" font-size="7">to get a Digital Wallet and a </tspan><tspan x="5.562" y="16.8" fill="#FFFFFF" font-family="'Montserrat-Regular'" font-size="7">unique Veres One Identifier</tspan></text>
-	<rect x="231.751" y="862.716" fill="none" width="121.18" height="16.45"/>
-	<text transform="matrix(1 0 0 1 238.2417 867.9102)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Montserrat-Regular'" font-size="7">You can Provide Proof of Work </tspan><tspan x="2.19" y="8.399" fill="#FFFFFF" font-family="'Montserrat-Regular'" font-size="7">to get a Veres One ID directly</tspan></text>
-	<rect x="272.998" y="903.76" fill="none" width="76.463" height="32.654"/>
-	<text transform="matrix(1 0 0 1 273.4438 908.9541)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Montserrat-Regular'" font-size="7">A private key enables </tspan><tspan x="6.3" y="8.399" fill="#FFFFFF" font-family="'Montserrat-Regular'" font-size="7">a user to uniquely </tspan><tspan x="8.868" y="16.8" fill="#FFFFFF" font-family="'Montserrat-Regular'" font-size="7">authenticae as a </tspan><tspan x="14.738" y="25.199" fill="#FFFFFF" font-family="'Montserrat-Regular'" font-size="7">Veres One ID</tspan></text>
+	<text transform="matrix(1 0 0 1 241.8325 742.0303)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Raleway-Medium'" font-size="7">You go through an Accelerator </tspan><tspan x="4.935" y="8.399" fill="#FFFFFF" font-family="'Raleway-Medium'" font-size="7">to get a Digital Wallet and a </tspan><tspan x="5.82" y="16.8" fill="#FFFFFF" font-family="'Raleway-Medium'" font-size="7">unique Veres One Identifier</tspan></text>
+	<g>
+		<rect x="214.201" y="865.716" fill="none" width="156.098" height="21.19"/>
+		<text transform="matrix(1 0 0 1 237.6011 870.8262)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Raleway-Medium'" font-size="7">You can Provide Proof of Work to </tspan><tspan x="-0.354" y="8.399" fill="#FFFFFF" font-family="'Raleway-Medium'" font-size="7">get a Veres One Identifier directly</tspan></text>
+	</g>
+	<rect x="272.998" y="900.76" fill="none" width="76.463" height="32.654"/>
+	<text transform="matrix(1 0 0 1 275.9116 905.8701)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Raleway-Medium'" font-size="7">A private key enables </tspan><tspan x="5.988" y="8.399" fill="#FFFFFF" font-family="'Raleway-Medium'" font-size="7">a user to uniquely </tspan><tspan x="8.483" y="16.8" fill="#FFFFFF" font-family="'Raleway-Medium'" font-size="7">authenticae as a </tspan><tspan x="2.82" y="25.199" fill="#FFFFFF" font-family="'Raleway-Medium'" font-size="7">Veres One Identifier</tspan></text>
 	<path fill="#33CCFF" d="M390.04,735.95h-24.142c-1.313,0-2.382,1.068-2.382,2.382v5.528c0,1.313,1.068,2.382,2.382,2.382h0.56
 		c0.592-0.506,1.378-0.834,2.374-0.843c0.353-0.421,0.796-0.771,1.358-0.987c0.027-0.056,0.049-0.115,0.078-0.17h-4.37
 		c-0.211,0-0.382-0.171-0.382-0.382v-5.528c0-0.211,0.171-0.382,0.382-0.382h24.142c0.211,0,0.382,0.171,0.382,0.382v5.528
@@ -77,7 +79,7 @@
 		<polygon fill="#FFFFFF" points="319.332,782.54 322.91,786.12 322.063,782.573 322.91,778.962 		"/>
 	</g>
 	<rect x="353.227" y="772.047" fill="none" width="36.412" height="11.256"/>
-	<text transform="matrix(1 0 0 1 358.3906 775.7568)"><tspan x="0" y="0" fill="#33CCFF" font-family="'Montserrat-Regular'" font-size="5">Veres One</tspan><tspan x="-5.15" y="6" fill="#33CCFF" font-family="'Montserrat-Regular'" font-size="5">Identifier 123...</tspan></text>
+	<text transform="matrix(1 0 0 1 359.1816 775.6973)"><tspan x="0" y="0" fill="#33CCFF" font-family="'Raleway-Medium'" font-size="5">Veres One</tspan><tspan x="-4.035" y="6" fill="#33CCFF" font-family="'Raleway-Medium'" font-size="5">Identifier 123...</tspan></text>
 	
 		<line fill="none" stroke="#33CCFF" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="377.852" y1="883.906" x2="377.842" y2="892.947"/>
 	
@@ -269,7 +271,7 @@
 		c0,0.285,0.233,0.518,0.518,0.518s0.518-0.232,0.518-0.518v-1.036C233.491,701.307,233.258,701.073,232.973,701.073
 		L232.973,701.073z M235.562,701.073c-0.285,0-0.518,0.233-0.518,0.518v1.036c0,0.285,0.233,0.518,0.518,0.518
 		c0.285,0,0.518-0.232,0.518-0.518v-1.036C236.08,701.307,235.847,701.073,235.562,701.073L235.562,701.073z"/>
-	<rect x="266.289" y="837.593" fill="none" width="51.088" height="9.294"/>
-	<text transform="matrix(1 0 0 1 284.0684 845.0127)" fill="#FFFDFD" font-family="'Montserrat-Bold'" font-size="10">OR</text>
+	<rect x="266.289" y="838.593" fill="none" width="51.088" height="9.294"/>
+	<text transform="matrix(1 0 0 1 284.6328 845.8926)" fill="#FFFDFD" font-family="'Raleway-Black'" font-size="10">OR</text>
 </g>
 </svg>
