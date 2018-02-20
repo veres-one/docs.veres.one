@@ -150,6 +150,12 @@
     </url>
         
     <url>
+     <loc>https://veres.one//agreements/elector/</loc>
+     <lastmod>2018-02-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>https://veres.one//agreements/software/</loc>
      <lastmod>2018-02-20</lastmod>
      <changefreq>daily</changefreq>

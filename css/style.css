@@ -696,7 +696,7 @@ section.grey-new.min-height h1 {
     right: 0;
     width: 50%;
     height: 100%;
-    background: url('../img/DiasporaShaded.jpg') center no-repeat;
+    background: url('../img/bg2.jpg') center no-repeat;
     background-size: cover;
 }
 .contact form {
@@ -873,7 +873,7 @@ section.grey-new.min-height h1 {
 }
 
 .new-tabs {
-    margin: 40px 0px;
+    margin: 0px 0px;
 }
 .new-tabs a {
     display: block;
@@ -903,7 +903,7 @@ section.grey-new.min-height h1 {
     text-decoration: none;
 }
 .tabs-area {
-    margin-top: 50px;
+    margin-top: 25px;
     position: relative;
     display: block;
 }
