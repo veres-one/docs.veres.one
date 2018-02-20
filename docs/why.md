@@ -22,8 +22,9 @@ speculation, ensuring long-term cost predictability.
 
 ## Secure
 
-The simplicity of the Veres One network means there is a decreased attack
-surface, fewer bugs, and more flexibility for adaptation as the network evolves.
+Thanks to the simplicity of the Veres One network, there is a decreased attack
+surface, there are fewer bugs, and there is more flexibility for adaptation as
+the network evolves.
 
 ## Performant
 
@@ -31,12 +32,12 @@ Consensus throughput/transaction speeds
 
 ## Open
 
-Veres One is based entirely on international web standards, open specifications,
-and has an [ethical license](/agreements/software/).
+Veres One has an [ethical license](/agreements/software/)
+and is based entirely on international web standards and open specifications.
 
 The Veres One Project will always strive to be 100% compliant with the standards
-it uses and will help create new standards where none exist via the W3C and other
-pertinent standards organizations.
+it uses. The Project will help create new standards where none exist via the W3C
+and other standards organizations.
 
 Broad implementation and interoperability can only be achieved if all aspects of
 the system are documented and standardized in a patent-free and royalty-free
@@ -44,7 +45,7 @@ manner while ensuring that the network is properly funded.
 
 All Board Meetings are in the public domain.
 
-## Self Administered Identity
+## Self-Administered Identity
 
 Part of the Veres One mission is to provide an identity infrastructure that
 maximizes autonomy, allowing entities to more fully manage how, when, and with
@@ -78,23 +79,23 @@ privacy is preserved and how easily correlatable your activities are.
 
 ## Non-speculative
 
-Unlike many other blockchain networks Veres One does not use a scarce network
+Unlike many other blockchain networks, Veres One does not use a scarce network
 token. This removes price volatility as well as regulatory risk.
 
-The lack of a cryptocurrency, eliminates currency speculation and ensures
-predictable long term operational costs. Excluding a scarce digital asset as
-part of the core design is key to ensuring the network continues to be what it
-is intended to be, a long-lived and economical public utility for Web identity.
+The lack of a cryptocurrency eliminates currency speculation and ensures
+predictable long-term operational costs. Excluding a scarce digital asset as
+part of the core design is key to ensuring the network continues to be a long-lived
+and economical public utility for Web identity.
 
 ## Good Governance
 
 All blockchains have governance, whether implicit or explicit. The ability to
-change the code may reside with miners, a handful of developers, or with those
-that hold tokens(one token one vote).
+modify code may reside with miners, a handful of developers, or with those
+who hold tokens (one token, one vote).
 
 The Veres One Project has opted to craft governance that is suitable for
 governing a global public utility. To this end, the Veres One Project is a
-mission-driven corporation managed by a Board of Governors that are not
+mission-driven corporation managed by a Board of Governors that is not
 financially tied to any other entities in the network, including Accelerators
 or the Maintainer. The Board of Governors is also diverse in geography, gender,
-and vocational background. Read more about the [Board of Governors](/network/governors/) and Veres One [Governance](/network/governance/)
+and vocational background. Read more about the [Board of Governors](/network/governors/) and Veres One [Governance](/network/governance/).
