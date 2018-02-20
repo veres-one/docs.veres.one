@@ -7,6 +7,9 @@ theme:
   name: 'material'
   custom_dir: veresone_theme
   logo: img/logo-white-24px.png
+  palette:
+    primary: grey
+    accent: indigo
 pages:
     - 'Home': 'index.md'
     - 'Why Veres One': 'why.md'
