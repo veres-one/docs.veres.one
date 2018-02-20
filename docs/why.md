@@ -32,7 +32,7 @@ Consensus throughput/transaction speeds
 ## Open
 
 Veres One is based entirely on international web standards, open specifications,
-and has an [ethical license](https://veres.one/agreements/software/).
+and has an [ethical license](/agreements/software/).
 
 The Veres One Project will always strive to be 100% compliant with the standards
 it uses and will help create new standards where none exist via the W3C and other
@@ -97,4 +97,4 @@ governing a global public utility. To this end, the Veres One Project is a
 mission-driven corporation managed by a Board of Governors that are not
 financially tied to any other entities in the network, including Accelerators
 or the Maintainer. The Board of Governors is also diverse in geography, gender,
-and vocational background. Read more about the [Board of Governors](https://veres.one/network/governors/) and Veres One [Governance](https://veres.one/network/governance/)
+and vocational background. Read more about the [Board of Governors](/network/governors/) and Veres One [Governance](/network/governance/)
