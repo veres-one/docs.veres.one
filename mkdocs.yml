@@ -40,6 +40,7 @@ pages:
         - 'Governor Agreement': 'agreements/governor.md'
         - 'Maintainer Agreement': 'agreements/maintainer.md'
         - 'Accelerator Agreement': 'agreements/accelerator.md'
+        - 'Elector Agreement': 'agreements/elector.md'
         - 'Software License': 'agreements/software.md'
         - 'Individual Contributor Agreement': 'agreements/icla.md'
         - 'Corporate Contributor Agreement': 'agreements/ccla.md'
