@@ -62,7 +62,7 @@ Service Recipient and Service Provider acknowledge
 and agrees that corrected or replacement Software and associated documentation
 fall under the Veres One Software Licensing Agreement which ensures that
 the system and Veres One Network remain under the [Veres One Community Software
-License](https://docs.veres.one/agreements/software/), and patent and
+License](https://veres.one/agreements/software/), and patent and
 royalty-free.
 
 ## MODIFICATIONS EXCLUDED

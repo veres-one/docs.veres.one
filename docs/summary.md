@@ -91,7 +91,7 @@ Potential applications include, but are not limited to portable
 credentials for use in education, healthcare, government, trade, finance,
 and humanitarian efforts. Further information on application sectors can
 be found in:
-[https://docs.veres.one/sectors/](https://docs.veres.one/sectors/)
+[https://veres.one/sectors/](https://veres.one/sectors/)
 
 ## Solution
 
@@ -231,7 +231,7 @@ information related to Use of Funds is outlined later in this document.
 
 The Veres One Blockchain Testnet is available for immediate use with node
 and developer documentation published at
-[https://docs.veres.one/](https://docs.veres.one/). The live network is
+[https://veres.one/](https://veres.one/). The live network is
 slated for a Q1 2018 launch.
 
 ## Team and Community
@@ -376,7 +376,7 @@ its affiliates and Company reserves the right to change, translate,
 modify, add, or remove portions of this page for any reason at any time
 before, during and after the publication of this document by posting
 the amended page at the following location:
-[https://docs.veres.one/summary/](https://docs.veres.one/summary/)
+[https://veres.one/summary/](https://veres.one/summary/)
 
 Unless expressly specified otherwise, the products, services and
 innovations detailed in this document are currently under development and

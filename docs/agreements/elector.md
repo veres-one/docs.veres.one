@@ -4,7 +4,7 @@ The Veres One Elector Agreement is designed to ensure that a healthy
 ecosystem of active Electors exist for the Veres One Network and that
 all participants critical to the operation of the Network are properly funded.
 Learn more about the Electors
-[here](https://docs.veres.one/network/nodes/#electors).
+[here](https://veres.one/network/nodes/#electors).
 
 There are a number of goals that the Elector Agreement is designed to
 achieve:
@@ -12,10 +12,10 @@ achieve:
  * The Elector is a self-directed individual or organization that is granted
    the limited privilege to participate in the creation of blocks on the
    Network by the Veres One Project
-   [Board of Governors](https://docs.veres.one/network/governors/).
+   [Board of Governors](https://veres.one/network/governors/).
  * Electors that destabilize the network are easily detected and their
    privileges on the network are revoked by the
-   [Board of Governors](https://docs.veres.one/network/governors/).
+   [Board of Governors](https://veres.one/network/governors/).
  * Electors are paid for the services they provide as based on
    the [funding model](/network/funding) set by the Board of Governors.
  * Communication between the Board of Governors and the Electors must be
@@ -48,9 +48,9 @@ participating in the creation of blocks on the network.
 ## COMPENSATION
 
 The Elector is compensated by the the Veres One Project based on
-[Network Fees](https://docs.veres.one/network/funding/#fees) collected by
+[Network Fees](https://veres.one/network/funding/#fees) collected by
 Accelerators. The Elector compensation formula is determined by the
-[Board of Governors](https://docs.veres.one/network/governors/).
+[Board of Governors](https://veres.one/network/governors/).
 
 Payments will be made electronically as follows:
 
