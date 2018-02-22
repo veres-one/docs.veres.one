@@ -29,7 +29,7 @@ body, html {
     -webkit-transition: 0.3s ease all;
     -o-transition: 0.3s ease all;
     transition: 0.3s ease all;
-    padding: 10px 0px;
+    padding: 4px 0px;
 }
 .navbar-inverse.active {
     opacity: 1;
@@ -45,7 +45,7 @@ body, html {
     padding-bottom: 0px;
 }
 .navbar-inverse .navbar-brand > img {
-    width: 50px;
+    width: 35px;
     display: inline-block;
     vertical-align: middle;
 }
