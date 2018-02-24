@@ -1,6 +1,7 @@
 site_name: Veres One
 site_url: https://veres.one/
 copyright: Copyright 2018 - The Veres One Project - <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-4.0</a>
+google_analytics: ['UA-114649669-1', 'veres.one']
 extra_css:
     - css/extra.css
 theme:
