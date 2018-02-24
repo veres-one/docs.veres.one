@@ -435,6 +435,10 @@
                 $(".tabs-area").css("height", maxsize);
             })
         </script>
-
+    {% block analytics %}
+      {% if config.google_analytics %}
+        {% include "partials/integrations/analytics.html" %}
+      {% endif %}
+    {% endblock %}
     </body>
 </html>
