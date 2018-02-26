@@ -15,7 +15,7 @@ theme:
     accent: indigo
 pages:
     - 'Home': 'index.md'
-    - 'Why Veres One': 'why.md'
+#    - 'Why Veres One': 'why.md'
     - 'Summary': 'summary.md'
     - 'Credentials': 'credentials.md'
     - 'Sectors': 'sectors.md'
