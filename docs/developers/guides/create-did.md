@@ -5,7 +5,7 @@ identifier using command line tools.
 
 ## Requirements
 
-* [Node v8.9+](https://nodejs.org/en/download/)
+* [Node v8.6+](https://nodejs.org/en/download/)
 
 ## Install did-client
 
