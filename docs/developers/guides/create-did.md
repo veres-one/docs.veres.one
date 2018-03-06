@@ -17,13 +17,13 @@ Install the Decentralized Identifier client by running the following command:
 > npm install did-client
 ```
 
-## Create a Decentralized Identifier
+## Generate a Decentralized Identifier
 
-Create a Decentralized Identifier on the Veres One Testnet by running the
+Generate a Decentralized Identifier on the Veres One Testnet by running the
 following command:
 
 ```
-> ./node_modules/did-client/did create
+> ./node_modules/did-client/did generate --register
 ```
 
 Once the command above runs, you will have a new Decentralized Identifier.
@@ -31,5 +31,5 @@ Information related to your Decentralized Identifier will be stored in the
 following directory:
 
 ```
-> ls $HOME/.did/
+> ls $HOME/.testdid/
 ```
