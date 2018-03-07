@@ -367,7 +367,7 @@
         }, 
         {
             "location": "/developers/guides/create-did/", 
-            "text": "Creating a DID on Veres One\n\n\nThis quick Developer Guide will walk you through creating a decentralized\nidentifier using command line tools.\n\n\nRequirements\n\n\n\n\nNode v8.9+\n\n\n\n\nInstall did-client\n\n\nInstall the Decentralized Identifier client by running the following command:\n\n\n mkdir did-client\n\n cd did-client\n\n npm install did-client\n\n\n\n\nCreate a Decentralized Identifier\n\n\nCreate a Decentralized Identifier on the Veres One Testnet by running the\nfollowing command:\n\n\n ./node_modules/did-client/did create\n\n\n\n\nOnce the command above runs, you will have a new Decentralized Identifier.\nInformation related to your Decentralized Identifier will be stored in the\nfollowing directory:\n\n\n ls $HOME/.did/", 
+            "text": "Creating a DID on Veres One\n\n\nThis quick Developer Guide will walk you through creating a decentralized\nidentifier using command line tools.\n\n\nRequirements\n\n\n\n\nNode v8.6+\n\n\n\n\nInstall did-client\n\n\nInstall the Decentralized Identifier client by running the following command:\n\n\n mkdir did-client\n\n cd did-client\n\n npm install did-client\n\n\n\n\nGenerate a Decentralized Identifier\n\n\nGenerate a Decentralized Identifier on the Veres One Testnet by running the\nfollowing command:\n\n\n ./node_modules/did-client/did generate --register\n\n\n\n\nOnce the command above runs, you will have a new Decentralized Identifier.\nInformation related to your Decentralized Identifier will be stored in the\nfollowing directory:\n\n\n ls $HOME/.testdid/", 
             "title": "DID Creation"
         }, 
         {
@@ -377,7 +377,7 @@
         }, 
         {
             "location": "/developers/guides/create-did/#requirements", 
-            "text": "Node v8.9+", 
+            "text": "Node v8.6+", 
             "title": "Requirements"
         }, 
         {
@@ -386,9 +386,9 @@
             "title": "Install did-client"
         }, 
         {
-            "location": "/developers/guides/create-did/#create-a-decentralized-identifier", 
-            "text": "Create a Decentralized Identifier on the Veres One Testnet by running the\nfollowing command:   ./node_modules/did-client/did create  Once the command above runs, you will have a new Decentralized Identifier.\nInformation related to your Decentralized Identifier will be stored in the\nfollowing directory:   ls $HOME/.did/", 
-            "title": "Create a Decentralized Identifier"
+            "location": "/developers/guides/create-did/#generate-a-decentralized-identifier", 
+            "text": "Generate a Decentralized Identifier on the Veres One Testnet by running the\nfollowing command:   ./node_modules/did-client/did generate --register  Once the command above runs, you will have a new Decentralized Identifier.\nInformation related to your Decentralized Identifier will be stored in the\nfollowing directory:   ls $HOME/.testdid/", 
+            "title": "Generate a Decentralized Identifier"
         }, 
         {
             "location": "/faq/", 

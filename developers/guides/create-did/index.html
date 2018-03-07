@@ -460,8 +460,8 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#create-a-decentralized-identifier" title="Create a Decentralized Identifier" class="md-nav__link">
-    Create a Decentralized Identifier
+  <a href="#generate-a-decentralized-identifier" title="Generate a Decentralized Identifier" class="md-nav__link">
+    Generate a Decentralized Identifier
   </a>
   
 </li>
@@ -664,8 +664,8 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#create-a-decentralized-identifier" title="Create a Decentralized Identifier" class="md-nav__link">
-    Create a Decentralized Identifier
+  <a href="#generate-a-decentralized-identifier" title="Generate a Decentralized Identifier" class="md-nav__link">
+    Generate a Decentralized Identifier
   </a>
   
 </li>
@@ -690,7 +690,7 @@
 identifier using command line tools.</p>
 <h2 id="requirements">Requirements</h2>
 <ul>
-<li><a href="https://nodejs.org/en/download/">Node v8.9+</a></li>
+<li><a href="https://nodejs.org/en/download/">Node v8.6+</a></li>
 </ul>
 <h2 id="install-did-client">Install did-client</h2>
 <p>Install the Decentralized Identifier client by running the following command:</p>
@@ -699,16 +699,16 @@ identifier using command line tools.</p>
 &gt; npm install did-client
 </code></pre>
 
-<h2 id="create-a-decentralized-identifier">Create a Decentralized Identifier</h2>
-<p>Create a Decentralized Identifier on the Veres One Testnet by running the
+<h2 id="generate-a-decentralized-identifier">Generate a Decentralized Identifier</h2>
+<p>Generate a Decentralized Identifier on the Veres One Testnet by running the
 following command:</p>
-<pre><code>&gt; ./node_modules/did-client/did create
+<pre><code>&gt; ./node_modules/did-client/did generate --register
 </code></pre>
 
 <p>Once the command above runs, you will have a new Decentralized Identifier.
 Information related to your Decentralized Identifier will be stored in the
 following directory:</p>
-<pre><code>&gt; ls $HOME/.did/
+<pre><code>&gt; ls $HOME/.testdid/
 </code></pre>
                 
                   
