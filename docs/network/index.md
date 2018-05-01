@@ -17,6 +17,19 @@ roles:
   This includes ensuring the proper execution of the Veres One Project
   mission and managing, collecting, and distributing funds according to
   the funding model.
+* **[Veres One Community Group]** The Veres One Community Group will be run out
+  of the W3C and will do most of the work directing development and management
+  of the Veres One Blockchain. Anyone who cares to show up for
+  Veres One Community Group meetings on a regular basis gets a say. Community
+  Group decisions are made by consensus and sent to the Board of Governors for
+  review.[join the Community Group here](https://www.w3.org/community/veres-one/)
+* **[Board of Advisors]** are selected based on their notable skill set and
+  experience in the identity space. Advisors provide support to the Board and
+  Community Group when their specialty is needed. Advisors are grouped into
+  committees to help the network participant identify Advisors that are best
+  suited to provide input on a particular issue. Since Advisors don't have
+  decision making authority they can have business activities that use the Veres
+  One Network as there is no conflict of interest.
 
 You can learn more about each participant in the network by clicking any of
 the links above.
