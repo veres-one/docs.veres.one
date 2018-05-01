@@ -8,7 +8,7 @@ for decades to come.
 
 There are four critical communities when it comes to governance on the Veres One
 Network: the Veres One Community Group, the [Board of Governors](governors.md),
-the [Nodes](nodes.md) (aka Network participants),and the
+the [Nodes](nodes.md) (aka Network participants), and the
 [Maintainer](maintainer.md).
 
 The Veres One Community Group drives development through a multistakeholder
@@ -58,7 +58,7 @@ The Veres One Community Group is run out of the W3C and does most of the
 work directing the development and management of the Veres One Blockchain.
 Anyone who cares to show up for Veres One Community Group meetings on a regular
 basis gets a say. Minutes of every meeting will be saved in a public repo. You
-can [join the Community Group here](https://www.w3.org/community/veres-one/).,
+can [join the Community Group here](https://www.w3.org/community/veres-one/).
 
 Participants may include representatives of non-profit
 organizations who care about privacy and self-administered identity management
