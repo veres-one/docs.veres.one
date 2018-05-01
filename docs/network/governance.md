@@ -70,7 +70,8 @@ to the Board of Governors for review and voting.
 The Board of Governors is responsible for ensuring the stability of the
 socio-political and economic operation of the Veres One Network.
 
-The Board of Governors must approve decisions made by the community group.
+Decisions made by the community group must be approved by the Board of
+Governors to take effect.
 
 Nodes provide checks and balances against the Board of Governors by refusing to
 run software that does not take their needs into account.
