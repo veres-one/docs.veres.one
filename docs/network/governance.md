@@ -6,10 +6,10 @@ governance around the Veres One Network is designed to carefully balance the
 needs of all participants while ensuring the long-term viability of the Network
 for decades to come.
 
-There are four critical communities when it comes to governance on the Veres One
+There are five critical parties that help govern the Veres One
 Network: the Veres One Community Group, the [Board of Governors](governors.md),
-the [Nodes](nodes.md) (aka Network participants), and the
-[Maintainer](maintainer.md).
+Advisory Committees, the [Nodes](nodes.md)
+(aka Network participants), and the [Maintainer](maintainer.md).
 
 The Veres One Community Group drives development through a multistakeholder
 consensus driven process. The Board of Governors accept or reject Community
@@ -54,26 +54,23 @@ replacement.
 
 ## Veres One Community Group
 
-The Veres One Community Group is run out of the W3C and does most of the
-work directing the development and management of the Veres One Blockchain.
-Anyone who cares to show up for Veres One Community Group meetings on a regular
-basis gets a say. Minutes of every meeting will be saved in a public repo. You
+The W3C Veres One Community Group directs the development and management of
+the Veres One Blockchain. Meetings are open to the public and minutes are
+made available in a public github repository. Anyone
 can [join the Community Group here](https://www.w3.org/community/veres-one/).
 
-Participants may include representatives of non-profit
-organizations who care about privacy and self-administered identity management
-as well as for-profit entities such as Accelerators who utilize the Veres One
-Blockchain to provide services to customers. Community Group decisions are made
-by consensus and sent to the Board of Governors for review.
-
+Participants include representatives of non-profit organizations interested
+in privacy and self-administered identity management as well as for-profit
+entities such as Accelerators who utilize the Veres One Blockchain to provide
+services to customers. Community Group decisions are made by consensus and sent
+to the Board of Governors for review and voting.
 
 ## Board of Governors Checks and Balances
 
 The Board of Governors is responsible for ensuring the stability of the
 socio-political and economic operation of the Veres One Network.
 
-The Board of Governors must approve decisions made by the community group unless
-the decision violates the mission of the Veres One Project.
+The Board of Governors must approve decisions made by the community group.
 
 Nodes provide checks and balances against the Board of Governors by refusing to
 run software that does not take their needs into account.
