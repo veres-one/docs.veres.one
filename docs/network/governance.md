@@ -29,7 +29,7 @@ All parties are held accountable by legal agreements.
 ## Node Checks and Balances
 
 People and organizations run Nodes which are compliant with the open standards
-that are implemented by the Veres One Software. The software itself has
+implemented by the Veres One Software. The software itself has
 checks and balances built in, such as Proof of Work or Accelerator throttling
 to limit Denial of Service attacks, so that no single Node may operate in
 a way that is disruptively harmful to the Network.
@@ -57,7 +57,7 @@ replacement.
 The Veres One Community Group is run out of the W3C and does most of the
 work directing the development and management of the Veres One Blockchain.
 Anyone who cares to show up for Veres One Community Group meetings on a regular
-basis gets a say. Minutes of every meeting will be saved in a public repo. You 
+basis gets a say. Minutes of every meeting will be saved in a public repo. You
 can [join the Community Group here](https://www.w3.org/community/veres-one/).,
 
 Participants may include representatives of non-profit
