@@ -1,1 +1,5 @@
+*.log
+*.py[co]
+*.sw[nop]
+*~
 site
