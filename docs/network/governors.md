@@ -22,6 +22,16 @@ which are announced on the public mailing list.
 
 ## Decisions Making Process
 
+The Board of Governors will not typically set policy, such as setting pricing
+and making technical decisions, for the Veres One Project. Policy will be
+deliberated by the Veres One Community Group. Once consensus is reached
+the Community Group will present a proposal to the Board of Governors for
+review. If the Board of Governors determines that the proposal does not conflict
+with the Mission of the Veres One Project the Board of Governors will approve
+the proposal. If they determine that the proposal does conflict with the Mission
+they will reject the proposal and provide an explanation for the rejection to
+the Community Group.
+
 All non-time sensitive decisions made by the Board of Directors must be made
 by consensus which is defined as general agreement with no principled
 objections.
@@ -38,4 +48,3 @@ a member ends their term, a new member must be chosen by the Board of Governors
 that maintains the diversity of the group. It is suggested that a replacement
 for a Board of Governors position is found and announced six months prior to
 the end of a term.
-
