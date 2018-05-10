@@ -32,14 +32,14 @@ the proposal. If they determine that the proposal does conflict with the Mission
 they will reject the proposal and provide an explanation for the rejection to
 the Community Group.
 
-All non-time sensitive decisions made by the Board of Directors must be made
+All non-time sensitive decisions made by the Board of Governors must be made
 by consensus which is defined as general agreement with no principled
 objections.
 
 Time sensitive decisions may be made by a 2/3rds majority vote, but only after
 exhausting a consensus-based approach.
 
-All decisions made must be publicly recorded and announced.
+All decisions must be publicly announced and recorded.
 
 ## Term Limits
 

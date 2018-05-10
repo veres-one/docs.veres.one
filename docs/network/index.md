@@ -23,7 +23,7 @@ roles:
   repository. Community Group decisions are made by consensus and sent to the
   Board of Governors for review and
   voting. [Join the Community Group here.](https://www.w3.org/community/veres-one/)
-* **Advisory Committees** are comprised of area experts that advise the Board
+* **The Advisory Council** is comprised of area experts that advise the Board
   of Governors and the Veres One Community Group on technical, legal, and
   community matters.
 

@@ -26,7 +26,7 @@ unilateral fashion.
 
 All parties are held accountable by legal agreements.
 
-## Node Checks and Balances
+## Nodes: Checks and Balances
 
 People and organizations run Nodes which are compliant with the open standards
 implemented by the Veres One Software. The software itself has
@@ -39,7 +39,7 @@ the Maintainer by refusing to run software that does not take their needs and
 preferences into account. The Nodes may fork the network if they decide to
 run software with a different purpose in mind.
 
-## Maintainer Checks and Balances
+## Maintainer: Checks and Balances
 
 The Maintainer is responsible for ensuring that the Veres One Software operates
 according to the needs and preferences of the Network participants and the
@@ -52,7 +52,7 @@ The Board of Governors provide checks and balances against the Maintainer by
 being empowered to terminate the Maintainer's contract and hire a
 replacement.
 
-## Veres One Community Group
+## Veres One Community Group: Checks and Balances
 
 The W3C Veres One Community Group directs the development and management of
 the Veres One Blockchain. Meetings are open to the public and minutes are
@@ -62,10 +62,14 @@ can [join the Community Group here](https://www.w3.org/community/veres-one/).
 Participants include representatives of non-profit organizations interested
 in privacy and self-administered identity management as well as for-profit
 entities such as Accelerators who utilize the Veres One Blockchain to provide
-services to customers. Community Group decisions are made by consensus and sent
-to the Board of Governors for review and voting.
+services to customers.
 
-## Board of Governors Checks and Balances
+Community Group decisions are made by consensus and sent
+to the Board of Governors for review and voting. The Board of Governors will
+vote to accept or reject Community Group decisions based on their compliance
+with the Veres One Mission.
+
+## Board of Governors: Checks and Balances
 
 The Board of Governors is responsible for ensuring the stability of the
 socio-political and economic operation of the Veres One Network.
