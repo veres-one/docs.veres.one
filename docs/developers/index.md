@@ -8,7 +8,7 @@ Even though Veres One is built using blockchain technology, developing
 for Veres One is as simple as making a call to a website's API.
 
 The following sections are provided to help developers get their mind
-wrapped around Veres One and extending their applications to use 
+wrapped around Veres One and extending their applications to use
 decentralized identifiers:
 
  * [Developer Benefits](benefits.md), and

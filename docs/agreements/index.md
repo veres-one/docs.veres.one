@@ -21,5 +21,5 @@ to protect the Veres One network:
   that contributions to documentation and source code remain under a
   non-discriminatory, patent-free and royalty-free license.
 
-For more information on each agreement, you may click on any of the links 
+For more information on each agreement, you may click on any of the links
 above to dive deeper into the details.

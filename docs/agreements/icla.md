@@ -1,8 +1,8 @@
 # Veres One Individual Contributor Licensing Agreement Overview
 
-The Veres One Individual Contributor Licensing Agreement ensures that 
-all contributions of intellectual property to all software that the 
-Veres One Project depends on remain available under a non-discriminatory, 
+The Veres One Individual Contributor Licensing Agreement ensures that
+all contributions of intellectual property to all software that the
+Veres One Project depends on remain available under a non-discriminatory,
 patent-free and royalty-free policy. The license is based on the widely used
 [Apache Individual Contributor License Agreement v2](https://www.apache.org/licenses/icla.pdf)
 and has only been modified to specialize the agreement to the Veres One Project.

@@ -41,7 +41,7 @@ Blockchain.
 The fourth goal is to keep the costs of, and updates to, decentralized
 identifiers as low as possible. The Veres One Project aims to run a tight
 operation. Network growth should realize economies of scale and result in the
-reduction of Accelerator fees. 
+reduction of Accelerator fees.
 
 There is an absolute cost for running the network and that requires a steady
 stream of revenue. Accelerators provide this stream of revenue.

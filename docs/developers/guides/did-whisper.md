@@ -44,7 +44,7 @@ Send that URL to the recipient via your preferred channel (email, chat, etc).
 
 If you receive a Whisper URL, to decrypt it, you will need to:
 
-1. [Install a `did-whisper  
+1. [Install a `did-whisper
    client`](https://github.com/digitalbazaar/did-whisper#install) (on the same
    machine that your DID was generated on).
 2. Run `did-whisper decrypt <saved message url>`

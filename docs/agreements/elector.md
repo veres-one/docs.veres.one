@@ -97,8 +97,8 @@ has no right to further inquire into the Electors's other activities.
 The Veres One Project has no right or power to control or otherwise
 interfere with the Elector's mode of effecting performance
 under this Agreement. The Elector's only concern is the operation of their
-Network Node(s) as outlined in this Agreement. Except in extraordinary 
-circumstances and when necessary, the Elector shall perform the Services 
+Network Node(s) as outlined in this Agreement. Except in extraordinary
+circumstances and when necessary, the Elector shall perform the Services
 without direct supervision by the Veres One Project.
 
 ## PROFESSIONAL CAPACITY

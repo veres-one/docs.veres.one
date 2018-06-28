@@ -8,7 +8,7 @@ enable holders to travel between countries.
 Verifiable Credentials are a type of digital credential. They are
 cryptographically secure, privacy-respecting, and automatically verifiable.
 The World Wide Web Consortium is currently undertaking global standards work
-on Verifiable Credentials. 
+on Verifiable Credentials.
 
 Veres One supports these new types of Verifiable Credentials. The Veres One
 system enables more secure and efficient exchange of customer and employee

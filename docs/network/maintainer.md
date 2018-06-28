@@ -16,7 +16,7 @@ global public utility. For this reason the Maintainer
 of the blockchain and the Veres One Project are
 distinctly separate organizations that don't share employees or have any
 financial ties. This separation ensures there is no conflict of interest
-at play in the governance of the Veres One Network. 
+at play in the governance of the Veres One Network.
 
 You can read more on the [Veres One Governance](governance.md) page.
 
