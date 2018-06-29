@@ -653,7 +653,16 @@ section.grey-new.min-height h1 {
     color: #fff;
 }
 .why-us.v2 {
-    background: url('../img/bg.jpg') center no-repeat;
+    /* The image used */
+    background-image: url('../img/bg.jpg');
+
+    /* Set a specific height */
+    min-height: 500px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
 }
 .why-us:after {
