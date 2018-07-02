@@ -212,10 +212,12 @@
                             recognition of his role in bringing the continent
                             online, he was inducted into the inaugural class of
                             the Internet Society’s (ISOC) Internet Hall of Fame.
-                            Kilnam resides in Japan where he teaches at Keio
-                            University. He is Chair of the Internet Association
-                            of Korea as well as Chair of Asia Pacific Advanced
-                            Network.
+
+                            Kilnam is currently Professor Emeritus of Korea
+                            Advanced Institute of Science and Technology
+                            He founded over ten regional and global Internet
+                            organizations, and is currently the chair of Asia
+                            Pacific School on Internet Governance.
                         </p>
                     </div>
                 </div>
@@ -259,19 +261,19 @@
                         <p style="padding: 0px 20px;">
                             Dr. Quaynor established some of Africa’s first
                             Internet connections and played a significant role
-                            in setting up the African Network Operators Group.
-                            Nii has been recognized by the Internet Society for
-                            his many achievements; he was inducted into the
-                            Internet Hall of Fame in 2013.
+                            in setting up the African Network Operators
+                            Group (AfNOG) and African Network Information Centre
+                            (AfriNIC).
 
-                            He is a member of the Internet Governance Forum,
-                            the United Nations Secretary General Advisory Group
-                            on Information and Communications Technology, and
-                            the Chairman of the Ghanaian company Network
-                            Computer Systems. Nii is also member of the ITU
-                            Telecom Board, Chair and of the OAU Internet Task
-                            Force, President of the Internet Society of Ghana,
-                            and member of the Worldbank Infodev TAP.
+                            Nii has been recognized by the Internet Society for
+                            his many achievements; he received Postel award from
+                            IETF in 2007 and was inducted into the Internet Hall
+                            of Fame in 2013. He received the Ethos award from
+                            ICANN in 2015.
+
+                            He is the Chairman of the Ghanaian company Ghana Dot
+                            Com and a Professor of Computer Science at
+                            University of Cape Coast, Ghana.
                     </div>
                     <div class="col-sm-4">
                         <div class="headshot-frame">
@@ -389,17 +391,18 @@
                         </div>
                         <div style="font-size: 20px; font-weight: bolder; padding: 15px 0px;">Paul V. Mockapetris</div>
                         <p style="padding: 0px 20px;">
-                            Paul V. Mockapetris co-invented the Internet Domain
-                            Name System (DNS) in 1983, making the Internet far
+                            Paul V. Mockapetris invented the Internet Domain
+                            Name System (DNS) in 1983, making the internet for
                             more accessible for widespread use. He also
-                            developed the first SMTP email server. Paul has held
-                            a variety of positions over his career including
-                            program manager for networking at the Advanced
-                            Research Projects Agency (ARPA) of the U.S.
-                            Department of Defense as well as chair of the
+                            developed the first SMTP email server.
+
+                            Paul has held a variety of positions over his career
+                            including program manager for networking at the
+                            Advanced Research Projects Agency (ARPA) of the
+                            U.S. Department of Defense as well as chair of the
                             Internet Engineering Task Force (IETF) from 1994 to
-                            1996. Paul is currently a fellow of the Institute of
-                            Electrical and Electronics Engineers (IEEE) and
+                            1996. Paul is currently a fellow of the Institute
+                            of Electrical and Electronics Engineers (IEEE) and
                             chief scientist at ThreatStop. He continues to work
                             on DNS.
                         </p>
@@ -457,6 +460,35 @@
                         </p>
                     </div>
                     <div class="col-sm-4">
+                        <div class="headshot-frame">
+                            <img
+                                class="headshot"
+                                src="../img/avatars/shireen.png"
+                                alt="Shireen Mitchell Picture">
+                        </div>
+                        <div style="font-size: 20px; font-weight: bolder; padding: 15px 0px;">Shireen Mitchell</div>
+                        <p style="padding: 0px 20px;">
+                            Shireen Mitchell is a serial founder, author, social
+                            entrepreneur, nonprofit leader, diversity analyst,
+                            and an award winning technologist.
+
+                            Shireen founded the first organization to focus on
+                            women and girls of color in tech and online access,
+                            Digital Sister/Sistas Inc. She created the first
+                            women of color multimedia management firm (MHG).
+                            Shireen’s most recent projects are Tech Media Swirl
+                            and Stopping Online Violence Against Women. She also
+                            serves as Chair of the National Council of Women's
+                            Organizations.
+
+                            Shireen has been named one of The Most Influential
+                            Women in Technology by Fast Company, DC Tech Titan,
+                            and DC’s Top Ten most influential in social media.
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-4 col-sm-offset-4">
                         <div class="headshot-frame">
                             <img
                                 class="headshot"
