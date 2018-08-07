@@ -31,11 +31,12 @@
 
       }
       .veres-one-logo {
-        width: 200px;
+        width: 100%;
+        max-width: 800px;
       }
     </style>
   </head>
-  <body style="background-color: #0d112b; color: white;">
+  <body style="background-color: white; color: #434343;">
     <div id="q-app">
       <q-layout>
         <q-page-container>
@@ -43,14 +44,10 @@
             <div class="row q-pt-xl">
               <div class="col-1"></div>
               <div class="col-10">
-                <div class="text-center">
-                  <img class="veres-one-logo" src="/img/veres-one.svg" onerror="this.onerror=null; this.src='/img/veres-one.png'">
+                <div class="text-center q-pb-xl veres-one-headline">
+                  <img class="veres-one-logo" src="/img/VeresOneLogoBW-PNG.png">
                 </div>
-                <div class="column q-pb-xl">
-                  <div class="text-center veres-one-headline">Veres</div>
-                  <div class="text-center veres-one-headline" style="line-height: 0.75">One</div>
-                </div>
-                <div class="text-center">
+                <div class="text-center q-pt-xl">
                   Use the Veres One testnet to experiment with using Veres One decentralized identifiers for your app.
                 </div>
                 <div class="text-center q-pt-sm" style="font-size: 12">
@@ -96,7 +93,7 @@
                        > ./node_modules/did-client/did generate --register
                       </div>
                     </div>
-                    <div class="row q-pt-md">
+                    <div class="column q-pt-md">
                       <div>Once the command above runs, you will have a new Decentralized Identifier. Information related to your Decentralized Identifier will be stored in the following directory:</div>
                       <div class="veres-one-code q-pt-md">
                         > ls $HOME/.testdid/
