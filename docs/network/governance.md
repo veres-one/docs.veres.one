@@ -26,6 +26,79 @@ unilateral fashion.
 
 All parties are held accountable by legal agreements.
 
+## Decisions Making Process
+
+The Veres One Project's decision making process is a simple three step
+procedure:
+
+1. *Introduction*: All proposals are introduced in the Veres One Community
+   Group. A proposal may be made either on the mailing list or any public
+   community group teleconference where the transcript of the proposal is
+   sent to the mailing list.
+2. *Consideration*: Proposals are debated in the Veres One Community Group
+   until consensus has been achieved. Members of the Advisory Council and
+   Board of Governors may provide input on a proposal during this time. An
+   individual may determine whether or not consensus has been achieved by
+   asking for "+1" replies of support or "-1" replies of opposition to the
+   proposal. The proposer should attempt to resolve any "-1" replies as those
+   may result in the Board of Governors determining that consensus has not
+   been achieved.
+3. *Ratification*: Once consensus has been achieved, the proposal is sent to
+   the Veres One Board of Governors for an official vote of approval. The
+   Board of Governors is expected to review the proposal to ensure consensus
+   has been achieved and then pass the proposal unless it endangers the
+   Veres One Mission. The final decision is determined by a simple
+   majority vote.
+
+### Community Group
+
+The Veres One Community Group, housed at the W3C, directs the development
+and management of the Veres One Blockchain.
+
+Community Group decisions are made by consensus and sent to the Board of
+Governors for review and voting. Consensus is not meant to mean unanimity
+but "general agreement with very few principled objections". Members of
+the Board of Governors vote to accept or reject Community Group decisions
+based on whether consensus has been achieved and whether the proposal
+supports the Veres One Mission. Meetings are open to the public and
+transcripts are made available through the Veres One website. Anyone can
+join the Veres One Community Group.
+
+### Advisory Council
+
+The Advisory Council is comprised of area experts that advise the Veres
+One Community Group and the Board of Governors on technical, legal, and
+community matters.
+
+Unlike the Board of Governors, the Advisory Council, does not have
+decision making authority and therefore may have business activities that
+utilize the Veres One Blockchain. They are a part of the Veres One
+Community Group and may support or oppose a proposal in that capacity.
+
+### Board of Governors
+
+The Board of Governors is responsible for ensuring the stability of the
+socio-political and economic operation of the Veres One Network and for
+safeguarding the Mission of the Veres One Foundation.
+
+Decisions made by the Community Group must be approved by the Board of
+Governors to take effect. If Community Group proposals are accepted by the
+Board they are sent to Veres One Foundation staff to be implemented. If
+proposals are rejected, Board members who reject proposals reply to the
+community group with a justification for the rejection. In extreme cases,
+if a Board member acts against the Veres One Mission, a proposal may be
+presented to replace the Board member.
+
+Board members may participate as Community Group members by engaging in
+proposal deliberation and supporting or opposing proposals during the
+Consideration phase. Board members can effectively wear two hats, one as a
+Community Group member with a more personal opinion on specific issues and
+the other as a member of the Board of Governors, who acts to protect the
+Mission of the Veres One Project. A member of the Board of Governors can
+speak to the negatives of a specific proposal while voting to pass said
+proposal if it has consensus and does not undermine the Mission of the
+Veres One Foundation.
+
 ## Nodes: Checks and Balances
 
 People and organizations run Nodes which are compliant with the open standards
