@@ -26,16 +26,16 @@ unilateral fashion.
 
 All parties are held accountable by legal agreements.
 
-## Decisions Making Process
+## Decision Making Process
 
 The Veres One Project's decision making process is a simple three step
 procedure:
 
-1. *Introduction*: All proposals are introduced in the Veres One Community
+1. **Introduction**: All proposals are introduced in the Veres One Community
    Group. A proposal may be made either on the mailing list or any public
    community group teleconference where the transcript of the proposal is
    sent to the mailing list.
-2. *Consideration*: Proposals are debated in the Veres One Community Group
+2. **Consideration**: Proposals are debated in the Veres One Community Group
    until consensus has been achieved. Members of the Advisory Council and
    Board of Governors may provide input on a proposal during this time. An
    individual may determine whether or not consensus has been achieved by
@@ -43,7 +43,7 @@ procedure:
    proposal. The proposer should attempt to resolve any "-1" replies as those
    may result in the Board of Governors determining that consensus has not
    been achieved.
-3. *Ratification*: Once consensus has been achieved, the proposal is sent to
+3. **Ratification**: Once consensus has been achieved, the proposal is sent to
    the Veres One Board of Governors for an official vote of approval. The
    Board of Governors is expected to review the proposal to ensure consensus
    has been achieved and then pass the proposal unless it endangers the
