@@ -1,5 +1,4 @@
-
-  <!-- Author: Filip Todorov www.filiptodorov.com -->
+<!-- Author: Filip Todorov www.filiptodorov.com -->
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -235,6 +234,16 @@
                             Mishi is a technology lawyer with a focus on digital
                             freedom. She practices in New York and New Delhi.
                             Mishi has over fifteen years of substantive law
+<<<<<<< HEAD
+                            experience in various areas including: developing
+                            and executing intellectual property rights
+                            protection strategy, particularly open source
+                            software licensing, data protection, privacy, export
+                            control compliance, domain names, big data, ethics,
+                            and recently GDPR.
+
+                            In 2010, Mish founded the Software Freedom Law
+=======
                             experience in various areas related to developing
                             and executing intellectual property rights
                             protection strategy. More specifically, she focuses
@@ -243,6 +252,7 @@
                             big data, ethics, and recently GDPR.
 
                             In 2010, Mishi founded the Software Freedom Law
+>>>>>>> 2b9d26c557444f9adbc458a831a36d57c99fa23b
                             Center India (SFLC.in), a legal organization that
                             advances digital rights through strategic
                             litigation, policy, and advocacy in India. Under her

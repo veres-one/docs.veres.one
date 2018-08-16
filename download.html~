@@ -1,0 +1,130 @@
+<html>
+  <head>
+    <title>Download</title>
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/quasar-extras@2.0.2/material-icons/material-icons.css">
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/quasar-framework@0.15.15/dist/umd/quasar.mat.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.5.16/dist/vue.min.js"></script>
+    <script src="https://unpkg.com/quasar-framework@0.15.15/dist/umd/quasar.mat.umd.min.js"></script>
+    <style>
+      .veres-one-headline {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 60px;
+        font-weight: bold;
+      }
+      .veres-one-section {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 26px;
+        font-weight: bold;
+        color: #f12545;
+      }
+      .veres-one-heading {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 22px;
+        font-weight: bold;
+      }
+      .veres-one-code {
+        font-family: 'Roboto Mono', monospace;
+        font-size: 12px;
+
+      }
+      .veres-one-logo {
+        width: 100%;
+        max-width: 800px;
+      }
+    </style>
+  </head>
+  <body style="background-color: white; color: #434343;">
+    <div id="q-app">
+      <q-layout>
+        <q-page-container>
+          <q-page>
+            <div class="row q-pt-xl">
+              <div class="col-1"></div>
+              <div class="col-10">
+                <div class="text-center q-pb-xl veres-one-headline">
+                  <img class="veres-one-logo" src="/img/VeresOneLogoBW-PNG.png">
+                </div>
+                <div class="text-center q-pt-xl">
+                  Use the Veres One testnet to experiment with using Veres One decentralized identifiers for your app.
+                </div>
+                <div class="text-center q-pt-sm" style="font-size: 12">
+                  Download does not grant license, for testing purposes only
+                </div>
+                <div class="text-center q-pt-md q-pb-xl">
+                  <!-- Zip is located in img directory so that server can resolve its location on disk -->
+                  <a href="/img/veres-one.zip">
+                    <q-btn color="primary" icon="arrow_downward" label="Download the Veres One software" />
+                  </a>
+                </div>
+                <div class="row">
+                  <div class="col-2"></div>
+                  <div class="col-8">
+                    <div class="text-center q-py-xl">
+                      The following quickstart guide walks you through developing for different parts of the Veres One Ecosystem:
+                    </div>
+                    <div class="row veres-one-section q-pb-md">
+                      Creating a DID on Veres One
+                    </div>
+                    <div class="row q-pb-lg">
+                      This quick Developer Guide will walk you through creating a decentralized identifier using command line tools.
+                    </div>
+                    <div class="column q-py-md">
+                      <div class="veres-one-heading">Requirements</div>
+                      <ul><li>Node v8.6+</li></ul>
+                    </div>
+                    <div class="column q-py-lg">
+                      <div class="veres-one-heading">Install did-client</div>
+                      <div class="q-pt-md">Install the Decentralized Identifier client by running the following command:</div>
+                      <div class="veres-one-code q-pt-md">
+                        > mkdir did-client<br/>
+                        > cd did-client<br/>
+                        > npm install did-client<br/>
+                      </div>
+                    </div>
+                    <div class="column q-py-lg">
+                      <div class="veres-one-heading">Generate a Decentralized Identifier</div>
+                      <div class="q-pt-md">
+                        Generate a Decentralized Identifier on the Veres One Testnet by running the following command:
+                      </div>
+                      <div class="veres-one-code q-pt-md">
+                       > ./node_modules/did-client/did generate --register
+                      </div>
+                    </div>
+                    <div class="column q-pt-md">
+                      <div>Once the command above runs, you will have a new Decentralized Identifier. Information related to your Decentralized Identifier will be stored in the following directory:</div>
+                      <div class="veres-one-code q-pt-md">
+                        > ls $HOME/.testdid/
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-2"></div>
+                </div>
+              </div>
+              <div class="col-1"></div>
+            </div>
+          </q-page>
+        </q-page-container>
+        <footer class="q-py-xl">
+          <div class="text-center">
+            Copyright &copy; 2018 - The Veres One Project - CC-BY-4.0
+          </div>
+        </footer>
+      </q-layout>
+    </div>
+  </body>
+  <script>
+    var BRAND_COLOR = '#f12545';
+
+    Quasar.utils.colors.setBrand('primary', BRAND_COLOR);
+
+    new Vue({
+      el: '#q-app',
+      data: function () {
+        return {}
+      },
+      methods: {}
+    })
+  </script>
+</html>
