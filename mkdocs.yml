@@ -13,6 +13,12 @@ theme:
   palette:
     primary: grey
     accent: indigo
+plugins:
+  - exclude:
+      glob:
+        - '*~'
+        - '*.py[co]'
+        - '*.sw[nop]'
 pages:
     - 'Home': 'index.md'
 #    - 'Why Veres One': 'why.md'
