@@ -12,7 +12,7 @@ identifier using command line tools.
 Node v12 support will be added in the upcoming v0.5 release.
 
 ## Install did-cli
-did-cli is a command line tool that allows the user to interact with the
+`did-cli` is a command line tool that allows the user to interact with the
 Veres One ledger. See the [README](https://github.com/digitalbazaar/did-cli) for
 a full list of supported command line options.
 
