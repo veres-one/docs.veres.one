@@ -5,16 +5,23 @@ identifier using command line tools.
 
 ## Requirements
 
-* [Node v8.6+](https://nodejs.org/en/download/)
+* [Node.js v8.6+ and Node.js v10.x](https://nodejs.org/en/download/).  
 
-## Install did-client
+### Coming Soon
 
-Install the Decentralized Identifier client by running the following command:
+Node v12 support will be added in the upcoming v0.5 release.
+
+## Install did-cli
+did-cli is a command line tool that allows the user to interact with the
+Veres One ledger. See the [README](https://github.com/digitalbazaar/did-cli) for
+a full list of supported command line options.
+
+Install the Decentralized Identifier CLI tool by running the following command:
 
 ```
-> mkdir did-client
-> cd did-client
-> npm install did-client
+> mkdir did-cli
+> cd did-cli
+> npm install did-cli
 ```
 
 ## Generate a Decentralized Identifier
@@ -23,7 +30,7 @@ Generate a Decentralized Identifier on the Veres One Testnet by running the
 following command:
 
 ```
-> ./node_modules/did-client/did generate --register
+> ./node_modules/did-cli/did generate --register
 ```
 
 Once the command above runs, you will have a new Decentralized Identifier.
@@ -31,5 +38,5 @@ Information related to your Decentralized Identifier will be stored in the
 following directory:
 
 ```
-> ls $HOME/.testdid/
+> ls $HOME/.dids/veres/test
 ```
