@@ -9,7 +9,7 @@ identifier using command line tools.
 
 ### Coming Soon
 
-Node v12 support will be added in the upcoming v0.5 release.
+Node.js v12 support will be added in the upcoming v0.5 release.
 
 ## Install did-cli
 `did-cli` is a command line tool that allows the user to interact with the
