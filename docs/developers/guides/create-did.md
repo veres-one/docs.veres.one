@@ -5,7 +5,7 @@ identifier using command line tools.
 
 ## Requirements
 
-* [Node.js v8.6+ and Node.js v10.x](https://nodejs.org/en/download/).  
+* [Node.js v8.6+ or Node.js v10.x](https://nodejs.org/en/download/).
 
 ### Coming Soon
 
