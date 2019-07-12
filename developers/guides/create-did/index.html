@@ -423,11 +423,24 @@
     Requirements
   </a>
   
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#coming-soon" title="Coming Soon" class="md-nav__link">
+    Coming Soon
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
-  <a href="#install-did-client" title="Install did-client" class="md-nav__link">
-    Install did-client
+  <a href="#install-did-cli" title="Install did-cli" class="md-nav__link">
+    Install did-cli
   </a>
   
 </li>
@@ -653,11 +666,24 @@
     Requirements
   </a>
   
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#coming-soon" title="Coming Soon" class="md-nav__link">
+    Coming Soon
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
-  <a href="#install-did-client" title="Install did-client" class="md-nav__link">
-    Install did-client
+  <a href="#install-did-cli" title="Install did-cli" class="md-nav__link">
+    Install did-cli
   </a>
   
 </li>
@@ -691,25 +717,30 @@
 identifier using command line tools.</p>
 <h2 id="requirements">Requirements</h2>
 <ul>
-<li><a href="https://nodejs.org/en/download/">Node v8.6+</a></li>
+<li><a href="https://nodejs.org/en/download/">Node.js v8.6+ or Node.js v10.x</a>.</li>
 </ul>
-<h2 id="install-did-client">Install did-client</h2>
-<p>Install the Decentralized Identifier client by running the following command:</p>
-<pre><code>&gt; mkdir did-client
-&gt; cd did-client
-&gt; npm install did-client
+<h3 id="coming-soon">Coming Soon</h3>
+<p>Node.js v12 support will be added in the upcoming v0.5 release.</p>
+<h2 id="install-did-cli">Install did-cli</h2>
+<p><code>did-cli</code> is a command line tool that allows the user to interact with the
+Veres One ledger. See the <a href="https://github.com/digitalbazaar/did-cli">README</a> for
+a full list of supported command line options.</p>
+<p>Install the Decentralized Identifier CLI tool by running the following command:</p>
+<pre><code>&gt; mkdir did-cli
+&gt; cd did-cli
+&gt; npm install did-cli
 </code></pre>
 
 <h2 id="generate-a-decentralized-identifier">Generate a Decentralized Identifier</h2>
 <p>Generate a Decentralized Identifier on the Veres One Testnet by running the
 following command:</p>
-<pre><code>&gt; ./node_modules/did-client/did generate --register
+<pre><code>&gt; ./node_modules/did-cli/did generate --register
 </code></pre>
 
 <p>Once the command above runs, you will have a new Decentralized Identifier.
 Information related to your Decentralized Identifier will be stored in the
 following directory:</p>
-<pre><code>&gt; ls $HOME/.testdid/
+<pre><code>&gt; ls $HOME/.dids/veres/test
 </code></pre>
                 
                   
